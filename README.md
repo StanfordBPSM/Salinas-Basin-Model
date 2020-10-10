@@ -1,6 +1,6 @@
 # Salinas Basin Model
 
-Salinas Basin features at least seven oil fields containing over half a billion barrels of recoverable oil. This is a 3D model of the Salinas Basin, California. It was constructed by Dr. Tess Menoti for her dissertation with to understand the effect of strike-slip tectonism on the petroleum system and the diagenesis of the Miocene Monterey Formation.
+Salinas Basin features at least seven oil fields containing over half a billion barrels of recoverable oil. This is a 3D model of the Salinas Basin, California. It was constructed by Dr. Tess Menoti for her dissertation to understand the effect of strike-slip tectonism on the petroleum system and the diagenesis of the Miocene Monterey Formation.
 
 Model results exemplify potential implications for inclusion of strike-slip fault motion in basin models, such as formation of alternative migration pathways through time and mixing of petroleum from multiple sources in the same accumulation.
 
