@@ -1,0 +1,14 @@
+c
+c Lithology Main Groups
+c
+Head   | No |       Name       |
+Key    | ID |       Name       |
+Stop----------------------------
+Format | %d |        %s        |
+Flag   | 2  |        2         |
+c-------------------------------
+Data   | 52 | SALINAS          |
+Data   | 56 | SalinasSynth2013 |
+Data   | 55 | SALINAS_4        |
+Data   | 54 | SALINAS_1        |
+Data   | 53 | SALINAS_3D       |

@@ -1,0 +1,22 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Time_Del",701.000000,-56579,"ShallowMarine"
+	"Time_Mohn",811.000000,-16723366,"ShallowMarine"
+	"Time_MMio",938.000000,-41168,"ShallowMarine"
+	"Bsmt",945.000000,-65536,"ShallowMarine"
+	"TD",964.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

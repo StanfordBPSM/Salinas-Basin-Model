@@ -1,0 +1,10 @@
+c
+c Global Unconformities
+c
+Head   | ID | Unconf. Name |         Full Name         | Rock Unit | Top Age | Color  |
+Key    | ID |     Name     |         FullName          | RockUnit  |  Order  | Color  |
+Stop-----------------------------------------------------------------------------------
+Format | %d |      %s      |            %s             |    %s     |  %6.4f  |  %3d   |
+Flag   | 2  |      0       |             0             |     0     |    0    |   0    |
+c--------------------------------------------------------------------------------------
+Data   |  1 | LMU          | Late Miocene Unconformity | Monterey  |  8.0000 | -65536 |

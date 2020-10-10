@@ -1,0 +1,45 @@
+6-30-14. Includes RRF facies, and II-S.
+6-26-14.  Cooler HF.  (Like 1D models, like 05321651-f.)
+6-22-14. Copied 003_ROT_TECLK_SALINAS, adjusted SR maps so they do not apply SR facies just to HVT and AST.  REGRIDDED this model to: Grid resolution: X: 140; Y: 99 [Grid point distances: X: 1000; Y: 500].
+Old res was ridiculous: one cell was 150 m by 150 m!
+
+6-16-14. Copied 02_ROT_TECLK_SALINAS-07_RRF, and applied weathered basement properties as defined in "...06...WeathBsmt" model.  Added Luisian source rocks and tagged with new kinetics labeled "Hames".  Added SAMG maps with shazam lines.
+
+5-30-13. Defining RRF (OPEN- SANDSTONE) on facies maps prior to eliminating sublayers, and instead using layer splitting. Also eliminated any carriers in Luis or Mohn, and decrease cap pressure in SaMg and PaRic by using Siltstone, and split layers to give high resolution to opal-ct layers.
+Also redefined Monterey siliceous facies: opal-CT phase has Siltstone perm. quartz phase has Siltstone perm, ShaleOCT porosity, Sandstone Seal properties (Cap Press), Fracture Limit of 80%.
+5-21-13. Type II Behar kinetics, Siltstone Vaq, OpalCT.  Defined separate facies for each field. *Use as Pre-Split model.*
+5-17-13. Fixed missing reservoirs problem! (eliminated fake carriers)  Type II Behar kinetics.  Sim'd on Hikurangi as bkp model and copied over results folders into original SALINAS project.  
+4-14-13. Added fake carriers stratigraphically close to reservoirs. (Hybrid mig).
+4-13-13. TecLink model. v2012.2. W/ SR tracking. No PWD map for 18.5Ma.
+Origin: 1761000, 542500 
+X range: 140000 (width, m)
+Y range: 49000 (height, m)
+Grid resolution: X: 932; Y: 330
+[Grid point distances: X: 150; Y: 149]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

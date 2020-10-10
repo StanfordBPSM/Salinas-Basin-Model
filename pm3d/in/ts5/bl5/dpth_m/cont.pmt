@@ -1,0 +1,62 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |                                    Name                                    |
+Key    |  ID  | Level |                                 NameInTree                                 |
+Stop------------------------------------------------------------------------------------------------
+Format | %4d  |  %2d  |                                     %s                                     |
+Flag   |  0   |   0   |                                     0                                      |
+c---------------------------------------------------------------------------------------------------
+Data   |  485 |     1 | 02_ROT_MER_SALINAS-ROT55_06_E_MOHN_SEAL-Depth-7.300Ma.DAT                  |
+Data   |  484 |     1 | 02_ROT_MER_SALINAS-ROT55_06_E_MOHN-Depth-7.300Ma.DAT                       |
+Data   |  483 |     1 | 02_ROT_MER_SALINAS-ROT55_05b_E_OilFieldKC_30PercFromLuis-Depth-7.300Ma.DAT |
+Data   |  482 |     1 | 02_ROT_MER_SALINAS-ROT55_05_E_LUIS_SEAL-Depth-7.300Ma.DAT                  |
+Data   |  481 |     1 | 02_ROT_MER_SALINAS-ROT55_05_E_LUIS-Depth-7.300Ma.DAT                       |
+Data   |  480 |     1 | 02_ROT_MER_SALINAS-ROT55_04_E_RELIZ-Depth-7.300Ma.DAT                      |
+Data   |  479 |     1 | 02_ROT_MER_SALINAS-ROT55_03_E_SAUC-Depth-7.300Ma.DAT                       |
+Data   |  478 |     1 | 02_ROT_MER_SALINAS-ROT55_02_E_VAQ-Depth-7.300Ma.DAT                        |
+Data   |  477 |     1 | 02_ROT_MER_SALINAS-ROT55_01_E_BSMT_700X747-Depth-7.300Ma.DAT               |
+Data   |  476 |     1 | 02_ROT_MER_SALINAS-ROT55_00_E_BSMT-BASE_7-3Ma                              |
+Data   |  475 |     1 | 02_ROT_MER_SALINAS-ROT55_06b_E_OilFieldRes_700x747-Depth-7.300Ma.DAT       |
+Data   |  875 |     1 | 06_MOHN_1                                                                  |
+Data   |  876 |     1 | 06_MOHN_2                                                                  |
+Data   |  877 |     1 | 06_MOHN_3                                                                  |
+Data   |  878 |     1 | 06_MOHN_4                                                                  |
+Data   |  879 |     1 | 06_MOHN_5                                                                  |
+Data   |  880 |     1 | 06_MOHN_6                                                                  |
+Data   |  881 |     1 | 06_MOHN_7                                                                  |
+Data   |  882 |     1 | 06_MOHN_8                                                                  |
+Data   |  883 |     1 | 06_MOHN_9                                                                  |
+Data   |  944 |     1 | 06b_MOHNOIL-FIELDSup_1                                                     |
+Data   |  945 |     1 | 06b_MOHNOIL-FIELDSup_2                                                     |
+Data   |  946 |     1 | 06b_MOHNup_1                                                               |
+Data   |  947 |     1 | 06b_MOHNup_2                                                               |
+Data   |  948 |     1 | 06b_MOHN-SEAL                                                              |
+Data   |  949 |     1 | 06b_MOHNOIL-FIELDSlo                                                       |
+Data   |  950 |     1 | 06b_MOHNOIL-FIELDSlo_1                                                     |
+Data   |  951 |     1 | 06b_MOHNOIL-FIELDSlo_2                                                     |
+Data   |  952 |     1 | 06b_MOHNlo                                                                 |
+Data   |  953 |     1 | 06b_MOHNlo_1                                                               |
+Data   |  954 |     1 | 06b_MOHNlo_2                                                               |
+Data   |  955 |     1 | 06b_MOHNlo_3                                                               |
+Data   |  956 |     1 | 06b_MOHNlo_4                                                               |
+Data   |  957 |     1 | 06b_MOHNlo_5                                                               |
+Data   |  958 |     1 | 06b_MOHNlo_6                                                               |
+Data   |  995 |     1 | 05_LUIS_1                                                                  |
+Data   |  996 |     1 | 05_LUIS_2                                                                  |
+Data   |  997 |     1 | 05_LUIS_3                                                                  |
+Data   |  998 |     1 | 05_LUIS_4                                                                  |
+Data   |  999 |     1 | 05_LUIS_5                                                                  |
+Data   | 1000 |     1 | 05_LUIS_6                                                                  |
+Data   | 1001 |     1 | 05_LUIS_7                                                                  |
+Data   | 1002 |     1 | 05_LUIS_8                                                                  |
+Data   | 1003 |     1 | 05_LUIS_9                                                                  |
+Data   | 1036 |     1 | 05b_LUISOIL-FIELD_1                                                        |
+Data   | 1037 |     1 | 05b_LUIS                                                                   |
+Data   | 1038 |     1 | 05b_LUIS_1                                                                 |
+Data   | 1039 |     1 | 05b_LUIS_2                                                                 |
+Data   | 1040 |     1 | 05b_LUIS_3                                                                 |
+Data   | 1041 |     1 | 05b_LUIS_4                                                                 |
+Data   | 1042 |     1 | 05b_LUIS_5                                                                 |
+Data   | 1043 |     1 | 05b_LUIS_6                                                                 |
+Data   | 1262 |     1 | 01_BSMT                                                                    |

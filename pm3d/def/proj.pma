@@ -1,0 +1,76 @@
+Oeve                10                  10                  
+Opor                0                   
+Oori                1                   
+Odim                3                   
+Opbo                1                   
+Omig1               1                   
+Osid                1                   
+Oulp                1                   
+Omob                0                   
+Osam                1                    1
+Orun                0                   
+Ooru                1                   
+Owtp                0                   
+Ortd                0                    2.01
+Ooco                1                   
+Oape                0                   
+Opar                1                   
+Tfltp               1                   
+Tradi               1                   
+Trisk               0                   
+Ock1                1                   
+Ocal                0                   
+Orrn                0                   
+Oeos                1                   
+Oshi                1                   
+Oemo                0                    None None
+Ofref               0                   
+Ovec                0                   
+Oexp                1                   
+Opce                0                   
+Ompa                0                   
+Oxcp                2                   
+Oycp                2                   
+Ozcp                2                   
+Oocp                0                   
+Ofme                0                   
+Oncp                10                  
+Oacp                10                  
+Ohfx                0                   
+Ofns                0                   
+Ocrac               1                   
+Oktp                0                   
+Owpn                1                   
+Opvo                0                   
+Obdg                0                   
+ObdgT1              323.15              
+ObdgSig             10                  
+ObdgPPT             353.15              
+ObdgRmax            100                 
+ObdgRed             0.132743            
+Oreadt              0                   
+Oreadp              0                   
+Otsr                0                    2
+Otsrcon             1                   
+Otsrsc              2                   
+Gravity             0                   
+GType               none                
+GDens0              2670                
+GStepX              1                   
+GStepY              10                  
+GStepZ              10                  
+GElev               0                   
+GOvl                0                   
+Ostress             0                   
+Oabaqusout          0                   
+Ostressmode         0                   
+OstressPP           0                   
+OstressPD           0                   
+OstressBV           0                    0 0
+Ovsc                0                   
+Ocon                0                   
+Okin      none mul       198   
+Okin      none mul       192   
+Okin      none mul       201   
+Okin      none mul       193   
+Okin      none rea       1     

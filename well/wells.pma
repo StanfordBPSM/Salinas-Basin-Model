@@ -1,0 +1,5220 @@
+WELL {
+	LISTS {	"ALL","SilicaPaper"	}
+	NAME	"05321211 -TP2"
+	CNAME	"Bradley Minerals 1-2"
+	FILE	"0375"
+	UWI	"UWI_001_227"
+	CMT	""
+	SurfaceX	1831988.000000
+	SurfaceY	561218.000000
+	BottomHoleX	1832488.000000
+	BottomHoleY	560723.000000
+	StartElevation	197.000000
+	TotalDrillDepth	3412.000000
+	TrueVerticalDepth	2781.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","HamesValley","SilicaPaper"	}
+	NAME	"05321211 -TP"
+	CNAME	"Bradley Minerals 1-2"
+	FILE	"0374"
+	UWI	"UWI_001_226"
+	CMT	""
+	SurfaceX	1831988.000000
+	SurfaceY	561218.000000
+	BottomHoleX	1832488.260906
+	BottomHoleY	560722.901623
+	StartElevation	197.000000
+	TotalDrillDepth	3412.236084
+	TrueVerticalDepth	2781.476807
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","HamesValley","SilicaPaper","RockEval"	}
+	NAME	"05321110-K"
+	CNAME	"Hames 1"
+	FILE	"0367"
+	UWI	"UWI_001_225"
+	CMT	""
+	SurfaceX	1830963.000000
+	SurfaceY	557650.000000
+	BottomHoleX	1830448.000000
+	BottomHoleY	557518.000000
+	StartElevation	326.000000
+	TotalDrillDepth	3429.000000
+	TrueVerticalDepth	3346.810059
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","SilicaPaper","RockEval"	}
+	NAME	"07920561-K"
+	CNAME	"Shandon Shipe 1"
+	FILE	"0368"
+	UWI	"UWI_001_224"
+	CMT	""
+	SurfaceX	1863381.000000
+	SurfaceY	548136.400000
+	BottomHoleX	1863381.000000
+	BottomHoleY	548136.400000
+	StartElevation	441.350403
+	TotalDrillDepth	1951.329590
+	TrueVerticalDepth	1951.329590
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","HamesValley"	}
+	NAME	"05321151-K"
+	CNAME	"Hames 2"
+	FILE	"0369"
+	UWI	"UWI_001_223"
+	CMT	""
+	SurfaceX	1831023.000000
+	SurfaceY	557583.100000
+	BottomHoleX	1831023.000000
+	BottomHoleY	557583.100000
+	StartElevation	325.526398
+	TotalDrillDepth	3583.000000
+	TrueVerticalDepth	3583.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","SilicaPaper","RockEval"	}
+	NAME	"05320455-K"
+	CNAME	"Wallace 1"
+	FILE	"0370"
+	UWI	"UWI_001_222"
+	CMT	""
+	SurfaceX	1794991.000000
+	SurfaceY	601535.100000
+	BottomHoleX	1794991.000000
+	BottomHoleY	601535.100000
+	StartElevation	219.151199
+	TotalDrillDepth	3304.946289
+	TrueVerticalDepth	3304.946289
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","SilicaPaper","RockEval"	}
+	NAME	"05320964-K"
+	CNAME	"Collier 1"
+	FILE	"0371"
+	UWI	"UWI_001_221"
+	CMT	""
+	SurfaceX	1789166.000000
+	SurfaceY	606878.600000
+	BottomHoleX	1789166.000000
+	BottomHoleY	606878.600000
+	StartElevation	215.798401
+	TotalDrillDepth	1321.307983
+	TrueVerticalDepth	1321.307983
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","HamesValley","SilicaPaper","RockEval"	}
+	NAME	"05321110-V"
+	CNAME	"Texaco HV Unit 1-15"
+	FILE	"0364"
+	UWI	"UWI_001_219"
+	CMT	""
+	SurfaceX	1830963.000000
+	SurfaceY	557650.000000
+	BottomHoleX	1830366.811467
+	BottomHoleY	557515.029214
+	StartElevation	326.000000
+	TotalDrillDepth	3746.000000
+	TrueVerticalDepth	3722.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","HamesValley","SilicaPaper","RockEval"	}
+	NAME	"05321243-V"
+	CNAME	"Sohio HV 1-34"
+	FILE	"0365"
+	UWI	"UWI_001_218"
+	CMT	""
+	SurfaceX	1830781.000000
+	SurfaceY	562368.400000
+	BottomHoleX	1830914.369195
+	BottomHoleY	562619.167594
+	StartElevation	226.161606
+	TotalDrillDepth	3200.399902
+	TrueVerticalDepth	3174.614014
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","RockEval"	}
+	NAME	"07920531-V"
+	CNAME	"Texaco E.L. Ernst et al 1"
+	FILE	"0366"
+	UWI	"UWI_001_217"
+	CMT	""
+	SurfaceX	1859979.000000
+	SurfaceY	549915.100000
+	BottomHoleX	1859979.000000
+	BottomHoleY	549915.100000
+	StartElevation	367.283997
+	TotalDrillDepth	2496.312012
+	TrueVerticalDepth	2496.312012
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","TrioPetroWells","CALIBRATION","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05321651-TP"
+	CNAME	"BL, Anvilbar 75-26"
+	FILE	"0352"
+	UWI	"UWI_001_209_2"
+	CMT	""
+	SurfaceX	1832248.000000
+	SurfaceY	554781.000000
+	BottomHoleX	1831905.672344
+	BottomHoleY	555115.703961
+	StartElevation	208.000000
+	TotalDrillDepth	3025.000000
+	TrueVerticalDepth	2924.000000
+	COLOR	-16777216
+	SYMBOL	28
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-1"
+	CNAME	"FID55"
+	FILE	"0284"
+	UWI	"UWI_001_208"
+	CMT	""
+	SurfaceX	1846122.948000
+	SurfaceY	518877.113300
+	BottomHoleX	1846122.948000
+	BottomHoleY	518877.113300
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIB_SURFACE"	}
+	NAME	"GR-2"
+	CNAME	"FID56"
+	FILE	"0285"
+	UWI	"UWI_001_207"
+	CMT	""
+	SurfaceX	1846109.521000
+	SurfaceY	518918.352800
+	BottomHoleX	1846109.521000
+	BottomHoleY	518918.352800
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-6"
+	CNAME	"FID57"
+	FILE	"0286"
+	UWI	"UWI_001_206"
+	CMT	""
+	SurfaceX	1846098.012000
+	SurfaceY	518958.633300
+	BottomHoleX	1846098.012000
+	BottomHoleY	518958.633300
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-7"
+	CNAME	"FID58"
+	FILE	"0287"
+	UWI	"UWI_001_205"
+	CMT	""
+	SurfaceX	1846085.544000
+	SurfaceY	518998.913800
+	BottomHoleX	1846085.544000
+	BottomHoleY	518998.913800
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-8"
+	CNAME	"FID59"
+	FILE	"0288"
+	UWI	"UWI_001_204"
+	CMT	""
+	SurfaceX	1846074.995000
+	SurfaceY	519043.030600
+	BottomHoleX	1846074.995000
+	BottomHoleY	519043.030600
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-9"
+	CNAME	"FID60"
+	FILE	"0289"
+	UWI	"UWI_001_203"
+	CMT	""
+	SurfaceX	1846069.240000
+	SurfaceY	519087.147300
+	BottomHoleX	1846069.240000
+	BottomHoleY	519087.147300
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-10"
+	CNAME	"FID62"
+	FILE	"0290"
+	UWI	"UWI_001_202"
+	CMT	""
+	SurfaceX	1846057.732000
+	SurfaceY	519175.380700
+	BottomHoleX	1846057.732000
+	BottomHoleY	519175.380700
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-11"
+	CNAME	"FID63"
+	FILE	"0291"
+	UWI	"UWI_001_201"
+	CMT	""
+	SurfaceX	1846069.240000
+	SurfaceY	519219.497500
+	BottomHoleX	1846069.240000
+	BottomHoleY	519219.497500
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-12"
+	CNAME	"FID61"
+	FILE	"0292"
+	UWI	"UWI_001_200"
+	CMT	""
+	SurfaceX	1846063.486000
+	SurfaceY	519127.427800
+	BottomHoleX	1846063.486000
+	BottomHoleY	519127.427800
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-13"
+	CNAME	"FID64"
+	FILE	"0293"
+	UWI	"UWI_001_199"
+	CMT	""
+	SurfaceX	1846089.381000
+	SurfaceY	519267.450400
+	BottomHoleX	1846089.381000
+	BottomHoleY	519267.450400
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-14"
+	CNAME	"FID65"
+	FILE	"0294"
+	UWI	"UWI_001_198"
+	CMT	""
+	SurfaceX	1846105.685000
+	SurfaceY	519312.526200
+	BottomHoleX	1846105.685000
+	BottomHoleY	519312.526200
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-16"
+	CNAME	"FID66"
+	FILE	"0295"
+	UWI	"UWI_001_197"
+	CMT	""
+	SurfaceX	1846106.644000
+	SurfaceY	519352.806700
+	BottomHoleX	1846106.644000
+	BottomHoleY	519352.806700
+	StartElevation	-284.000000
+	TotalDrillDepth	-284.000000
+	TrueVerticalDepth	-284.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"GR-17"
+	CNAME	"FID67"
+	FILE	"0296"
+	UWI	"UWI_001_196"
+	CMT	""
+	SurfaceX	1846106.644000
+	SurfaceY	519398.841600
+	BottomHoleX	1846106.644000
+	BottomHoleY	519398.841600
+	StartElevation	-301.000000
+	TotalDrillDepth	-301.000000
+	TrueVerticalDepth	-301.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"I-2"
+	CNAME	"FID38"
+	FILE	"0297"
+	UWI	"UWI_001_195"
+	CMT	""
+	SurfaceX	1780628.886000
+	SurfaceY	589716.609000
+	BottomHoleX	1780628.886000
+	BottomHoleY	589716.609000
+	StartElevation	-702.000000
+	TotalDrillDepth	-702.000000
+	TrueVerticalDepth	-702.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"I-3"
+	CNAME	"FID39"
+	FILE	"0298"
+	UWI	"UWI_001_194"
+	CMT	""
+	SurfaceX	1780657.179000
+	SurfaceY	589707.606700
+	BottomHoleX	1780657.179000
+	BottomHoleY	589707.606700
+	StartElevation	-862.000000
+	TotalDrillDepth	-862.000000
+	TrueVerticalDepth	-862.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"I-7"
+	CNAME	"FID41"
+	FILE	"0299"
+	UWI	"UWI_001_193"
+	CMT	""
+	SurfaceX	1781226.894000
+	SurfaceY	588660.770500
+	BottomHoleX	1781226.894000
+	BottomHoleY	588660.770500
+	StartElevation	-595.000000
+	TotalDrillDepth	-595.000000
+	TrueVerticalDepth	-595.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"I-11"
+	CNAME	"FID36"
+	FILE	"0300"
+	UWI	"UWI_001_192"
+	CMT	""
+	SurfaceX	1780568.442000
+	SurfaceY	589710.178800
+	BottomHoleX	1780568.442000
+	BottomHoleY	589710.178800
+	StartElevation	-702.000000
+	TotalDrillDepth	-702.000000
+	TrueVerticalDepth	-702.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"I-13"
+	CNAME	"FID37"
+	FILE	"0301"
+	UWI	"UWI_001_191"
+	CMT	""
+	SurfaceX	1780601.879000
+	SurfaceY	589717.895000
+	BottomHoleX	1780601.879000
+	BottomHoleY	589717.895000
+	StartElevation	-702.000000
+	TotalDrillDepth	-702.000000
+	TrueVerticalDepth	-702.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"I-21"
+	CNAME	"FID40"
+	FILE	"0302"
+	UWI	"UWI_001_190"
+	CMT	""
+	SurfaceX	1781187.027000
+	SurfaceY	588645.338000
+	BottomHoleX	1781187.027000
+	BottomHoleY	588645.338000
+	StartElevation	-595.000000
+	TotalDrillDepth	-595.000000
+	TrueVerticalDepth	-595.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-3"
+	CNAME	"FID2"
+	FILE	"0303"
+	UWI	"UWI_001_189"
+	CMT	""
+	SurfaceX	1776713.728000
+	SurfaceY	602998.504800
+	BottomHoleX	1776713.728000
+	BottomHoleY	602998.504800
+	StartElevation	-292.000000
+	TotalDrillDepth	-292.000000
+	TrueVerticalDepth	-292.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-4"
+	CNAME	"FID4"
+	FILE	"0304"
+	UWI	"UWI_001_188"
+	CMT	""
+	SurfaceX	1776770.327000
+	SurfaceY	603012.601800
+	BottomHoleX	1776770.327000
+	BottomHoleY	603012.601800
+	StartElevation	-266.000000
+	TotalDrillDepth	-266.000000
+	TrueVerticalDepth	-266.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-5"
+	CNAME	"FID5"
+	FILE	"0305"
+	UWI	"UWI_001_187"
+	CMT	""
+	SurfaceX	1776835.357000
+	SurfaceY	603031.135000
+	BottomHoleX	1776835.357000
+	BottomHoleY	603031.135000
+	StartElevation	-266.000000
+	TotalDrillDepth	-266.000000
+	TrueVerticalDepth	-266.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-6"
+	CNAME	"FID1"
+	FILE	"0306"
+	UWI	"UWI_001_186"
+	CMT	""
+	SurfaceX	1776900.449000
+	SurfaceY	603041.185700
+	BottomHoleX	1776900.449000
+	BottomHoleY	603041.185700
+	StartElevation	-266.000000
+	TotalDrillDepth	-266.000000
+	TrueVerticalDepth	-266.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-8"
+	CNAME	"FID0"
+	FILE	"0307"
+	UWI	"UWI_001_185"
+	CMT	""
+	SurfaceX	1777007.248000
+	SurfaceY	603071.627400
+	BottomHoleX	1777007.248000
+	BottomHoleY	603071.627400
+	StartElevation	-292.000000
+	TotalDrillDepth	-292.000000
+	TrueVerticalDepth	-292.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"AS-9"
+	CNAME	"FID3"
+	FILE	"0308"
+	UWI	"UWI_001_184"
+	CMT	""
+	SurfaceX	1777059.474000
+	SurfaceY	603086.804700
+	BottomHoleX	1777059.474000
+	BottomHoleY	603086.804700
+	StartElevation	-238.000000
+	TotalDrillDepth	-238.000000
+	TrueVerticalDepth	-238.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-12"
+	CNAME	"FID6"
+	FILE	"0309"
+	UWI	"UWI_001_183"
+	CMT	""
+	SurfaceX	1777454.479000
+	SurfaceY	602952.338600
+	BottomHoleX	1777454.479000
+	BottomHoleY	602952.338600
+	StartElevation	-238.000000
+	TotalDrillDepth	-238.000000
+	TrueVerticalDepth	-238.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-13"
+	CNAME	"FID7"
+	FILE	"0310"
+	UWI	"UWI_001_182"
+	CMT	""
+	SurfaceX	1777440.236000
+	SurfaceY	602991.182700
+	BottomHoleX	1777440.236000
+	BottomHoleY	602991.182700
+	StartElevation	-238.000000
+	TotalDrillDepth	-238.000000
+	TrueVerticalDepth	-238.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-14"
+	CNAME	"FID8"
+	FILE	"0311"
+	UWI	"UWI_001_181"
+	CMT	""
+	SurfaceX	1777423.403000
+	SurfaceY	603039.090400
+	BottomHoleX	1777423.403000
+	BottomHoleY	603039.090400
+	StartElevation	-238.000000
+	TotalDrillDepth	-238.000000
+	TrueVerticalDepth	-238.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-18"
+	CNAME	"FID14"
+	FILE	"0312"
+	UWI	"UWI_001_180"
+	CMT	""
+	SurfaceX	1777472.606000
+	SurfaceY	603356.316900
+	BottomHoleX	1777472.606000
+	BottomHoleY	603356.316900
+	StartElevation	-258.000000
+	TotalDrillDepth	-258.000000
+	TrueVerticalDepth	-258.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-19"
+	CNAME	"FID15"
+	FILE	"0313"
+	UWI	"UWI_001_179"
+	CMT	""
+	SurfaceX	1777473.901000
+	SurfaceY	603409.403700
+	BottomHoleX	1777473.901000
+	BottomHoleY	603409.403700
+	StartElevation	-355.000000
+	TotalDrillDepth	-355.000000
+	TrueVerticalDepth	-355.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-20"
+	CNAME	"FID16"
+	FILE	"0314"
+	UWI	"UWI_001_178"
+	CMT	""
+	SurfaceX	1777468.721000
+	SurfaceY	603466.375000
+	BottomHoleX	1777468.721000
+	BottomHoleY	603466.375000
+	StartElevation	-355.000000
+	TotalDrillDepth	-355.000000
+	TrueVerticalDepth	-355.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-22"
+	CNAME	"FID17"
+	FILE	"0315"
+	UWI	"UWI_001_177"
+	CMT	""
+	SurfaceX	1777475.195000
+	SurfaceY	603571.254000
+	BottomHoleX	1777475.195000
+	BottomHoleY	603571.254000
+	StartElevation	-355.000000
+	TotalDrillDepth	-355.000000
+	TrueVerticalDepth	-355.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-23"
+	CNAME	"FID18"
+	FILE	"0316"
+	UWI	"UWI_001_176"
+	CMT	""
+	SurfaceX	1777477.785000
+	SurfaceY	603635.994100
+	BottomHoleX	1777477.785000
+	BottomHoleY	603635.994100
+	StartElevation	-355.000000
+	TotalDrillDepth	-355.000000
+	TrueVerticalDepth	-355.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-27"
+	CNAME	"FID9"
+	FILE	"0317"
+	UWI	"UWI_001_175"
+	CMT	""
+	SurfaceX	1777405.276000
+	SurfaceY	603093.472000
+	BottomHoleX	1777405.276000
+	BottomHoleY	603093.472000
+	StartElevation	-258.000000
+	TotalDrillDepth	-258.000000
+	TrueVerticalDepth	-258.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-28"
+	CNAME	"FID10"
+	FILE	"0318"
+	UWI	"UWI_001_174"
+	CMT	""
+	SurfaceX	1777385.854000
+	SurfaceY	603142.674500
+	BottomHoleX	1777385.854000
+	BottomHoleY	603142.674500
+	StartElevation	-258.000000
+	TotalDrillDepth	-258.000000
+	TrueVerticalDepth	-258.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-29"
+	CNAME	"FID11"
+	FILE	"0319"
+	UWI	"UWI_001_173"
+	CMT	""
+	SurfaceX	1777363.842000
+	SurfaceY	603193.171800
+	BottomHoleX	1777363.842000
+	BottomHoleY	603193.171800
+	StartElevation	-258.000000
+	TotalDrillDepth	-258.000000
+	TrueVerticalDepth	-258.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-30"
+	CNAME	"FID12"
+	FILE	"0320"
+	UWI	"UWI_001_172"
+	CMT	""
+	SurfaceX	1777327.588000
+	SurfaceY	603243.669100
+	BottomHoleX	1777327.588000
+	BottomHoleY	603243.669100
+	StartElevation	-258.000000
+	TotalDrillDepth	-258.000000
+	TrueVerticalDepth	-258.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-15"
+	CNAME	"FID13"
+	FILE	"0321"
+	UWI	"UWI_001_171"
+	CMT	""
+	SurfaceX	1777471.311000
+	SurfaceY	603316.178000
+	BottomHoleX	1777471.311000
+	BottomHoleY	603316.178000
+	StartElevation	-258.000000
+	TotalDrillDepth	-258.000000
+	TrueVerticalDepth	-258.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"AS-26"
+	CNAME	"FID19"
+	FILE	"0322"
+	UWI	"UWI_001_170"
+	CMT	""
+	SurfaceX	1777502.386000
+	SurfaceY	603768.063900
+	BottomHoleX	1777502.386000
+	BottomHoleY	603768.063900
+	StartElevation	-482.000000
+	TotalDrillDepth	-482.000000
+	TrueVerticalDepth	-482.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-2"
+	CNAME	"FID28"
+	FILE	"0323"
+	UWI	"UWI_001_169"
+	CMT	""
+	SurfaceX	1790918.721000
+	SurfaceY	601337.164200
+	BottomHoleX	1790918.721000
+	BottomHoleY	601337.164200
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-4"
+	CNAME	"FID27"
+	FILE	"0324"
+	UWI	"UWI_001_168"
+	CMT	""
+	SurfaceX	1790906.272000
+	SurfaceY	601362.228500
+	BottomHoleX	1790906.272000
+	BottomHoleY	601362.228500
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-5"
+	CNAME	"FID26"
+	FILE	"0325"
+	UWI	"UWI_001_167"
+	CMT	""
+	SurfaceX	1790891.818000
+	SurfaceY	601384.034300
+	BottomHoleX	1790891.818000
+	BottomHoleY	601384.034300
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-6"
+	CNAME	"FID25"
+	FILE	"0326"
+	UWI	"UWI_001_166"
+	CMT	""
+	SurfaceX	1790874.983000
+	SurfaceY	601409.558300
+	BottomHoleX	1790874.983000
+	BottomHoleY	601409.558300
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-7"
+	CNAME	"FID24"
+	FILE	"0327"
+	UWI	"UWI_001_165"
+	CMT	""
+	SurfaceX	1790856.644000
+	SurfaceY	601438.006900
+	BottomHoleX	1790856.644000
+	BottomHoleY	601438.006900
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-8"
+	CNAME	"FID23"
+	FILE	"0328"
+	UWI	"UWI_001_164"
+	CMT	""
+	SurfaceX	1790848.624000
+	SurfaceY	601464.742200
+	BottomHoleX	1790848.624000
+	BottomHoleY	601464.742200
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-9"
+	CNAME	"FID22"
+	FILE	"0329"
+	UWI	"UWI_001_163"
+	CMT	""
+	SurfaceX	1790844.656000
+	SurfaceY	601493.399100
+	BottomHoleX	1790844.656000
+	BottomHoleY	601493.399100
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-10"
+	CNAME	"FID21"
+	FILE	"0330"
+	UWI	"UWI_001_162"
+	CMT	""
+	SurfaceX	1790839.142000
+	SurfaceY	601518.755300
+	BottomHoleX	1790839.142000
+	BottomHoleY	601518.755300
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-14"
+	CNAME	"FID32"
+	FILE	"0331"
+	UWI	"UWI_001_161"
+	CMT	""
+	SurfaceX	1790964.130000
+	SurfaceY	601243.216400
+	BottomHoleX	1790964.130000
+	BottomHoleY	601243.216400
+	StartElevation	-229.000000
+	TotalDrillDepth	-229.000000
+	TrueVerticalDepth	-229.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-15"
+	CNAME	"FID20"
+	FILE	"0332"
+	UWI	"UWI_001_160"
+	CMT	""
+	SurfaceX	1790976.830000
+	SurfaceY	601213.807100
+	BottomHoleX	1790976.830000
+	BottomHoleY	601213.807100
+	StartElevation	-229.000000
+	TotalDrillDepth	-229.000000
+	TrueVerticalDepth	-229.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-19"
+	CNAME	"FID31"
+	FILE	"0333"
+	UWI	"UWI_001_159"
+	CMT	""
+	SurfaceX	1790951.890000
+	SurfaceY	601268.489000
+	BottomHoleX	1790951.890000
+	BottomHoleY	601268.489000
+	StartElevation	-229.000000
+	TotalDrillDepth	-229.000000
+	TrueVerticalDepth	-229.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-20"
+	CNAME	"FID30"
+	FILE	"0334"
+	UWI	"UWI_001_158"
+	CMT	""
+	SurfaceX	1790941.696000
+	SurfaceY	601292.717400
+	BottomHoleX	1790941.696000
+	BottomHoleY	601292.717400
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"V-22"
+	CNAME	"FID29"
+	FILE	"0335"
+	UWI	"UWI_001_157"
+	CMT	""
+	SurfaceX	1790932.590000
+	SurfaceY	601311.222600
+	BottomHoleX	1790932.590000
+	BottomHoleY	601311.222600
+	StartElevation	-239.000000
+	TotalDrillDepth	-239.000000
+	TrueVerticalDepth	-239.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-3"
+	CNAME	"FID49"
+	FILE	"0336"
+	UWI	"UWI_001_156"
+	CMT	""
+	SurfaceX	1806554.454000
+	SurfaceY	562854.366700
+	BottomHoleX	1806554.454000
+	BottomHoleY	562854.366700
+	StartElevation	-508.000000
+	TotalDrillDepth	-508.000000
+	TrueVerticalDepth	-508.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-5"
+	CNAME	"FID51"
+	FILE	"0337"
+	UWI	"UWI_001_155"
+	CMT	""
+	SurfaceX	1806571.289000
+	SurfaceY	562862.099900
+	BottomHoleX	1806571.289000
+	BottomHoleY	562862.099900
+	StartElevation	-508.000000
+	TotalDrillDepth	-508.000000
+	TrueVerticalDepth	-508.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-7"
+	CNAME	"FID53"
+	FILE	"0338"
+	UWI	"UWI_001_154"
+	CMT	""
+	SurfaceX	1806609.421000
+	SurfaceY	562882.912200
+	BottomHoleX	1806609.421000
+	BottomHoleY	562882.912200
+	StartElevation	-473.000000
+	TotalDrillDepth	-473.000000
+	TrueVerticalDepth	-473.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-7-A"
+	CNAME	"FID52"
+	FILE	"0339"
+	UWI	"UWI_001_153"
+	CMT	""
+	SurfaceX	1806601.074000
+	SurfaceY	562878.324600
+	BottomHoleX	1806601.074000
+	BottomHoleY	562878.324600
+	StartElevation	-473.000000
+	TotalDrillDepth	-473.000000
+	TrueVerticalDepth	-473.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-10"
+	CNAME	"FID45"
+	FILE	"0340"
+	UWI	"UWI_001_152"
+	CMT	""
+	SurfaceX	1806633.232000
+	SurfaceY	562895.183200
+	BottomHoleX	1806633.232000
+	BottomHoleY	562895.183200
+	StartElevation	-473.000000
+	TotalDrillDepth	-473.000000
+	TrueVerticalDepth	-473.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-11"
+	CNAME	"FID44"
+	FILE	"0341"
+	UWI	"UWI_001_151"
+	CMT	""
+	SurfaceX	1806625.732000
+	SurfaceY	562890.566600
+	BottomHoleX	1806625.732000
+	BottomHoleY	562890.566600
+	StartElevation	-473.000000
+	TotalDrillDepth	-473.000000
+	TrueVerticalDepth	-473.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-16"
+	CNAME	"FID47"
+	FILE	"0342"
+	UWI	"UWI_001_150"
+	CMT	""
+	SurfaceX	1807298.819000
+	SurfaceY	562590.462400
+	BottomHoleX	1807298.819000
+	BottomHoleY	562590.462400
+	StartElevation	-456.000000
+	TotalDrillDepth	-456.000000
+	TrueVerticalDepth	-456.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-17"
+	CNAME	"FID46"
+	FILE	"0343"
+	UWI	"UWI_001_149"
+	CMT	""
+	SurfaceX	1807257.544000
+	SurfaceY	562569.824900
+	BottomHoleX	1807257.544000
+	BottomHoleY	562569.824900
+	StartElevation	-442.000000
+	TotalDrillDepth	-442.000000
+	TrueVerticalDepth	-442.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf"	}
+	NAME	"J-19"
+	CNAME	"FID48"
+	FILE	"0344"
+	UWI	"UWI_001_148"
+	CMT	""
+	SurfaceX	1807345.254000
+	SurfaceY	562619.434400
+	BottomHoleX	1807345.254000
+	BottomHoleY	562619.434400
+	StartElevation	-495.000000
+	TotalDrillDepth	-495.000000
+	TrueVerticalDepth	-495.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"J-6"
+	CNAME	"FID50"
+	FILE	"0345"
+	UWI	"UWI_001_147"
+	CMT	""
+	SurfaceX	1806563.237000
+	SurfaceY	562858.959900
+	BottomHoleX	1806563.237000
+	BottomHoleY	562858.959900
+	StartElevation	-508.000000
+	TotalDrillDepth	-508.000000
+	TrueVerticalDepth	-508.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"J-8"
+	CNAME	"FID54"
+	FILE	"0346"
+	UWI	"UWI_001_146"
+	CMT	""
+	SurfaceX	1806618.493000
+	SurfaceY	562887.056800
+	BottomHoleX	1806618.493000
+	BottomHoleY	562887.056800
+	StartElevation	-473.000000
+	TotalDrillDepth	-473.000000
+	TrueVerticalDepth	-473.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"J-12"
+	CNAME	"FID43"
+	FILE	"0347"
+	UWI	"UWI_001_145"
+	CMT	""
+	SurfaceX	1806592.188000
+	SurfaceY	562872.989900
+	BottomHoleX	1806592.188000
+	BottomHoleY	562872.989900
+	StartElevation	-473.000000
+	TotalDrillDepth	-473.000000
+	TrueVerticalDepth	-473.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"J-13"
+	CNAME	"FID42"
+	FILE	"0348"
+	UWI	"UWI_001_144"
+	CMT	""
+	SurfaceX	1806581.870000
+	SurfaceY	562866.998400
+	BottomHoleX	1806581.870000
+	BottomHoleY	562866.998400
+	StartElevation	-508.000000
+	TotalDrillDepth	-508.000000
+	TrueVerticalDepth	-508.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"CK-4"
+	CNAME	"FID33"
+	FILE	"0349"
+	UWI	"UWI_001_143"
+	CMT	""
+	SurfaceX	1798519.263000
+	SurfaceY	588059.824400
+	BottomHoleX	1798519.263000
+	BottomHoleY	588059.824400
+	StartElevation	-775.000000
+	TotalDrillDepth	-775.000000
+	TrueVerticalDepth	-775.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"CK-5"
+	CNAME	"FID34"
+	FILE	"0350"
+	UWI	"UWI_001_142"
+	CMT	""
+	SurfaceX	1798529.878000
+	SurfaceY	588070.847100
+	BottomHoleX	1798529.878000
+	BottomHoleY	588070.847100
+	StartElevation	-775.000000
+	TotalDrillDepth	-775.000000
+	TrueVerticalDepth	-775.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","RockEval_Surf","CALIB_SURFACE"	}
+	NAME	"CK-9"
+	CNAME	"FID35"
+	FILE	"0351"
+	UWI	"UWI_001_141"
+	CMT	""
+	SurfaceX	1798544.166000
+	SurfaceY	588080.645000
+	BottomHoleX	1798544.166000
+	BottomHoleY	588080.645000
+	StartElevation	-775.000000
+	TotalDrillDepth	-775.000000
+	TrueVerticalDepth	-775.000000
+	COLOR	-16776961
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_East","CALIBRATION","TD_Sdht","East_Mar-Ven-TP-K","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05301269-K"
+	CNAME	"43, Hotchkiss 35"
+	FILE	"0281"
+	UWI	"UWI_001_46_2_2"
+	CMT	""
+	SurfaceX	1817598.000000
+	SurfaceY	574356.000000
+	BottomHoleX	1817598.000000
+	BottomHoleY	574356.000000
+	StartElevation	566.000000
+	TotalDrillDepth	1908.000000
+	TrueVerticalDepth	1908.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","East_Mar-Ven-TP-K","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05320465-K"
+	CNAME	"5A3, Barbree 1"
+	FILE	"0280"
+	UWI	"UWI_001_122_1"
+	CMT	""
+	SurfaceX	1811840.000000
+	SurfaceY	585236.000000
+	BottomHoleX	1811840.000000
+	BottomHoleY	585236.000000
+	StartElevation	246.000000
+	TotalDrillDepth	2367.000000
+	TrueVerticalDepth	2367.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D2","Marion_East","CALIBRATION","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"07900519-V"
+	CNAME	"68, Texaco Clarke NCT 1 1"
+	FILE	"0279"
+	UWI	"UWI_001_21_1_1"
+	CMT	""
+	SurfaceX	1868946.000000
+	SurfaceY	528912.000000
+	BottomHoleX	1868946.000000
+	BottomHoleY	528912.000000
+	StartElevation	437.000000
+	TotalDrillDepth	1321.000000
+	TrueVerticalDepth	1321.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion-B2","Marion-B3","Marion_East","CALIBRATION","TD_Sdht","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05301457-M"
+	CNAME	"31, TEPI Shell NCT-1-Mar"
+	FILE	"0277"
+	UWI	"UWI_001_58_1_1"
+	CMT	""
+	SurfaceX	1825363.000000
+	SurfaceY	561371.000000
+	BottomHoleX	1825363.000000
+	BottomHoleY	561371.000000
+	StartElevation	514.000000
+	TotalDrillDepth	3656.000000
+	TrueVerticalDepth	3656.000000
+	COLOR	-16777216
+	SYMBOL	28
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","HamesValley","SilicaPaper","RockEval"	}
+	NAME	"05301457-K"
+	CNAME	"31, TEPI Shell NCT-1-Kab"
+	FILE	"0283"
+	UWI	"UWI_001_58_1_1_1"
+	CMT	""
+	SurfaceX	1825363.000000
+	SurfaceY	561371.000000
+	BottomHoleX	1825363.000000
+	BottomHoleY	561371.000000
+	StartElevation	514.000000
+	TotalDrillDepth	3656.000000
+	TrueVerticalDepth	3656.000000
+	COLOR	-16777216
+	SYMBOL	28
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C3","Marion_West","CALIBRATION","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps","RockEval"	}
+	NAME	"05301354"
+	CNAME	"57, Shell-Texas Beedy 1"
+	FILE	"0276"
+	UWI	"UWI_001_32_1_1_2"
+	CMT	""
+	SurfaceX	1796533.000000
+	SurfaceY	600260.000000
+	BottomHoleX	1796533.000000
+	BottomHoleY	600260.000000
+	StartElevation	351.000000
+	TotalDrillDepth	2805.000000
+	TrueVerticalDepth	2805.000000
+	COLOR	-16777216
+	SYMBOL	28
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"07900389"
+	CNAME	"5C30 Devries 37-25"
+	FILE	"0223"
+	UWI	"UWI_001_140"
+	CMT	""
+	SurfaceX	1832756.000000
+	SurfaceY	544705.500000
+	BottomHoleX	1832756.000000
+	BottomHoleY	544705.500000
+	StartElevation	335.000000
+	TotalDrillDepth	1585.000000
+	TrueVerticalDepth	1585.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05320066"
+	CNAME	"5B110 Gould 18"
+	FILE	"0224"
+	UWI	"UWI_001_139"
+	CMT	""
+	SurfaceX	1793649.000000
+	SurfaceY	596949.600000
+	BottomHoleX	1793649.000000
+	BottomHoleY	596949.600000
+	StartElevation	269.000000
+	TotalDrillDepth	1004.000000
+	TrueVerticalDepth	1004.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"07900330"
+	CNAME	"5E2"
+	FILE	"0226"
+	UWI	"UWI_001_137"
+	CMT	""
+	SurfaceX	1841759.000000
+	SurfaceY	530968.900000
+	BottomHoleX	1841759.000000
+	BottomHoleY	530968.900000
+	StartElevation	413.000000
+	TotalDrillDepth	656.000000
+	TrueVerticalDepth	656.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900333"
+	CNAME	"5C44"
+	FILE	"0227"
+	UWI	"UWI_001_136"
+	CMT	""
+	SurfaceX	1851886.000000
+	SurfaceY	549214.200000
+	BottomHoleX	1851886.000000
+	BottomHoleY	549214.200000
+	StartElevation	277.000000
+	TotalDrillDepth	1510.000000
+	TrueVerticalDepth	1510.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900346"
+	CNAME	"5C22"
+	FILE	"0228"
+	UWI	"UWI_001_135"
+	CMT	""
+	SurfaceX	1872291.000000
+	SurfaceY	534750.600000
+	BottomHoleX	1872291.000000
+	BottomHoleY	534750.600000
+	StartElevation	343.000000
+	TotalDrillDepth	1733.000000
+	TrueVerticalDepth	1733.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"07900483"
+	CNAME	"5E22"
+	FILE	"0229"
+	UWI	"UWI_001_134"
+	CMT	""
+	SurfaceX	1849137.000000
+	SurfaceY	524100.600000
+	BottomHoleX	1849137.000000
+	BottomHoleY	524100.600000
+	StartElevation	303.000000
+	TotalDrillDepth	956.000000
+	TrueVerticalDepth	956.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900485"
+	CNAME	"5C35"
+	FILE	"0230"
+	UWI	"UWI_001_133"
+	CMT	""
+	SurfaceX	1865490.000000
+	SurfaceY	549457.700000
+	BottomHoleX	1865490.000000
+	BottomHoleY	549457.700000
+	StartElevation	536.000000
+	TotalDrillDepth	1176.000000
+	TrueVerticalDepth	1176.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Vaq","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"07900517"
+	CNAME	"5E10"
+	FILE	"0231"
+	UWI	"UWI_001_132"
+	CMT	""
+	SurfaceX	1884418.000000
+	SurfaceY	524660.500000
+	BottomHoleX	1884418.000000
+	BottomHoleY	524660.500000
+	StartElevation	401.000000
+	TotalDrillDepth	1833.000000
+	TrueVerticalDepth	1833.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05301155"
+	CNAME	"5B75"
+	FILE	"0232"
+	UWI	"UWI_001_131"
+	CMT	""
+	SurfaceX	1836968.000000
+	SurfaceY	553498.000000
+	BottomHoleX	1836968.000000
+	BottomHoleY	553498.000000
+	StartElevation	271.000000
+	TotalDrillDepth	1815.000000
+	TrueVerticalDepth	1815.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05301300"
+	CNAME	"5B46"
+	FILE	"0233"
+	UWI	"UWI_001_130"
+	CMT	""
+	SurfaceX	1829363.000000
+	SurfaceY	556708.000000
+	BottomHoleX	1829363.000000
+	BottomHoleY	556708.000000
+	StartElevation	381.000000
+	TotalDrillDepth	2369.000000
+	TrueVerticalDepth	2369.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05301307"
+	CNAME	"5B23"
+	FILE	"0234"
+	UWI	"UWI_001_129"
+	CMT	""
+	SurfaceX	1829676.000000
+	SurfaceY	554081.200000
+	BottomHoleX	1829676.000000
+	BottomHoleY	554081.200000
+	StartElevation	260.000000
+	TotalDrillDepth	2640.000000
+	TrueVerticalDepth	2640.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301346"
+	CNAME	"5B43"
+	FILE	"0235"
+	UWI	"UWI_001_128"
+	CMT	""
+	SurfaceX	1816570.000000
+	SurfaceY	577164.200000
+	BottomHoleX	1816570.000000
+	BottomHoleY	577164.200000
+	StartElevation	379.000000
+	TotalDrillDepth	1666.000000
+	TrueVerticalDepth	1666.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301373"
+	CNAME	"5B91"
+	FILE	"0236"
+	UWI	"UWI_001_127"
+	CMT	""
+	SurfaceX	1802871.000000
+	SurfaceY	577089.400000
+	BottomHoleX	1802871.000000
+	BottomHoleY	577089.400000
+	StartElevation	351.000000
+	TotalDrillDepth	1857.000000
+	TrueVerticalDepth	1857.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Vaq","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301479"
+	CNAME	"5B87"
+	FILE	"0237"
+	UWI	"UWI_001_126"
+	CMT	""
+	SurfaceX	1808035.000000
+	SurfaceY	580089.000000
+	BottomHoleX	1808035.000000
+	BottomHoleY	580089.000000
+	StartElevation	457.000000
+	TotalDrillDepth	980.000000
+	TrueVerticalDepth	980.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900295"
+	CNAME	"5E35 Whitley 1"
+	FILE	"0238"
+	UWI	"UWI_001_125"
+	CMT	""
+	SurfaceX	1873421.000000
+	SurfaceY	522911.100000
+	BottomHoleX	1873421.000000
+	BottomHoleY	522911.100000
+	StartElevation	244.000000
+	TotalDrillDepth	1407.000000
+	TrueVerticalDepth	1407.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320191"
+	CNAME	"5B124"
+	FILE	"0239"
+	UWI	"UWI_001_124"
+	CMT	""
+	SurfaceX	1864635.000000
+	SurfaceY	557787.000000
+	BottomHoleX	1864635.000000
+	BottomHoleY	557787.000000
+	StartElevation	615.000000
+	TotalDrillDepth	1119.000000
+	TrueVerticalDepth	1119.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Sdht","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05320278"
+	CNAME	"5B17"
+	FILE	"0240"
+	UWI	"UWI_001_123"
+	CMT	""
+	SurfaceX	1804780.000000
+	SurfaceY	579237.400000
+	BottomHoleX	1804780.000000
+	BottomHoleY	579237.400000
+	StartElevation	344.000000
+	TotalDrillDepth	1029.000000
+	TrueVerticalDepth	1029.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900102"
+	CNAME	"5E1"
+	FILE	"0242"
+	UWI	"UWI_001_121"
+	CMT	""
+	SurfaceX	1866247.000000
+	SurfaceY	523368.800000
+	BottomHoleX	1866247.000000
+	BottomHoleY	523368.800000
+	StartElevation	373.000000
+	TotalDrillDepth	1070.000000
+	TrueVerticalDepth	1070.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900239"
+	CNAME	"5E12"
+	FILE	"0243"
+	UWI	"UWI_001_120"
+	CMT	""
+	SurfaceX	1850673.000000
+	SurfaceY	525688.800000
+	BottomHoleX	1850673.000000
+	BottomHoleY	525688.800000
+	StartElevation	352.000000
+	TotalDrillDepth	764.000000
+	TrueVerticalDepth	764.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900260"
+	CNAME	"5C23"
+	FILE	"0244"
+	UWI	"UWI_001_119"
+	CMT	""
+	SurfaceX	1866065.000000
+	SurfaceY	548594.700000
+	BottomHoleX	1866065.000000
+	BottomHoleY	548594.700000
+	StartElevation	515.000000
+	TotalDrillDepth	1901.000000
+	TrueVerticalDepth	1901.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900268"
+	CNAME	"5E11"
+	FILE	"0245"
+	UWI	"UWI_001_118"
+	CMT	""
+	SurfaceX	1868792.000000
+	SurfaceY	530359.900000
+	BottomHoleX	1868792.000000
+	BottomHoleY	530359.900000
+	StartElevation	446.000000
+	TotalDrillDepth	1373.000000
+	TrueVerticalDepth	1373.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900279"
+	CNAME	"5C40"
+	FILE	"0246"
+	UWI	"UWI_001_117"
+	CMT	""
+	SurfaceX	1863324.000000
+	SurfaceY	550036.000000
+	BottomHoleX	1863324.000000
+	BottomHoleY	550036.000000
+	StartElevation	430.000000
+	TotalDrillDepth	1311.000000
+	TrueVerticalDepth	1311.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05300104"
+	CNAME	"5B47"
+	FILE	"0247"
+	UWI	"UWI_001_116"
+	CMT	""
+	SurfaceX	1828404.000000
+	SurfaceY	573759.900000
+	BottomHoleX	1828404.000000
+	BottomHoleY	573759.900000
+	StartElevation	171.000000
+	TotalDrillDepth	967.000000
+	TrueVerticalDepth	967.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05300448"
+	CNAME	"5B20"
+	FILE	"0248"
+	UWI	"UWI_001_115"
+	CMT	""
+	SurfaceX	1823935.000000
+	SurfaceY	578406.000000
+	BottomHoleX	1823935.000000
+	BottomHoleY	578406.000000
+	StartElevation	191.000000
+	TotalDrillDepth	550.000000
+	TrueVerticalDepth	550.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05300550"
+	CNAME	"5B2"
+	FILE	"0249"
+	UWI	"UWI_001_114"
+	CMT	""
+	SurfaceX	1828997.000000
+	SurfaceY	571261.000000
+	BottomHoleX	1828997.000000
+	BottomHoleY	571261.000000
+	StartElevation	324.000000
+	TotalDrillDepth	1280.000000
+	TrueVerticalDepth	1280.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05300577"
+	CNAME	"5B3"
+	FILE	"0250"
+	UWI	"UWI_001_113"
+	CMT	""
+	SurfaceX	1829314.000000
+	SurfaceY	571289.600000
+	BottomHoleX	1829314.000000
+	BottomHoleY	571289.600000
+	StartElevation	274.000000
+	TotalDrillDepth	964.000000
+	TrueVerticalDepth	964.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05300581"
+	CNAME	"5B4"
+	FILE	"0251"
+	UWI	"UWI_001_112"
+	CMT	""
+	SurfaceX	1829474.000000
+	SurfaceY	569761.000000
+	BottomHoleX	1829474.000000
+	BottomHoleY	569761.000000
+	StartElevation	226.000000
+	TotalDrillDepth	1165.000000
+	TrueVerticalDepth	1165.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301031"
+	CNAME	"5A6"
+	FILE	"0252"
+	UWI	"UWI_001_111"
+	CMT	""
+	SurfaceX	1807583.000000
+	SurfaceY	592620.000000
+	BottomHoleX	1807583.000000
+	BottomHoleY	592620.000000
+	StartElevation	205.000000
+	TotalDrillDepth	748.000000
+	TrueVerticalDepth	748.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301043"
+	CNAME	"5A66"
+	FILE	"0253"
+	UWI	"UWI_001_110"
+	CMT	""
+	SurfaceX	1810707.000000
+	SurfaceY	591431.000000
+	BottomHoleX	1810707.000000
+	BottomHoleY	591431.000000
+	StartElevation	167.000000
+	TotalDrillDepth	745.000000
+	TrueVerticalDepth	745.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301145"
+	CNAME	"5A69"
+	FILE	"0254"
+	UWI	"UWI_001_109"
+	CMT	""
+	SurfaceX	1813860.000000
+	SurfaceY	583115.900000
+	BottomHoleX	1813860.000000
+	BottomHoleY	583115.900000
+	StartElevation	234.000000
+	TotalDrillDepth	1070.000000
+	TrueVerticalDepth	1070.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301149"
+	CNAME	"5B99"
+	FILE	"0255"
+	UWI	"UWI_001_108"
+	CMT	""
+	SurfaceX	1825602.000000
+	SurfaceY	570981.000000
+	BottomHoleX	1825602.000000
+	BottomHoleY	570981.000000
+	StartElevation	335.000000
+	TotalDrillDepth	2457.000000
+	TrueVerticalDepth	2457.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301202"
+	CNAME	"4D29"
+	FILE	"0256"
+	UWI	"UWI_001_107"
+	CMT	""
+	SurfaceX	1791900.000000
+	SurfaceY	608336.100000
+	BottomHoleX	1791900.000000
+	BottomHoleY	608336.100000
+	StartElevation	110.000000
+	TotalDrillDepth	1770.000000
+	TrueVerticalDepth	1770.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301232"
+	CNAME	"5A129"
+	FILE	"0257"
+	UWI	"UWI_001_106"
+	CMT	""
+	SurfaceX	1818110.000000
+	SurfaceY	582281.900000
+	BottomHoleX	1818110.000000
+	BottomHoleY	582281.900000
+	StartElevation	223.000000
+	TotalDrillDepth	995.000000
+	TrueVerticalDepth	995.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301237"
+	CNAME	"5A71"
+	FILE	"0258"
+	UWI	"UWI_001_105"
+	CMT	""
+	SurfaceX	1816115.000000
+	SurfaceY	583889.700000
+	BottomHoleX	1816115.000000
+	BottomHoleY	583889.700000
+	StartElevation	205.000000
+	TotalDrillDepth	1031.000000
+	TrueVerticalDepth	1031.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301252"
+	CNAME	"5B125"
+	FILE	"0259"
+	UWI	"UWI_001_104"
+	CMT	""
+	SurfaceX	1847329.000000
+	SurfaceY	553910.200000
+	BottomHoleX	1847329.000000
+	BottomHoleY	553910.200000
+	StartElevation	385.000000
+	TotalDrillDepth	1512.000000
+	TrueVerticalDepth	1512.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301271"
+	CNAME	"5B111"
+	FILE	"0260"
+	UWI	"UWI_001_103"
+	CMT	""
+	SurfaceX	1817281.000000
+	SurfaceY	571132.600000
+	BottomHoleX	1817281.000000
+	BottomHoleY	571132.600000
+	StartElevation	438.000000
+	TotalDrillDepth	789.000000
+	TrueVerticalDepth	789.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301347"
+	CNAME	"5B44"
+	FILE	"0261"
+	UWI	"UWI_001_102"
+	CMT	""
+	SurfaceX	1825615.000000
+	SurfaceY	575546.000000
+	BottomHoleX	1825615.000000
+	BottomHoleY	575546.000000
+	StartElevation	223.000000
+	TotalDrillDepth	829.000000
+	TrueVerticalDepth	829.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps","SilicaPaper"	}
+	NAME	"05301356"
+	CNAME	"5B67"
+	FILE	"0262"
+	UWI	"UWI_001_101"
+	CMT	""
+	SurfaceX	1838984.000000
+	SurfaceY	565944.800000
+	BottomHoleX	1838984.000000
+	BottomHoleY	565944.800000
+	StartElevation	292.000000
+	TotalDrillDepth	1075.000000
+	TrueVerticalDepth	1075.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt-Schist","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301366"
+	CNAME	"4D19"
+	FILE	"0263"
+	UWI	"UWI_001_100"
+	CMT	""
+	SurfaceX	1803783.000000
+	SurfaceY	603551.000000
+	BottomHoleX	1803783.000000
+	BottomHoleY	603551.000000
+	StartElevation	100.000000
+	TotalDrillDepth	540.000000
+	TrueVerticalDepth	540.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt-Schist","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301392"
+	CNAME	"5A128"
+	FILE	"0264"
+	UWI	"UWI_001_99"
+	CMT	""
+	SurfaceX	1818768.000000
+	SurfaceY	583005.600000
+	BottomHoleX	1818768.000000
+	BottomHoleY	583005.600000
+	StartElevation	171.000000
+	TotalDrillDepth	760.000000
+	TrueVerticalDepth	760.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301395"
+	CNAME	"5B72"
+	FILE	"0265"
+	UWI	"UWI_001_98"
+	CMT	""
+	SurfaceX	1810575.000000
+	SurfaceY	579190.000000
+	BottomHoleX	1810575.000000
+	BottomHoleY	579190.000000
+	StartElevation	619.000000
+	TotalDrillDepth	1182.000000
+	TrueVerticalDepth	1182.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301401"
+	CNAME	"5B48"
+	FILE	"0266"
+	UWI	"UWI_001_97"
+	CMT	""
+	SurfaceX	1824099.000000
+	SurfaceY	576032.900000
+	BottomHoleX	1824099.000000
+	BottomHoleY	576032.900000
+	StartElevation	320.000000
+	TotalDrillDepth	1299.000000
+	TrueVerticalDepth	1299.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301405"
+	CNAME	"5B7"
+	FILE	"0267"
+	UWI	"UWI_001_96"
+	CMT	""
+	SurfaceX	1826494.000000
+	SurfaceY	572520.800000
+	BottomHoleX	1826494.000000
+	BottomHoleY	572520.800000
+	StartElevation	404.000000
+	TotalDrillDepth	1452.000000
+	TrueVerticalDepth	1452.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301406"
+	CNAME	"5B5"
+	FILE	"0268"
+	UWI	"UWI_001_95"
+	CMT	""
+	SurfaceX	1827663.000000
+	SurfaceY	571336.900000
+	BottomHoleX	1827663.000000
+	BottomHoleY	571336.900000
+	StartElevation	234.000000
+	TotalDrillDepth	2053.000000
+	TrueVerticalDepth	2053.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301407"
+	CNAME	"5B6"
+	FILE	"0269"
+	UWI	"UWI_001_94"
+	CMT	""
+	SurfaceX	1828096.000000
+	SurfaceY	571469.500000
+	BottomHoleX	1828096.000000
+	BottomHoleY	571469.500000
+	StartElevation	204.000000
+	TotalDrillDepth	1856.000000
+	TrueVerticalDepth	1856.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301446"
+	CNAME	"5A108"
+	FILE	"0270"
+	UWI	"UWI_001_93"
+	CMT	""
+	SurfaceX	1805779.000000
+	SurfaceY	596288.900000
+	BottomHoleX	1805779.000000
+	BottomHoleY	596288.900000
+	StartElevation	177.000000
+	TotalDrillDepth	1229.000000
+	TrueVerticalDepth	1229.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301473"
+	CNAME	"5B90"
+	FILE	"0271"
+	UWI	"UWI_001_92"
+	CMT	""
+	SurfaceX	1811998.000000
+	SurfaceY	572059.500000
+	BottomHoleX	1811998.000000
+	BottomHoleY	572059.500000
+	StartElevation	338.000000
+	TotalDrillDepth	1496.000000
+	TrueVerticalDepth	1496.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Vaq","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301474"
+	CNAME	"5B95"
+	FILE	"0272"
+	UWI	"UWI_001_91"
+	CMT	""
+	SurfaceX	1807603.000000
+	SurfaceY	572174.300000
+	BottomHoleX	1807603.000000
+	BottomHoleY	572174.300000
+	StartElevation	299.000000
+	TotalDrillDepth	1795.000000
+	TrueVerticalDepth	1795.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05320065"
+	CNAME	"5A133"
+	FILE	"0273"
+	UWI	"UWI_001_90"
+	CMT	""
+	SurfaceX	1801980.000000
+	SurfaceY	589298.500000
+	BottomHoleX	1801980.000000
+	BottomHoleY	589298.500000
+	StartElevation	380.000000
+	TotalDrillDepth	1337.000000
+	TrueVerticalDepth	1337.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320120"
+	CNAME	"5B107"
+	FILE	"0274"
+	UWI	"UWI_001_89"
+	CMT	""
+	SurfaceX	1800515.000000
+	SurfaceY	598497.100000
+	BottomHoleX	1800515.000000
+	BottomHoleY	598497.100000
+	StartElevation	213.000000
+	TotalDrillDepth	2746.000000
+	TrueVerticalDepth	2746.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","PaleoSub-NotInMar","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320130"
+	CNAME	"5A92"
+	FILE	"0275"
+	UWI	"UWI_001_88"
+	CMT	""
+	SurfaceX	1815326.000000
+	SurfaceY	585692.800000
+	BottomHoleX	1815326.000000
+	BottomHoleY	585692.800000
+	StartElevation	168.000000
+	TotalDrillDepth	915.000000
+	TrueVerticalDepth	915.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"17"
+	FILE	"0155"
+	UWI	"UWI_001_088_48"
+	CMT	""
+	SurfaceX	1812288.000000
+	SurfaceY	590275.000000
+	BottomHoleX	1812288.000000
+	BottomHoleY	590275.000000
+	StartElevation	163.000000
+	TotalDrillDepth	810.000000
+	TrueVerticalDepth	810.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"34"
+	FILE	"0156"
+	UWI	"UWI_001_088_47"
+	CMT	""
+	SurfaceX	1828203.000000
+	SurfaceY	565625.000000
+	BottomHoleX	1828203.000000
+	BottomHoleY	565625.000000
+	StartElevation	331.000000
+	TotalDrillDepth	3340.000000
+	TrueVerticalDepth	3340.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"57"
+	FILE	"0157"
+	UWI	"UWI_001_088_46"
+	CMT	""
+	SurfaceX	1796533.000000
+	SurfaceY	600260.000000
+	BottomHoleX	1796533.000000
+	BottomHoleY	600260.000000
+	StartElevation	351.000000
+	TotalDrillDepth	2805.000000
+	TrueVerticalDepth	2805.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"58"
+	FILE	"0158"
+	UWI	"UWI_001_088_45"
+	CMT	""
+	SurfaceX	1800172.000000
+	SurfaceY	600257.000000
+	BottomHoleX	1800172.000000
+	BottomHoleY	600257.000000
+	StartElevation	440.000000
+	TotalDrillDepth	2066.000000
+	TrueVerticalDepth	2066.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"9"
+	FILE	"0159"
+	UWI	"UWI_001_088_44"
+	CMT	""
+	SurfaceX	1836738.000000
+	SurfaceY	564159.000000
+	BottomHoleX	1836738.000000
+	BottomHoleY	564159.000000
+	StartElevation	259.000000
+	TotalDrillDepth	1265.000000
+	TrueVerticalDepth	1265.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"38"
+	FILE	"0160"
+	UWI	"UWI_001_088_43"
+	CMT	""
+	SurfaceX	1843046.000000
+	SurfaceY	571374.000000
+	BottomHoleX	1843046.000000
+	BottomHoleY	571374.000000
+	StartElevation	363.000000
+	TotalDrillDepth	1049.000000
+	TrueVerticalDepth	1049.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"45"
+	FILE	"0161"
+	UWI	"UWI_001_088_42"
+	CMT	""
+	SurfaceX	1821049.000000
+	SurfaceY	578585.000000
+	BottomHoleX	1821049.000000
+	BottomHoleY	578585.000000
+	StartElevation	246.000000
+	TotalDrillDepth	1440.000000
+	TrueVerticalDepth	1440.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"60"
+	FILE	"0162"
+	UWI	"UWI_001_088_41"
+	CMT	""
+	SurfaceX	1806044.000000
+	SurfaceY	592584.000000
+	BottomHoleX	1806044.000000
+	BottomHoleY	592584.000000
+	StartElevation	281.000000
+	TotalDrillDepth	1669.000000
+	TrueVerticalDepth	1669.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"16"
+	FILE	"0163"
+	UWI	"UWI_001_088_40"
+	CMT	""
+	SurfaceX	1816012.000000
+	SurfaceY	585920.000000
+	BottomHoleX	1816012.000000
+	BottomHoleY	585920.000000
+	StartElevation	155.000000
+	TotalDrillDepth	930.000000
+	TrueVerticalDepth	930.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"54"
+	FILE	"0164"
+	UWI	"UWI_001_088_39"
+	CMT	""
+	SurfaceX	1790778.000000
+	SurfaceY	608665.000000
+	BottomHoleX	1790778.000000
+	BottomHoleY	608665.000000
+	StartElevation	297.000000
+	TotalDrillDepth	2133.000000
+	TrueVerticalDepth	2133.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"30"
+	FILE	"0165"
+	UWI	"UWI_001_088_38"
+	CMT	""
+	SurfaceX	1821909.000000
+	SurfaceY	564203.000000
+	BottomHoleX	1821909.000000
+	BottomHoleY	564203.000000
+	StartElevation	383.000000
+	TotalDrillDepth	1199.000000
+	TrueVerticalDepth	1199.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"40"
+	FILE	"0166"
+	UWI	"UWI_001_088_37"
+	CMT	""
+	SurfaceX	1811867.000000
+	SurfaceY	575020.000000
+	BottomHoleX	1811867.000000
+	BottomHoleY	575020.000000
+	StartElevation	414.000000
+	TotalDrillDepth	736.000000
+	TrueVerticalDepth	736.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"35"
+	FILE	"0167"
+	UWI	"UWI_001_088_36"
+	CMT	""
+	SurfaceX	1830797.000000
+	SurfaceY	568295.000000
+	BottomHoleX	1830797.000000
+	BottomHoleY	568295.000000
+	StartElevation	183.000000
+	TotalDrillDepth	1037.000000
+	TrueVerticalDepth	1037.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"52"
+	FILE	"0168"
+	UWI	"UWI_001_088_35"
+	CMT	""
+	SurfaceX	1785862.000000
+	SurfaceY	607602.000000
+	BottomHoleX	1785862.000000
+	BottomHoleY	607602.000000
+	StartElevation	373.000000
+	TotalDrillDepth	1383.000000
+	TrueVerticalDepth	1383.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"29"
+	FILE	"0169"
+	UWI	"UWI_001_088_34"
+	CMT	""
+	SurfaceX	1817973.000000
+	SurfaceY	567215.000000
+	BottomHoleX	1817973.000000
+	BottomHoleY	567215.000000
+	StartElevation	374.000000
+	TotalDrillDepth	750.000000
+	TrueVerticalDepth	750.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"59"
+	FILE	"0170"
+	UWI	"UWI_001_088_33"
+	CMT	""
+	SurfaceX	1805609.000000
+	SurfaceY	595330.000000
+	BottomHoleX	1805609.000000
+	BottomHoleY	595330.000000
+	StartElevation	182.000000
+	TotalDrillDepth	1274.000000
+	TrueVerticalDepth	1274.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"14"
+	FILE	"0171"
+	UWI	"UWI_001_088_32"
+	CMT	""
+	SurfaceX	1825278.000000
+	SurfaceY	579494.000000
+	BottomHoleX	1825278.000000
+	BottomHoleY	579494.000000
+	StartElevation	159.000000
+	TotalDrillDepth	822.000000
+	TrueVerticalDepth	822.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"7"
+	FILE	"0172"
+	UWI	"UWI_001_088_31"
+	CMT	""
+	SurfaceX	1840330.000000
+	SurfaceY	561712.000000
+	BottomHoleX	1840330.000000
+	BottomHoleY	561712.000000
+	StartElevation	238.000000
+	TotalDrillDepth	1119.000000
+	TrueVerticalDepth	1119.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"31"
+	FILE	"0173"
+	UWI	"UWI_001_088_30"
+	CMT	""
+	SurfaceX	1825363.000000
+	SurfaceY	561371.000000
+	BottomHoleX	1825363.000000
+	BottomHoleY	561371.000000
+	StartElevation	514.000000
+	TotalDrillDepth	3656.000000
+	TrueVerticalDepth	3656.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"44"
+	FILE	"0174"
+	UWI	"UWI_001_088_29"
+	CMT	""
+	SurfaceX	1821861.000000
+	SurfaceY	576451.000000
+	BottomHoleX	1821861.000000
+	BottomHoleY	576451.000000
+	StartElevation	417.000000
+	TotalDrillDepth	2001.000000
+	TrueVerticalDepth	2001.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"32"
+	FILE	"0175"
+	UWI	"UWI_001_088_28"
+	CMT	""
+	SurfaceX	1828781.000000
+	SurfaceY	555495.000000
+	BottomHoleX	1828781.000000
+	BottomHoleY	555495.000000
+	StartElevation	479.000000
+	TotalDrillDepth	3190.000000
+	TrueVerticalDepth	3190.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"41"
+	FILE	"0176"
+	UWI	"UWI_001_088_27"
+	CMT	""
+	SurfaceX	1813601.000000
+	SurfaceY	574084.000000
+	BottomHoleX	1813601.000000
+	BottomHoleY	574084.000000
+	StartElevation	400.000000
+	TotalDrillDepth	199.000000
+	TrueVerticalDepth	199.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"47"
+	FILE	"0177"
+	UWI	"UWI_001_088_26"
+	CMT	""
+	SurfaceX	1808318.000000
+	SurfaceY	580191.000000
+	BottomHoleX	1808318.000000
+	BottomHoleY	580191.000000
+	StartElevation	551.000000
+	TotalDrillDepth	1703.000000
+	TrueVerticalDepth	1703.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"15"
+	FILE	"0178"
+	UWI	"UWI_001_088_25"
+	CMT	""
+	SurfaceX	1823691.000000
+	SurfaceY	581202.000000
+	BottomHoleX	1823691.000000
+	BottomHoleY	581202.000000
+	StartElevation	160.000000
+	TotalDrillDepth	468.000000
+	TrueVerticalDepth	468.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"13"
+	FILE	"0179"
+	UWI	"UWI_001_088_24"
+	CMT	""
+	SurfaceX	1827018.000000
+	SurfaceY	577928.000000
+	BottomHoleX	1827018.000000
+	BottomHoleY	577928.000000
+	StartElevation	130.000000
+	TotalDrillDepth	822.000000
+	TrueVerticalDepth	822.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"39"
+	FILE	"0180"
+	UWI	"UWI_001_088_23"
+	CMT	""
+	SurfaceX	1808978.000000
+	SurfaceY	574794.000000
+	BottomHoleX	1808978.000000
+	BottomHoleY	574794.000000
+	StartElevation	345.000000
+	TotalDrillDepth	1380.000000
+	TrueVerticalDepth	1380.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"49"
+	FILE	"0181"
+	UWI	"UWI_001_088_22"
+	CMT	""
+	SurfaceX	1808144.000000
+	SurfaceY	590994.000000
+	BottomHoleX	1808144.000000
+	BottomHoleY	590994.000000
+	StartElevation	155.000000
+	TotalDrillDepth	971.000000
+	TrueVerticalDepth	971.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"37"
+	FILE	"0182"
+	UWI	"UWI_001_088_21"
+	CMT	""
+	SurfaceX	1838801.000000
+	SurfaceY	570622.000000
+	BottomHoleX	1838801.000000
+	BottomHoleY	570622.000000
+	StartElevation	308.000000
+	TotalDrillDepth	881.000000
+	TrueVerticalDepth	881.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"36"
+	FILE	"0183"
+	UWI	"UWI_001_088_20"
+	CMT	""
+	SurfaceX	1836683.000000
+	SurfaceY	570771.000000
+	BottomHoleX	1836683.000000
+	BottomHoleY	570771.000000
+	StartElevation	326.000000
+	TotalDrillDepth	927.000000
+	TrueVerticalDepth	927.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"10"
+	FILE	"0184"
+	UWI	"UWI_001_088_19"
+	CMT	""
+	SurfaceX	1832685.000000
+	SurfaceY	569673.000000
+	BottomHoleX	1832685.000000
+	BottomHoleY	569673.000000
+	StartElevation	195.000000
+	TotalDrillDepth	652.000000
+	TrueVerticalDepth	652.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"8"
+	FILE	"0185"
+	UWI	"UWI_001_088_18"
+	CMT	""
+	SurfaceX	1838543.000000
+	SurfaceY	562522.000000
+	BottomHoleX	1838543.000000
+	BottomHoleY	562522.000000
+	StartElevation	219.000000
+	TotalDrillDepth	1888.000000
+	TrueVerticalDepth	1888.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"5"
+	FILE	"0186"
+	UWI	"UWI_001_088_17"
+	CMT	""
+	SurfaceX	1849063.000000
+	SurfaceY	551350.000000
+	BottomHoleX	1849063.000000
+	BottomHoleY	551350.000000
+	StartElevation	484.000000
+	TotalDrillDepth	1455.000000
+	TrueVerticalDepth	1455.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"2"
+	FILE	"0187"
+	UWI	"UWI_001_088_16"
+	CMT	""
+	SurfaceX	1848797.000000
+	SurfaceY	536701.000000
+	BottomHoleX	1848797.000000
+	BottomHoleY	536701.000000
+	StartElevation	237.000000
+	TotalDrillDepth	1332.000000
+	TrueVerticalDepth	1332.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"65"
+	FILE	"0188"
+	UWI	"UWI_001_088_15"
+	CMT	""
+	SurfaceX	1860625.000000
+	SurfaceY	551198.000000
+	BottomHoleX	1860625.000000
+	BottomHoleY	551198.000000
+	StartElevation	432.000000
+	TotalDrillDepth	1899.000000
+	TrueVerticalDepth	1899.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"3"
+	FILE	"0189"
+	UWI	"UWI_001_088_14"
+	CMT	""
+	SurfaceX	1851325.000000
+	SurfaceY	543009.000000
+	BottomHoleX	1851325.000000
+	BottomHoleY	543009.000000
+	StartElevation	240.000000
+	TotalDrillDepth	1635.000000
+	TrueVerticalDepth	1635.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"63"
+	FILE	"0190"
+	UWI	"UWI_001_088_13"
+	CMT	""
+	SurfaceX	1867988.000000
+	SurfaceY	543328.000000
+	BottomHoleX	1867988.000000
+	BottomHoleY	543328.000000
+	StartElevation	422.000000
+	TotalDrillDepth	2352.000000
+	TrueVerticalDepth	2352.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"66"
+	FILE	"0191"
+	UWI	"UWI_001_088_12"
+	CMT	""
+	SurfaceX	1863586.000000
+	SurfaceY	545988.000000
+	BottomHoleX	1863586.000000
+	BottomHoleY	545988.000000
+	StartElevation	360.000000
+	TotalDrillDepth	2254.000000
+	TrueVerticalDepth	2254.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"1"
+	FILE	"0192"
+	UWI	"UWI_001_088_11"
+	CMT	""
+	SurfaceX	1851615.000000
+	SurfaceY	531050.000000
+	BottomHoleX	1851615.000000
+	BottomHoleY	531050.000000
+	StartElevation	274.000000
+	TotalDrillDepth	1275.000000
+	TrueVerticalDepth	1275.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"61"
+	FILE	"0193"
+	UWI	"UWI_001_088_10"
+	CMT	""
+	SurfaceX	1849123.000000
+	SurfaceY	549173.000000
+	BottomHoleX	1849123.000000
+	BottomHoleY	549173.000000
+	StartElevation	284.000000
+	TotalDrillDepth	1844.000000
+	TrueVerticalDepth	1844.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"62"
+	FILE	"0194"
+	UWI	"UWI_001_088_9"
+	CMT	""
+	SurfaceX	1854938.000000
+	SurfaceY	545579.000000
+	BottomHoleX	1854938.000000
+	BottomHoleY	545579.000000
+	StartElevation	282.000000
+	TotalDrillDepth	2164.000000
+	TrueVerticalDepth	2164.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"68"
+	FILE	"0195"
+	UWI	"UWI_001_088_8"
+	CMT	""
+	SurfaceX	1868946.000000
+	SurfaceY	528912.000000
+	BottomHoleX	1868946.000000
+	BottomHoleY	528912.000000
+	StartElevation	437.000000
+	TotalDrillDepth	1321.000000
+	TrueVerticalDepth	1321.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"4"
+	FILE	"0196"
+	UWI	"UWI_001_088_7"
+	CMT	""
+	SurfaceX	1844844.000000
+	SurfaceY	546453.000000
+	BottomHoleX	1844844.000000
+	BottomHoleY	546453.000000
+	StartElevation	256.000000
+	TotalDrillDepth	1496.000000
+	TrueVerticalDepth	1496.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"33"
+	FILE	"0197"
+	UWI	"UWI_001_088_6"
+	CMT	""
+	SurfaceX	1831218.000000
+	SurfaceY	551437.000000
+	BottomHoleX	1831218.000000
+	BottomHoleY	551437.000000
+	StartElevation	332.000000
+	TotalDrillDepth	2094.000000
+	TrueVerticalDepth	2094.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"67"
+	FILE	"0198"
+	UWI	"UWI_001_088_5"
+	CMT	""
+	SurfaceX	1869320.000000
+	SurfaceY	537086.000000
+	BottomHoleX	1869320.000000
+	BottomHoleY	537086.000000
+	StartElevation	293.000000
+	TotalDrillDepth	1725.000000
+	TrueVerticalDepth	1725.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"56"
+	FILE	"0199"
+	UWI	"UWI_001_088_4_49"
+	CMT	""
+	SurfaceX	1797734.000000
+	SurfaceY	605995.000000
+	BottomHoleX	1797734.000000
+	BottomHoleY	605995.000000
+	StartElevation	296.000000
+	TotalDrillDepth	1046.000000
+	TrueVerticalDepth	1046.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"19"
+	FILE	"0200"
+	UWI	"UWI_001_088_3_40"
+	CMT	""
+	SurfaceX	1805053.000000
+	SurfaceY	598523.000000
+	BottomHoleX	1805053.000000
+	BottomHoleY	598523.000000
+	StartElevation	182.000000
+	TotalDrillDepth	813.000000
+	TrueVerticalDepth	813.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"11"
+	FILE	"0201"
+	UWI	"UWI_001_088_2_30"
+	CMT	""
+	SurfaceX	1830802.000000
+	SurfaceY	572445.000000
+	BottomHoleX	1830802.000000
+	BottomHoleY	572445.000000
+	StartElevation	139.000000
+	TotalDrillDepth	755.000000
+	TrueVerticalDepth	755.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"42"
+	FILE	"0202"
+	UWI	"UWI_001_088_1_20"
+	CMT	""
+	SurfaceX	1817344.000000
+	SurfaceY	571334.000000
+	BottomHoleX	1817344.000000
+	BottomHoleY	571334.000000
+	StartElevation	458.000000
+	TotalDrillDepth	789.000000
+	TrueVerticalDepth	789.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"12"
+	FILE	"0203"
+	UWI	"UWI_001_19_003"
+	CMT	""
+	SurfaceX	1829934.000000
+	SurfaceY	574040.000000
+	BottomHoleX	1829934.000000
+	BottomHoleY	574040.000000
+	StartElevation	137.000000
+	TotalDrillDepth	785.000000
+	TrueVerticalDepth	785.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"50"
+	FILE	"0204"
+	UWI	"UWI_001_39_003"
+	CMT	""
+	SurfaceX	1808843.000000
+	SurfaceY	591702.000000
+	BottomHoleX	1808843.000000
+	BottomHoleY	591702.000000
+	StartElevation	162.000000
+	TotalDrillDepth	757.000000
+	TrueVerticalDepth	757.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"18"
+	FILE	"0205"
+	UWI	"UWI_001_13_003"
+	CMT	""
+	SurfaceX	1810315.000000
+	SurfaceY	592091.000000
+	BottomHoleX	1810315.000000
+	BottomHoleY	592091.000000
+	StartElevation	149.000000
+	TotalDrillDepth	994.000000
+	TrueVerticalDepth	994.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"55"
+	FILE	"0206"
+	UWI	"UWI_001_34_003"
+	CMT	""
+	SurfaceX	1796675.000000
+	SurfaceY	605878.000000
+	BottomHoleX	1796675.000000
+	BottomHoleY	605878.000000
+	StartElevation	470.000000
+	TotalDrillDepth	1256.000000
+	TrueVerticalDepth	1256.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"20"
+	FILE	"0207"
+	UWI	"UWI_001_11_003"
+	CMT	""
+	SurfaceX	1798449.000000
+	SurfaceY	606146.000000
+	BottomHoleX	1798449.000000
+	BottomHoleY	606146.000000
+	StartElevation	200.000000
+	TotalDrillDepth	1159.000000
+	TrueVerticalDepth	1159.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"46"
+	FILE	"0208"
+	UWI	"UWI_001_43_003"
+	CMT	""
+	SurfaceX	1822135.000000
+	SurfaceY	580795.000000
+	BottomHoleX	1822135.000000
+	BottomHoleY	580795.000000
+	StartElevation	230.000000
+	TotalDrillDepth	408.000000
+	TrueVerticalDepth	408.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"6"
+	FILE	"0209"
+	UWI	"UWI_001_5_062"
+	CMT	""
+	SurfaceX	1844498.000000
+	SurfaceY	553706.000000
+	BottomHoleX	1844498.000000
+	BottomHoleY	553706.000000
+	StartElevation	254.000000
+	TotalDrillDepth	1539.000000
+	TrueVerticalDepth	1539.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"64"
+	FILE	"0210"
+	UWI	"UWI_001_25_003"
+	CMT	""
+	SurfaceX	1850465.000000
+	SurfaceY	555457.000000
+	BottomHoleX	1850465.000000
+	BottomHoleY	555457.000000
+	StartElevation	314.000000
+	TotalDrillDepth	1565.000000
+	TrueVerticalDepth	1565.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"48"
+	FILE	"0211"
+	UWI	"UWI_001_41_003"
+	CMT	""
+	SurfaceX	1810458.000000
+	SurfaceY	586087.000000
+	BottomHoleX	1810458.000000
+	BottomHoleY	586087.000000
+	StartElevation	252.000000
+	TotalDrillDepth	2054.000000
+	TrueVerticalDepth	2054.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"24"
+	FILE	"0212"
+	UWI	"UWI_001_65_003"
+	CMT	""
+	SurfaceX	1792341.000000
+	SurfaceY	613890.000000
+	BottomHoleX	1792341.000000
+	BottomHoleY	613890.000000
+	StartElevation	116.000000
+	TotalDrillDepth	1860.000000
+	TrueVerticalDepth	1860.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"27"
+	FILE	"0213"
+	UWI	"UWI_001_62_003"
+	CMT	""
+	SurfaceX	1814390.000000
+	SurfaceY	568257.000000
+	BottomHoleX	1814390.000000
+	BottomHoleY	568257.000000
+	StartElevation	300.000000
+	TotalDrillDepth	728.000000
+	TrueVerticalDepth	728.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"25"
+	FILE	"0214"
+	UWI	"UWI_001_64_003"
+	CMT	""
+	SurfaceX	1806492.000000
+	SurfaceY	575686.000000
+	BottomHoleX	1806492.000000
+	BottomHoleY	575686.000000
+	StartElevation	368.000000
+	TotalDrillDepth	1759.000000
+	TrueVerticalDepth	1759.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"53"
+	FILE	"0215"
+	UWI	"UWI_001_36_003"
+	CMT	""
+	SurfaceX	1790869.000000
+	SurfaceY	606416.000000
+	BottomHoleX	1790869.000000
+	BottomHoleY	606416.000000
+	StartElevation	130.000000
+	TotalDrillDepth	2332.000000
+	TrueVerticalDepth	2332.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"26"
+	FILE	"0216"
+	UWI	"UWI_001_63_003"
+	CMT	""
+	SurfaceX	1812214.000000
+	SurfaceY	570714.000000
+	BottomHoleX	1812214.000000
+	BottomHoleY	570714.000000
+	StartElevation	314.000000
+	TotalDrillDepth	1248.000000
+	TrueVerticalDepth	1248.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"23"
+	FILE	"0217"
+	UWI	"UWI_001_66_003"
+	CMT	""
+	SurfaceX	1793339.000000
+	SurfaceY	611762.000000
+	BottomHoleX	1793339.000000
+	BottomHoleY	611762.000000
+	StartElevation	86.000000
+	TotalDrillDepth	1815.000000
+	TrueVerticalDepth	1815.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"28"
+	FILE	"0218"
+	UWI	"UWI_001_61_003"
+	CMT	""
+	SurfaceX	1815967.000000
+	SurfaceY	566639.000000
+	BottomHoleX	1815967.000000
+	BottomHoleY	566639.000000
+	StartElevation	302.000000
+	TotalDrillDepth	455.000000
+	TrueVerticalDepth	455.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"51"
+	FILE	"0219"
+	UWI	"UWI_001_38_003"
+	CMT	""
+	SurfaceX	1781686.000000
+	SurfaceY	606038.000000
+	BottomHoleX	1781686.000000
+	BottomHoleY	606038.000000
+	StartElevation	243.000000
+	TotalDrillDepth	1005.000000
+	TrueVerticalDepth	1005.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"21"
+	FILE	"0220"
+	UWI	"UWI_001_68_003"
+	CMT	""
+	SurfaceX	1796946.000000
+	SurfaceY	607884.000000
+	BottomHoleX	1796946.000000
+	BottomHoleY	607884.000000
+	StartElevation	121.000000
+	TotalDrillDepth	1527.000000
+	TrueVerticalDepth	1527.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"43"
+	FILE	"0221"
+	UWI	"UWI_001_46_003"
+	CMT	""
+	SurfaceX	1817598.000000
+	SurfaceY	574356.000000
+	BottomHoleX	1817598.000000
+	BottomHoleY	574356.000000
+	StartElevation	566.000000
+	TotalDrillDepth	1908.000000
+	TrueVerticalDepth	1908.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","MarionMovie"	}
+	NAME	""
+	CNAME	"22"
+	FILE	"0222"
+	UWI	"UWI_001_67_003"
+	CMT	""
+	SurfaceX	1794722.000000
+	SurfaceY	608888.000000
+	BottomHoleX	1794722.000000
+	BottomHoleY	608888.000000
+	StartElevation	115.000000
+	TotalDrillDepth	1138.000000
+	TrueVerticalDepth	1138.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	3
+}
+WELL {
+	LISTS {	"ALL","GrahamXsxn"	}
+	NAME	"05320177"
+	CNAME	"Connell USL 1"
+	FILE	"0151"
+	UWI	"UWI_001_87"
+	CMT	""
+	SurfaceX	1819502.000000
+	SurfaceY	571235.000000
+	BottomHoleX	1819502.000000
+	BottomHoleY	571235.000000
+	StartElevation	644.000000
+	TotalDrillDepth	2560.000000
+	TrueVerticalDepth	2560.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","GrahamXsxn"	}
+	NAME	"05300045"
+	CNAME	"Orradre H10-13"
+	FILE	"0152"
+	UWI	"UWI_001_86"
+	CMT	""
+	SurfaceX	1833731.000000
+	SurfaceY	567568.700000
+	BottomHoleX	1833731.000000
+	BottomHoleY	567568.700000
+	StartElevation	278.000000
+	TotalDrillDepth	718.000000
+	TrueVerticalDepth	718.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","GrahamXsxn","SilicaPaper"	}
+	NAME	"05301361"
+	CNAME	"Alexander 85-9"
+	FILE	"0153"
+	UWI	"UWI_001_85"
+	CMT	""
+	SurfaceX	1839276.000000
+	SurfaceY	569133.900000
+	BottomHoleX	1839276.000000
+	BottomHoleY	569133.900000
+	StartElevation	284.000000
+	TotalDrillDepth	857.000000
+	TrueVerticalDepth	857.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","GrahamXsxn","TD_Bsmt-Schist","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps","SilicaPaper"	}
+	NAME	"05301388"
+	CNAME	"R&W 1"
+	FILE	"0154"
+	UWI	"UWI_001_84"
+	CMT	""
+	SurfaceX	1847583.000000
+	SurfaceY	565911.000000
+	BottomHoleX	1847583.000000
+	BottomHoleY	565911.000000
+	StartElevation	315.000000
+	TotalDrillDepth	1250.000000
+	TrueVerticalDepth	1250.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301303"
+	CNAME	"22"
+	FILE	"0113"
+	UWI	"UWI_001_67_1"
+	CMT	""
+	SurfaceX	1794722.000000
+	SurfaceY	608888.000000
+	BottomHoleX	1794722.000000
+	BottomHoleY	608888.000000
+	StartElevation	115.000000
+	TotalDrillDepth	1138.000000
+	TrueVerticalDepth	1138.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","VenocoWells","TD_Sdht","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","SilicaPaper"	}
+	NAME	"05321910"
+	CNAME	"Bradley Minerals 2-2"
+	FILE	"0078"
+	UWI	"UWI_001_82"
+	CMT	""
+	SurfaceX	1831949.000000
+	SurfaceY	561216.500000
+	BottomHoleX	1831614.688219
+	BottomHoleY	562553.348770
+	StartElevation	199.000000
+	TotalDrillDepth	3169.919922
+	TrueVerticalDepth	2832.120117
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","VenocoWells","TD_Bsmt","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","SilicaPaper"	}
+	NAME	"05322029"
+	CNAME	"Bradley Minerals 2-6"
+	FILE	"0079"
+	UWI	"UWI_001_81"
+	CMT	""
+	SurfaceX	1835185.000000
+	SurfaceY	561056.000000
+	BottomHoleX	1835216.351872
+	BottomHoleY	561100.326818
+	StartElevation	172.000000
+	TotalDrillDepth	2064.719971
+	TrueVerticalDepth	2062.919922
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","VenocoWells","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05322059"
+	CNAME	"Hames Valley 1-35"
+	FILE	"0080"
+	UWI	"UWI_001_80"
+	CMT	""
+	SurfaceX	1832167.000000
+	SurfaceY	563334.500000
+	BottomHoleX	1831133.806322
+	BottomHoleY	563152.252510
+	StartElevation	312.000000
+	TotalDrillDepth	3046.479980
+	TrueVerticalDepth	2636.100098
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","VenocoWells","HamesValley"	}
+	NAME	"05322059-01"
+	CNAME	"Hames Valley 1-35RD"
+	FILE	"0081"
+	UWI	"UWI_001_79"
+	CMT	""
+	SurfaceX	1832164.000000
+	SurfaceY	563332.400000
+	BottomHoleX	1830739.507795
+	BottomHoleY	563010.172811
+	StartElevation	312.000000
+	TotalDrillDepth	3397.610107
+	TrueVerticalDepth	2623.790039
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","VenocoWells","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05322123"
+	CNAME	"Hames Valley 3-6"
+	FILE	"0082"
+	UWI	"UWI_001_78"
+	CMT	""
+	SurfaceX	1835179.000000
+	SurfaceY	561062.600000
+	BottomHoleX	1833204.647397
+	BottomHoleY	560936.379258
+	StartElevation	173.000000
+	TotalDrillDepth	3707.889893
+	TrueVerticalDepth	2617.070068
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples","TD_Bsmt"	}
+	NAME	"05321651-TP-old"
+	CNAME	"BL-OLD"
+	FILE	"0069"
+	UWI	"UWI_001_77"
+	CMT	""
+	SurfaceX	1832248.000000
+	SurfaceY	554780.800000
+	BottomHoleX	1832248.000000
+	BottomHoleY	554780.800000
+	StartElevation	208.000000
+	TotalDrillDepth	3025.444824
+	TrueVerticalDepth	2923.998291
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05320897"
+	CNAME	"SA2"
+	FILE	"0070"
+	UWI	"UWI_001_76"
+	CMT	""
+	SurfaceX	1830591.000000
+	SurfaceY	567594.500000
+	BottomHoleX	1830591.000000
+	BottomHoleY	567594.500000
+	StartElevation	235.000000
+	TotalDrillDepth	1571.000000
+	TrueVerticalDepth	1571.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05300162"
+	CNAME	"SA1"
+	FILE	"0071"
+	UWI	"UWI_001_75"
+	CMT	""
+	SurfaceX	1834819.000000
+	SurfaceY	568265.300000
+	BottomHoleX	1834819.000000
+	BottomHoleY	568265.300000
+	StartElevation	278.000000
+	TotalDrillDepth	706.000000
+	TrueVerticalDepth	706.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05320899"
+	CNAME	"SAL"
+	FILE	"0072"
+	UWI	"UWI_001_74"
+	CMT	""
+	SurfaceX	1832547.000000
+	SurfaceY	568380.900000
+	BottomHoleX	1832547.000000
+	BottomHoleY	568380.900000
+	StartElevation	190.000000
+	TotalDrillDepth	646.000000
+	TrueVerticalDepth	646.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05320367"
+	CNAME	"SAA"
+	FILE	"0073"
+	UWI	"UWI_001_73"
+	CMT	""
+	SurfaceX	1832696.000000
+	SurfaceY	569958.500000
+	BottomHoleX	1832696.000000
+	BottomHoleY	569958.500000
+	StartElevation	190.000000
+	TotalDrillDepth	0.000000
+	TrueVerticalDepth	0.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05321972"
+	CNAME	"LC"
+	FILE	"0074"
+	UWI	"UWI_001_72"
+	CMT	""
+	SurfaceX	1833535.000000
+	SurfaceY	575310.300000
+	BottomHoleX	1833535.000000
+	BottomHoleY	575310.300000
+	StartElevation	208.000000
+	TotalDrillDepth	1073.000000
+	TrueVerticalDepth	511.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05321182"
+	CNAME	"MR"
+	FILE	"0075"
+	UWI	"UWI_001_71"
+	CMT	""
+	SurfaceX	1832091.000000
+	SurfaceY	577602.200000
+	BottomHoleX	1832091.000000
+	BottomHoleY	577602.200000
+	StartElevation	231.000000
+	TotalDrillDepth	627.000000
+	TrueVerticalDepth	627.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05301023"
+	CNAME	"KC"
+	FILE	"0076"
+	UWI	"UWI_001_70"
+	CMT	""
+	SurfaceX	1808476.000000
+	SurfaceY	591741.800000
+	BottomHoleX	1808476.000000
+	BottomHoleY	591741.800000
+	StartElevation	144.000000
+	TotalDrillDepth	628.000000
+	TrueVerticalDepth	628.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05320363"
+	CNAME	"MS"
+	FILE	"0077"
+	UWI	"UWI_001_69"
+	CMT	""
+	SurfaceX	1797943.000000
+	SurfaceY	605487.000000
+	BottomHoleX	1797943.000000
+	BottomHoleY	605487.000000
+	StartElevation	256.000000
+	TotalDrillDepth	963.000000
+	TrueVerticalDepth	963.000000
+	COLOR	-16777216
+	SYMBOL	29
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301262"
+	CNAME	"21"
+	FILE	"0011"
+	UWI	"UWI_001_68_2"
+	CMT	""
+	SurfaceX	1796946.000000
+	SurfaceY	607883.500000
+	BottomHoleX	1796946.000000
+	BottomHoleY	607883.500000
+	StartElevation	121.000000
+	TotalDrillDepth	1527.000000
+	TrueVerticalDepth	1527.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301228"
+	CNAME	"23"
+	FILE	"0013"
+	UWI	"UWI_001_66_2"
+	CMT	""
+	SurfaceX	1793339.000000
+	SurfaceY	611761.600000
+	BottomHoleX	1793339.000000
+	BottomHoleY	611761.600000
+	StartElevation	86.000000
+	TotalDrillDepth	1815.000000
+	TrueVerticalDepth	1815.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion_East","TD_Bsmt-Schist","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301209"
+	CNAME	"24"
+	FILE	"0014"
+	UWI	"UWI_001_65_2"
+	CMT	""
+	SurfaceX	1792341.000000
+	SurfaceY	613889.700000
+	BottomHoleX	1792341.000000
+	BottomHoleY	613889.700000
+	StartElevation	116.000000
+	TotalDrillDepth	1860.000000
+	TrueVerticalDepth	1860.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion-B4","Marion-C1","Marion_West","CALIBRATION","TD_Bsmt","West_Mar-PaleoNMarion","MarionLMU","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05301219"
+	CNAME	"25"
+	FILE	"0015"
+	UWI	"UWI_001_64_2"
+	CMT	""
+	SurfaceX	1806492.000000
+	SurfaceY	575685.800000
+	BottomHoleX	1806492.000000
+	BottomHoleY	575685.800000
+	StartElevation	368.000000
+	TotalDrillDepth	1759.000000
+	TrueVerticalDepth	1759.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion_West","TD_Sdht","West_Mar-PaleoNMarion","MarionLMU","East_West_inMaps"	}
+	NAME	"05301227"
+	CNAME	"26"
+	FILE	"0016"
+	UWI	"UWI_001_63_2"
+	CMT	""
+	SurfaceX	1812214.000000
+	SurfaceY	570713.600000
+	BottomHoleX	1812214.000000
+	BottomHoleY	570713.600000
+	StartElevation	314.000000
+	TotalDrillDepth	1248.000000
+	TrueVerticalDepth	1248.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","MarionLMU","East_West_inMaps"	}
+	NAME	"05301214"
+	CNAME	"27"
+	FILE	"0017"
+	UWI	"UWI_001_62_2"
+	CMT	""
+	SurfaceX	1814390.000000
+	SurfaceY	568257.000000
+	BottomHoleX	1814390.000000
+	BottomHoleY	568257.000000
+	StartElevation	300.000000
+	TotalDrillDepth	728.000000
+	TrueVerticalDepth	728.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","MarionLMU","East_West_inMaps"	}
+	NAME	"05301257"
+	CNAME	"28"
+	FILE	"0018"
+	UWI	"UWI_001_61_2"
+	CMT	""
+	SurfaceX	1815967.000000
+	SurfaceY	566639.400000
+	BottomHoleX	1815967.000000
+	BottomHoleY	566639.400000
+	StartElevation	302.000000
+	TotalDrillDepth	455.000000
+	TrueVerticalDepth	455.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301445"
+	CNAME	"29"
+	FILE	"0019"
+	UWI	"UWI_001_60"
+	CMT	""
+	SurfaceX	1817973.000000
+	SurfaceY	567215.000000
+	BottomHoleX	1817973.000000
+	BottomHoleY	567215.000000
+	StartElevation	374.000000
+	TotalDrillDepth	750.000000
+	TrueVerticalDepth	750.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B1","Marion_West","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301431"
+	CNAME	"30"
+	FILE	"0020"
+	UWI	"UWI_001_59"
+	CMT	""
+	SurfaceX	1821909.000000
+	SurfaceY	564202.800000
+	BottomHoleX	1821909.000000
+	BottomHoleY	564202.800000
+	StartElevation	383.000000
+	TotalDrillDepth	1199.000000
+	TrueVerticalDepth	1199.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B2","Marion_East","TD_Vaq","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05301459"
+	CNAME	"32"
+	FILE	"0022"
+	UWI	"UWI_001_57"
+	CMT	""
+	SurfaceX	1828781.000000
+	SurfaceY	555495.000000
+	BottomHoleX	1828781.000000
+	BottomHoleY	555495.000000
+	StartElevation	479.000000
+	TotalDrillDepth	3190.000000
+	TrueVerticalDepth	3190.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B2","Marion_East","CALIBRATION","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","RockEval"	}
+	NAME	"07900570"
+	CNAME	"33"
+	FILE	"0023"
+	UWI	"UWI_001_56"
+	CMT	""
+	SurfaceX	1831218.000000
+	SurfaceY	551436.900000
+	BottomHoleX	1831218.000000
+	BottomHoleY	551436.900000
+	StartElevation	332.000000
+	TotalDrillDepth	2094.000000
+	TrueVerticalDepth	2094.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B3","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","SilicaPaper"	}
+	NAME	"05301352"
+	CNAME	"34"
+	FILE	"0024"
+	UWI	"UWI_001_55"
+	CMT	""
+	SurfaceX	1828203.000000
+	SurfaceY	565625.100000
+	BottomHoleX	1828203.000000
+	BottomHoleY	565625.100000
+	StartElevation	331.000000
+	TotalDrillDepth	3340.000000
+	TrueVerticalDepth	3340.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B3","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301437"
+	CNAME	"35"
+	FILE	"0025"
+	UWI	"UWI_001_54"
+	CMT	""
+	SurfaceX	1830797.000000
+	SurfaceY	568295.200000
+	BottomHoleX	1830797.000000
+	BottomHoleY	568295.200000
+	StartElevation	183.000000
+	TotalDrillDepth	1037.000000
+	TrueVerticalDepth	1037.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B3","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320265"
+	CNAME	"36"
+	FILE	"0026"
+	UWI	"UWI_001_53"
+	CMT	""
+	SurfaceX	1836683.000000
+	SurfaceY	570771.200000
+	BottomHoleX	1836683.000000
+	BottomHoleY	570771.200000
+	StartElevation	326.000000
+	TotalDrillDepth	927.000000
+	TrueVerticalDepth	927.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B3","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320212"
+	CNAME	"37"
+	FILE	"0027"
+	UWI	"UWI_001_52"
+	CMT	""
+	SurfaceX	1838801.000000
+	SurfaceY	570622.300000
+	BottomHoleX	1838801.000000
+	BottomHoleY	570622.300000
+	StartElevation	308.000000
+	TotalDrillDepth	881.000000
+	TrueVerticalDepth	881.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B3","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301390"
+	CNAME	"38"
+	FILE	"0028"
+	UWI	"UWI_001_51"
+	CMT	""
+	SurfaceX	1843046.000000
+	SurfaceY	571373.900000
+	BottomHoleX	1843046.000000
+	BottomHoleY	571373.900000
+	StartElevation	363.000000
+	TotalDrillDepth	1049.000000
+	TrueVerticalDepth	1049.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_West","TD_Vaq","West_Mar-PaleoNMarion","MarionLMU","East_West_inMaps"	}
+	NAME	"05320068"
+	CNAME	"39"
+	FILE	"0029"
+	UWI	"UWI_001_50"
+	CMT	""
+	SurfaceX	1808978.000000
+	SurfaceY	574794.200000
+	BottomHoleX	1808978.000000
+	BottomHoleY	574794.200000
+	StartElevation	345.000000
+	TotalDrillDepth	1380.000000
+	TrueVerticalDepth	1380.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301432"
+	CNAME	"40"
+	FILE	"0030"
+	UWI	"UWI_001_49"
+	CMT	""
+	SurfaceX	1811867.000000
+	SurfaceY	575020.300000
+	BottomHoleX	1811867.000000
+	BottomHoleY	575020.300000
+	StartElevation	414.000000
+	TotalDrillDepth	736.000000
+	TrueVerticalDepth	736.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301463"
+	CNAME	"41"
+	FILE	"0031"
+	UWI	"UWI_001_48"
+	CMT	""
+	SurfaceX	1813601.000000
+	SurfaceY	574083.600000
+	BottomHoleX	1813601.000000
+	BottomHoleY	574083.600000
+	StartElevation	400.000000
+	TotalDrillDepth	199.000000
+	TrueVerticalDepth	199.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"Wright-TX1"
+	CNAME	"42"
+	FILE	"0032"
+	UWI	"UWI_001_47"
+	CMT	""
+	SurfaceX	1817344.000000
+	SurfaceY	571333.700000
+	BottomHoleX	1817344.000000
+	BottomHoleY	571333.700000
+	StartElevation	458.000000
+	TotalDrillDepth	789.000000
+	TrueVerticalDepth	789.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_East","CALIBRATION","TD_Vaq","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"05301458"
+	CNAME	"44"
+	FILE	"0034"
+	UWI	"UWI_001_45"
+	CMT	""
+	SurfaceX	1821861.000000
+	SurfaceY	576451.000000
+	BottomHoleX	1821861.000000
+	BottomHoleY	576451.000000
+	StartElevation	417.000000
+	TotalDrillDepth	2001.000000
+	TrueVerticalDepth	2001.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301403"
+	CNAME	"45"
+	FILE	"0035"
+	UWI	"UWI_001_44"
+	CMT	""
+	SurfaceX	1821049.000000
+	SurfaceY	578585.100000
+	BottomHoleX	1821049.000000
+	BottomHoleY	578585.100000
+	StartElevation	246.000000
+	TotalDrillDepth	1440.000000
+	TrueVerticalDepth	1440.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-B4","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301109"
+	CNAME	"46"
+	FILE	"0036"
+	UWI	"UWI_001_43_2"
+	CMT	""
+	SurfaceX	1822135.000000
+	SurfaceY	580794.800000
+	BottomHoleX	1822135.000000
+	BottomHoleY	580794.800000
+	StartElevation	230.000000
+	TotalDrillDepth	408.000000
+	TrueVerticalDepth	408.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C1","Marion_West","TD_Bsmt","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301477"
+	CNAME	"47"
+	FILE	"0037"
+	UWI	"UWI_001_42"
+	CMT	""
+	SurfaceX	1808318.000000
+	SurfaceY	580190.600000
+	BottomHoleX	1808318.000000
+	BottomHoleY	580190.600000
+	StartElevation	551.000000
+	TotalDrillDepth	1703.000000
+	TrueVerticalDepth	1703.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C1","Marion_East","CALIBRATION","TD_Sdht","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"05301208"
+	CNAME	"48"
+	FILE	"0038"
+	UWI	"UWI_001_41_2"
+	CMT	""
+	SurfaceX	1810458.000000
+	SurfaceY	586087.200000
+	BottomHoleX	1810458.000000
+	BottomHoleY	586087.200000
+	StartElevation	252.000000
+	TotalDrillDepth	2054.000000
+	TrueVerticalDepth	2054.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C1","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320129"
+	CNAME	"49"
+	FILE	"0039"
+	UWI	"UWI_001_40"
+	CMT	""
+	SurfaceX	1808144.000000
+	SurfaceY	590993.600000
+	BottomHoleX	1808144.000000
+	BottomHoleY	590993.600000
+	StartElevation	155.000000
+	TotalDrillDepth	971.000000
+	TrueVerticalDepth	971.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C1","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301033"
+	CNAME	"50"
+	FILE	"0040"
+	UWI	"UWI_001_39_2"
+	CMT	""
+	SurfaceX	1808843.000000
+	SurfaceY	591701.800000
+	BottomHoleX	1808843.000000
+	BottomHoleY	591701.800000
+	StartElevation	162.000000
+	TotalDrillDepth	757.000000
+	TrueVerticalDepth	757.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C2","Marion_West","TD_Sdht","West_Mar-PaleoNMarion","East_West_inMaps"	}
+	NAME	"05301260"
+	CNAME	"51"
+	FILE	"0041"
+	UWI	"UWI_001_38_2"
+	CMT	""
+	SurfaceX	1781686.000000
+	SurfaceY	606038.000000
+	BottomHoleX	1781686.000000
+	BottomHoleY	606038.000000
+	StartElevation	243.000000
+	TotalDrillDepth	1005.000000
+	TrueVerticalDepth	1005.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C2","Marion_West","CALIBRATION","TD_Sdht","West_Mar-PaleoNMarion","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05301438"
+	CNAME	"52"
+	FILE	"0042"
+	UWI	"UWI_001_37"
+	CMT	""
+	SurfaceX	1785862.000000
+	SurfaceY	607602.100000
+	BottomHoleX	1785862.000000
+	BottomHoleY	607602.100000
+	StartElevation	373.000000
+	TotalDrillDepth	1383.000000
+	TrueVerticalDepth	1383.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C2","Marion-C3","Marion_West","TD_Vaq","West_Mar-PaleoNMarion","East_West_inMaps","SilicaPaper"	}
+	NAME	"05301221"
+	CNAME	"53"
+	FILE	"0043"
+	UWI	"UWI_001_36_2"
+	CMT	""
+	SurfaceX	1790869.000000
+	SurfaceY	606416.400000
+	BottomHoleX	1790869.000000
+	BottomHoleY	606416.400000
+	StartElevation	130.000000
+	TotalDrillDepth	2332.000000
+	TrueVerticalDepth	2332.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C2","Marion_East","CALIBRATION","TD_Sdht","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"05301429"
+	CNAME	"54"
+	FILE	"0044"
+	UWI	"UWI_001_35"
+	CMT	""
+	SurfaceX	1790778.000000
+	SurfaceY	608665.300000
+	BottomHoleX	1790778.000000
+	BottomHoleY	608665.300000
+	StartElevation	297.000000
+	TotalDrillDepth	2133.000000
+	TrueVerticalDepth	2133.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C2","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301054"
+	CNAME	"55"
+	FILE	"0045"
+	UWI	"UWI_001_34_2"
+	CMT	""
+	SurfaceX	1796675.000000
+	SurfaceY	605877.600000
+	BottomHoleX	1796675.000000
+	BottomHoleY	605877.600000
+	StartElevation	470.000000
+	TotalDrillDepth	1256.000000
+	TrueVerticalDepth	1256.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C2","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"Doud54x"
+	CNAME	"56"
+	FILE	"0046"
+	UWI	"UWI_001_33"
+	CMT	""
+	SurfaceX	1797734.000000
+	SurfaceY	605994.900000
+	BottomHoleX	1797734.000000
+	BottomHoleY	605994.900000
+	StartElevation	296.000000
+	TotalDrillDepth	1046.000000
+	TrueVerticalDepth	1046.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C3","Marion_East","CALIBRATION","TD_Sdht","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"05301355"
+	CNAME	"58"
+	FILE	"0048"
+	UWI	"UWI_001_31"
+	CMT	""
+	SurfaceX	1800172.000000
+	SurfaceY	600257.400000
+	BottomHoleX	1800172.000000
+	BottomHoleY	600257.400000
+	StartElevation	440.000000
+	TotalDrillDepth	2066.000000
+	TrueVerticalDepth	2066.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C3","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"05301449"
+	CNAME	"59"
+	FILE	"0049"
+	UWI	"UWI_001_30"
+	CMT	""
+	SurfaceX	1805609.000000
+	SurfaceY	595330.300000
+	BottomHoleX	1805609.000000
+	BottomHoleY	595330.300000
+	StartElevation	182.000000
+	TotalDrillDepth	1274.000000
+	TrueVerticalDepth	1274.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-C3","Marion_East","CALIBRATION","TD_Sdht","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"05301408"
+	CNAME	"60"
+	FILE	"0050"
+	UWI	"UWI_001_29"
+	CMT	""
+	SurfaceX	1806044.000000
+	SurfaceY	592583.600000
+	BottomHoleX	1806044.000000
+	BottomHoleY	592583.600000
+	StartElevation	281.000000
+	TotalDrillDepth	1669.000000
+	TrueVerticalDepth	1669.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900498"
+	CNAME	"61"
+	FILE	"0051"
+	UWI	"UWI_001_28"
+	CMT	""
+	SurfaceX	1849123.000000
+	SurfaceY	549172.800000
+	BottomHoleX	1849123.000000
+	BottomHoleY	549172.800000
+	StartElevation	284.000000
+	TotalDrillDepth	1844.000000
+	TrueVerticalDepth	1844.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900509"
+	CNAME	"62"
+	FILE	"0052"
+	UWI	"UWI_001_27"
+	CMT	""
+	SurfaceX	1854938.000000
+	SurfaceY	545579.300000
+	BottomHoleX	1854938.000000
+	BottomHoleY	545579.300000
+	StartElevation	282.000000
+	TotalDrillDepth	2164.000000
+	TrueVerticalDepth	2164.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D1","Marion-D2","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900347"
+	CNAME	"63"
+	FILE	"0053"
+	UWI	"UWI_001_26"
+	CMT	""
+	SurfaceX	1867988.000000
+	SurfaceY	543327.500000
+	BottomHoleX	1867988.000000
+	BottomHoleY	543327.500000
+	StartElevation	422.000000
+	TotalDrillDepth	2352.000000
+	TrueVerticalDepth	2352.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D2","Marion_East","TD_Vaq","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301150"
+	CNAME	"64"
+	FILE	"0054"
+	UWI	"UWI_001_25_2"
+	CMT	""
+	SurfaceX	1850465.000000
+	SurfaceY	555457.000000
+	BottomHoleX	1850465.000000
+	BottomHoleY	555457.000000
+	StartElevation	314.000000
+	TotalDrillDepth	1565.000000
+	TrueVerticalDepth	1565.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D2","Marion_East","CALIBRATION","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"07900270"
+	CNAME	"65"
+	FILE	"0055"
+	UWI	"UWI_001_24"
+	CMT	""
+	SurfaceX	1860625.000000
+	SurfaceY	551197.500000
+	BottomHoleX	1860625.000000
+	BottomHoleY	551197.500000
+	StartElevation	432.000000
+	TotalDrillDepth	1899.000000
+	TrueVerticalDepth	1899.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D2","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900489"
+	CNAME	"66"
+	FILE	"0056"
+	UWI	"UWI_001_23"
+	CMT	""
+	SurfaceX	1863586.000000
+	SurfaceY	545988.500000
+	BottomHoleX	1863586.000000
+	BottomHoleY	545988.500000
+	StartElevation	360.000000
+	TotalDrillDepth	2254.000000
+	TrueVerticalDepth	2254.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-D2","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07920380"
+	CNAME	"67"
+	FILE	"0057"
+	UWI	"UWI_001_22"
+	CMT	""
+	SurfaceX	1869320.000000
+	SurfaceY	537085.900000
+	BottomHoleX	1869320.000000
+	BottomHoleY	537085.900000
+	StartElevation	293.000000
+	TotalDrillDepth	1725.000000
+	TrueVerticalDepth	1725.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"Rosenberg3"
+	CNAME	"11"
+	FILE	"0059"
+	UWI	"UWI_001_20"
+	CMT	""
+	SurfaceX	1830802.000000
+	SurfaceY	572445.200000
+	BottomHoleX	1830802.000000
+	BottomHoleY	572445.200000
+	StartElevation	139.000000
+	TotalDrillDepth	755.000000
+	TrueVerticalDepth	755.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05300923"
+	CNAME	"12"
+	FILE	"0060"
+	UWI	"UWI_001_19_2"
+	CMT	""
+	SurfaceX	1829934.000000
+	SurfaceY	574040.100000
+	BottomHoleX	1829934.000000
+	BottomHoleY	574040.100000
+	StartElevation	137.000000
+	TotalDrillDepth	785.000000
+	TrueVerticalDepth	785.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301493"
+	CNAME	"13"
+	FILE	"0061"
+	UWI	"UWI_001_18"
+	CMT	""
+	SurfaceX	1827018.000000
+	SurfaceY	577928.400000
+	BottomHoleX	1827018.000000
+	BottomHoleY	577928.400000
+	StartElevation	130.000000
+	TotalDrillDepth	822.000000
+	TrueVerticalDepth	822.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","MarionLMU","East_West_inMaps"	}
+	NAME	"05301451"
+	CNAME	"14"
+	FILE	"0062"
+	UWI	"UWI_001_17"
+	CMT	""
+	SurfaceX	1825278.000000
+	SurfaceY	579493.700000
+	BottomHoleX	1825278.000000
+	BottomHoleY	579493.700000
+	StartElevation	159.000000
+	TotalDrillDepth	822.000000
+	TrueVerticalDepth	822.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion-B4","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","MarionLMU","East_West_inMaps"	}
+	NAME	"05301492"
+	CNAME	"15"
+	FILE	"0063"
+	UWI	"UWI_001_16"
+	CMT	""
+	SurfaceX	1823691.000000
+	SurfaceY	581201.500000
+	BottomHoleX	1823691.000000
+	BottomHoleY	581201.500000
+	StartElevation	160.000000
+	TotalDrillDepth	468.000000
+	TrueVerticalDepth	468.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion-A2","Marion_East","East_Mar-Ven-TP-K","MarionLMU","East_West_inMaps"	}
+	NAME	"05301415"
+	CNAME	"16"
+	FILE	"0064"
+	UWI	"UWI_001_15"
+	CMT	""
+	SurfaceX	1816012.000000
+	SurfaceY	585919.600000
+	BottomHoleX	1816012.000000
+	BottomHoleY	585919.600000
+	StartElevation	155.000000
+	TotalDrillDepth	930.000000
+	TrueVerticalDepth	930.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301351"
+	CNAME	"17"
+	FILE	"0065"
+	UWI	"UWI_001_14"
+	CMT	""
+	SurfaceX	1812288.000000
+	SurfaceY	590274.600000
+	BottomHoleX	1812288.000000
+	BottomHoleY	590274.600000
+	StartElevation	163.000000
+	TotalDrillDepth	810.000000
+	TrueVerticalDepth	810.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion-C1","Marion-C3","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","MarionLMU","East_West_inMaps"	}
+	NAME	"05301041"
+	CNAME	"18"
+	FILE	"0066"
+	UWI	"UWI_001_13_2"
+	CMT	""
+	SurfaceX	1810315.000000
+	SurfaceY	592090.700000
+	BottomHoleX	1810315.000000
+	BottomHoleY	592090.700000
+	StartElevation	149.000000
+	TotalDrillDepth	994.000000
+	TrueVerticalDepth	994.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"MozziniB2-1"
+	CNAME	"19"
+	FILE	"0067"
+	UWI	"UWI_001_12"
+	CMT	""
+	SurfaceX	1805053.000000
+	SurfaceY	598523.000000
+	BottomHoleX	1805053.000000
+	BottomHoleY	598523.000000
+	StartElevation	182.000000
+	TotalDrillDepth	813.000000
+	TrueVerticalDepth	813.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A2","Marion-C2","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301059"
+	CNAME	"20"
+	FILE	"0068"
+	UWI	"UWI_001_11_2"
+	CMT	""
+	SurfaceX	1798449.000000
+	SurfaceY	606146.200000
+	BottomHoleX	1798449.000000
+	BottomHoleY	606146.200000
+	StartElevation	200.000000
+	TotalDrillDepth	1159.000000
+	TrueVerticalDepth	1159.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900497"
+	CNAME	"1"
+	FILE	"0001"
+	UWI	"UWI_001_10"
+	CMT	""
+	SurfaceX	1851615.000000
+	SurfaceY	531049.800000
+	BottomHoleX	1851615.000000
+	BottomHoleY	531049.800000
+	StartElevation	274.000000
+	TotalDrillDepth	1275.000000
+	TrueVerticalDepth	1275.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Vaq","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900229"
+	CNAME	"2"
+	FILE	"0002"
+	UWI	"UWI_001_9"
+	CMT	""
+	SurfaceX	1848797.000000
+	SurfaceY	536701.400000
+	BottomHoleX	1848797.000000
+	BottomHoleY	536701.400000
+	StartElevation	237.000000
+	TotalDrillDepth	1332.000000
+	TrueVerticalDepth	1332.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","CALIBRATION","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"07900332"
+	CNAME	"3"
+	FILE	"0003"
+	UWI	"UWI_001_8"
+	CMT	""
+	SurfaceX	1851325.000000
+	SurfaceY	543008.800000
+	BottomHoleX	1851325.000000
+	BottomHoleY	543008.800000
+	StartElevation	240.000000
+	TotalDrillDepth	1635.000000
+	TrueVerticalDepth	1635.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion-B2","Marion-D1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"07900532"
+	CNAME	"4"
+	FILE	"0004"
+	UWI	"UWI_001_7"
+	CMT	""
+	SurfaceX	1844844.000000
+	SurfaceY	546452.700000
+	BottomHoleX	1844844.000000
+	BottomHoleY	546452.700000
+	StartElevation	256.000000
+	TotalDrillDepth	1496.000000
+	TrueVerticalDepth	1496.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion-D2","Marion_East","CALIBRATION","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps","RockEval"	}
+	NAME	"07900167"
+	CNAME	"5"
+	FILE	"0005"
+	UWI	"UWI_001_6"
+	CMT	""
+	SurfaceX	1849063.000000
+	SurfaceY	551349.900000
+	BottomHoleX	1849063.000000
+	BottomHoleY	551349.900000
+	StartElevation	484.000000
+	TotalDrillDepth	1455.000000
+	TrueVerticalDepth	1455.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301142"
+	CNAME	"6"
+	FILE	"0006"
+	UWI	"UWI_001_5_61"
+	CMT	""
+	SurfaceX	1844498.000000
+	SurfaceY	553706.000000
+	BottomHoleX	1844498.000000
+	BottomHoleY	553706.000000
+	StartElevation	254.000000
+	TotalDrillDepth	1539.000000
+	TrueVerticalDepth	1539.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05301455"
+	CNAME	"7"
+	FILE	"0007"
+	UWI	"UWI_001_4"
+	CMT	""
+	SurfaceX	1840330.000000
+	SurfaceY	561712.300000
+	BottomHoleX	1840330.000000
+	BottomHoleY	561712.300000
+	StartElevation	238.000000
+	TotalDrillDepth	1119.000000
+	TrueVerticalDepth	1119.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","CALIBRATION","TD_Bsmt","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps","SilicaPaper","RockEval"	}
+	NAME	"05320773"
+	CNAME	"8"
+	FILE	"0008"
+	UWI	"UWI_001_3"
+	CMT	""
+	SurfaceX	1838543.000000
+	SurfaceY	562521.800000
+	BottomHoleX	1838543.000000
+	BottomHoleY	562521.800000
+	StartElevation	219.000000
+	TotalDrillDepth	1888.000000
+	TrueVerticalDepth	1888.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","HamesValley","East_West_inMaps"	}
+	NAME	"05301387"
+	CNAME	"9"
+	FILE	"0009"
+	UWI	"UWI_001_2"
+	CMT	""
+	SurfaceX	1836738.000000
+	SurfaceY	564158.700000
+	BottomHoleX	1836738.000000
+	BottomHoleY	564158.700000
+	StartElevation	259.000000
+	TotalDrillDepth	1265.000000
+	TrueVerticalDepth	1265.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","Marion","Marion-A1","Marion-B3","Marion_East","TD_Bsmt","East_Mar-Ven-TP-K","East_West_inMaps"	}
+	NAME	"05320516"
+	CNAME	"10"
+	FILE	"0010"
+	UWI	"UWI_001_1"
+	CMT	""
+	SurfaceX	1832685.000000
+	SurfaceY	569672.600000
+	BottomHoleX	1832685.000000
+	BottomHoleY	569672.600000
+	StartElevation	195.000000
+	TotalDrillDepth	652.000000
+	TrueVerticalDepth	652.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","OilSamples"	}
+	NAME	"05321651-TP-wellsymb"
+	CNAME	"BL"
+	FILE	"0353"
+	UWI	"UWI_001_209_1"
+	CMT	""
+	SurfaceX	1832248.000000
+	SurfaceY	554781.000000
+	BottomHoleX	1831905.672344
+	BottomHoleY	555115.703961
+	StartElevation	208.000000
+	TotalDrillDepth	2885.000000
+	TrueVerticalDepth	2806.000000
+	COLOR	-16777216
+	SYMBOL	3
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"07900570"
+	CNAME	"33"
+	FILE	"0355"
+	UWI	"UWI_001_56_1"
+	CMT	""
+	SurfaceX	1831218.000000
+	SurfaceY	551436.900000
+	BottomHoleX	1831218.000000
+	BottomHoleY	551436.900000
+	StartElevation	332.000000
+	TotalDrillDepth	2094.000000
+	TrueVerticalDepth	2094.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL"	}
+	NAME	"05301202"
+	CNAME	"4D29"
+	FILE	"0372"
+	UWI	"UWI_001_107_1"
+	CMT	""
+	SurfaceX	1791900.000000
+	SurfaceY	608336.100000
+	BottomHoleX	1791900.000000
+	BottomHoleY	608336.100000
+	StartElevation	110.000000
+	TotalDrillDepth	1770.000000
+	TrueVerticalDepth	1770.000000
+	COLOR	-16777216
+	SYMBOL	0
+	SIZE	8
+}
+WELL {
+	LISTS {	"ALL","CALIBRATION","SilicaPaper"	}
+	NAME	"05301354-devsurv"
+	CNAME	"57, Shell-Texas Beedy 1"
+	FILE	"0373"
+	UWI	"UWI_001_32_1_1_2_1"
+	CMT	""
+	SurfaceX	1796533.000000
+	SurfaceY	600260.000000
+	BottomHoleX	1796536.000000
+	BottomHoleY	600101.000000
+	StartElevation	351.000000
+	TotalDrillDepth	2805.000000
+	TrueVerticalDepth	2789.429932
+	COLOR	-16777216
+	SYMBOL	28
+	SIZE	8
+}

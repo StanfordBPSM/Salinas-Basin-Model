@@ -1,0 +1,28 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Mont",396.000000,-16777088,"ShallowMarine"
+	"Time_Mohn",396.000000,-16723366,"ShallowMarine"
+	"Sdht",841.000000,-11776948,"ShallowMarine"
+	"Time_Reliz",918.000000,-8052288,"ShallowMarine"
+	"Time_Sauc",2804.000000,-7204319,"ShallowMarine"
+	"Vaq",2987.000000,-2968436,"ShallowMarine"
+	"TD",3190.000000,-16777216,"ShallowMarine"
+	"TD_Vaq",3190.000000,-2968436,"ShallowMarine"
+	"Fault_4",2350.000000,-65536,"ShallowMarine"
+	"Time_Reliz_blwFault",2350.000000,-16730369,"ShallowMarine"
+}
+FAULTS {
+	"RRF",2350.000000,-65281,"ShallowMarine"
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

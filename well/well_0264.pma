@@ -1,0 +1,20 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Time_Reliz",310.000000,-8052288,"ShallowMarine"
+	"Bsmt-schist",757.000000,-8052288,"ShallowMarine"
+	"TD",760.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

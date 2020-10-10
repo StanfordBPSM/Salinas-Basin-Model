@@ -1,0 +1,269 @@
+c
+c Lithologies
+c
+Head   |  ID  | Class | Assigned |                                    Name                                     |   Color   |
+Key    |  ID  |  GID  | Assigned |                                    Name                                     |   Color   |
+Stop------------------------------------------------------------------------------------------------------------------------
+Format | %3d  |  %3d  |   %1d    |                                     %s                                      |    %d     |
+Flag   |  3   |   1   |    1     |                                      2                                      |     0     |
+c---------------------------------------------------------------------------------------------------------------------------
+Data   | 1107 |   109 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, LoPor2)                     | -16777216 |
+Data   | 1106 |   109 |        0 | Diat(clypr)_K-I85_30perc_Shl95OCTLoPor2-QtzSiltPermLoPor2SSCapP             |  -9868951 |
+Data   | 1086 |   109 |        0 | Diat(clypr)_K-I85_30perc_Shl95OCTSiltPerm-ChtSiltPermShlPorSSCapP           |  -9868951 |
+Data   | 1094 |   109 |        0 | Diat(clypr)_K-I85_30perc_Shl95OCTSiltPermLoPor-QtzSiltPermLoPorSSCapP       |  -9868951 |
+Data   | 1097 |   109 |        0 | Diat(clypr)_K-I85_30perc_Shl95OCTSiltPermLoPor2-QtzSiltPermLoPor2SSCapP     |  -9868951 |
+Data   | 1100 |   109 |        0 | Diat(clypr)_K-I85_60perc_Shl95OCTSiltPermLoPor2-QtzSiltPermLoPor2SSCapP     |  -9868951 |
+Data   | 1108 |   109 |        0 | Diat(clypr)_K-I85_60perc_Shl95OCTLoPor2-QtzSiltPermLoPor2SSCapP             |  -9868951 |
+Data   | 1109 |   109 |        0 | Diat(clypr)_K-I85_45perc_Shl95OCTLoPor2-QtzSiltPermLoPor2SSCapP             |  -9868951 |
+Data   | 1095 |   109 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, SiltPerm_LoPor)             | -16777216 |
+Data   | 1098 |   109 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, SiltPerm_LoPor2)            | -16777216 |
+Data   | 1096 |   109 |        0 | Qtz-Shale (org lean, silic, 95%opalCT, NO RAD HEAT, SiltPerm_LoPor_SSCapP)  |  -2063927 |
+Data   | 1099 |   109 |        0 | Qtz-Shale (org lean, silic, 95%opalCT, NO RAD HEAT, SiltPerm_LoPor2_SSCapP) |  -2063927 |
+Data   | 1085 |   109 |        0 | Diat(clypr)_DRALUS_Shl95OCTSiltPerm-ChtSiltPermShlPorSSCapP_1               |  -9868951 |
+Data   | 1101 |   109 |        0 | Diat(clypr)_DRALUS_Shl95OCTSiltPermLoPor2-QtzSiltPermLoPorSSCapP            |  -9868951 |
+Data   | 1074 |   109 |        0 | Diatomite (clay poor)_symbols                                               |  -9868951 |
+Data   | 1067 |   109 |        0 | Bogus_Diat(clypr)-SALT-BlkShl_K-I85                                         |  -9868951 |
+Data   | 1071 |   109 |        0 | Diatomite (clay poor)_K-I85_70perc                                          |  -9868951 |
+Data   | 1073 |   109 |        0 | Diatomite (clay poor)_K-I85_40perc                                          |  -9868951 |
+Data   | 1068 |   109 |        0 | Diatomite (clay poor)_K-I85_35perc                                          |  -9868951 |
+Data   | 1072 |   109 |        0 | Diatomite (clay poor)_K-I85_30perc                                          |  -9868951 |
+Data   | 1069 |   109 |        0 | Diatomite (clay poor)_K-I85_25perc                                          |  -9868951 |
+Data   | 1075 |   109 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCT-ChtHiPerm                                 |  -9868951 |
+Data   | 1084 |   109 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCTSiltPerm-ChtSiltPermShlPorSSCapP           |  -9868951 |
+Data   | 1080 |   109 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCTloSatEndpt-ChtHiPerm                       |  -9868951 |
+Data   | 1076 |   109 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCT-Sandstone                                 |  -9868951 |
+Data   | 1070 |   109 |        0 | Diatomite (clay poor)_K-I85_20perc                                          |  -9868951 |
+Data   | 1057 |   109 |        0 | Diatomite (clay poor)_K-I85                                                 |  -9868951 |
+Data   | 1023 |   109 |        0 | Diatomite (clay poor)_E-C69                                                 |  -9868951 |
+Data   | 1062 |   109 |        0 | Diat(clypr)-MixOCTSilt-Chrt                                                 | -16749057 |
+Data   | 1058 |   109 |        0 | Diat(clypr)-Shl95OCT-Chrt                                                   | -16749057 |
+Data   | 1061 |   109 |        0 | MixOCT75-Silt25-SSWackePerm                                                 | -16749057 |
+Data   | 1010 |   107 |        0 | FracturedOrgChert                                                           | -13487566 |
+Data   | 1029 |   107 |        0 | FracturedOrgChert_1                                                         | -13487566 |
+Data   | 1009 |   107 |        0 | Sandstone (quartzite, typical)_fracChert                                    | -11776948 |
+Data   | 1028 |   107 |        0 | Sandstone (quartzite, typical)_fracChert_1                                  | -11776948 |
+Data   | 1093 |   110 |        0 | Chert_SiltPerm_LoPor_SSCapP_FracLim80                                       |  -5098545 |
+Data   | 1082 |   110 |        0 | Chert_SiltPerm_ShlPor_SSCapP_FracLim80                                      |  -5098545 |
+Data   | 1081 |   110 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, SiltPerm)                   | -16777216 |
+Data   | 1005 |   110 |        0 | Diatomite (clay poor)_1                                                     |  -9868951 |
+Data   | 1002 |   110 |        0 | Shale (Opal-CT)                                                             |  -7237231 |
+Data   | 1024 |   110 |        0 | Shale (Opal-CT)_1                                                           |  -7237231 |
+Data   | 1013 |   110 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)                             | -16777216 |
+Data   | 1078 |   110 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, loSatEndpt)                 | -16777216 |
+Data   | 1022 |   110 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_1                           |  -7237231 |
+Data   | 1012 |   110 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_1                              |  -7237231 |
+Data   | 1031 |   110 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_2                              |  -7237231 |
+Data   | 1006 |   110 |        0 | Shale (Opal-CT) STRUCTURE                                                   |  -6737204 |
+Data   | 1026 |   110 |        0 | Shale (Opal-CT) STRUCTURE_1                                                 |  -6737204 |
+Data   | 1054 |   110 |        0 | Chert_2                                                                     | -16749057 |
+Data   | 1060 |   110 |        0 | Chert_hipermSiltOrgLean                                                     |  -5098545 |
+Data   | 1066 |   110 |        0 | Sandstone (typ)_shalePerm                                                   |     -6912 |
+Data   | 1102 |   108 |        0 | Shale (typical)_loPor                                                       |  -7237231 |
+Data   | 1091 |   108 |        0 | Shale (organic rich, 3% TOC)_loPor                                          |  -7237231 |
+Data   | 1077 |   108 |        0 | Shale (orgrch3%)_LoSatEndpt                                                 |  -7237231 |
+Data   | 1011 |   108 |        0 | Shale (Opal-CT) Org-rich                                                    | -16777216 |
+Data   | 1030 |   108 |        0 | Shale (Opal-CT) Org-rich_1                                                  | -16777216 |
+Data   | 1001 |   108 |        0 | Shale (organic rich, typical)_1                                             | -16777216 |
+Data   | 1025 |   108 |        0 | Shale (organic rich, typical)_2                                             | -16777216 |
+Data   | 1008 |   108 |        0 | Marl_Kerogen                                                                | -16751616 |
+Data   | 1027 |   108 |        0 | Marl_Kerogen_1                                                              | -13487566 |
+Data   | 1059 |   108 |        0 | Marl-Kerogen3                                                               | -16729016 |
+Data   | 1017 |   102 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, MID COND)                  |  -7237231 |
+Data   | 1037 |   102 |        0 | Shale (orglean,silic,95oCT,MIDRad,MIDCond), 5%Kerogen                       |  -7237231 |
+Data   | 1038 |   102 |        0 | Marl_7%Kerogen                                                              | -13487566 |
+Data   | 1015 |   102 |        0 | Shale (org lean, silic, 95%opalCT, HIGH RAD HEAT, MID COND)                 |  -7237231 |
+Data   | 1016 |   102 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, MID COND)                  |  -7237231 |
+Data   | 1019 |   102 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, HIGH COND)                 |  -7237231 |
+Data   | 1020 |   102 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, LOW COND)                  |  -7237231 |
+Data   | 1021 |   102 |        0 | Granite_NoRadHeat                                                           |    -45280 |
+Data   | 1039 |   102 |        0 | Granite_MidRadHeat                                                          |    -45280 |
+Data   | 1040 |   102 |        0 | Granite_HighRadHeat                                                         |    -45280 |
+Data   | 1041 |   103 |        0 | Marl_7%Kerogen_1                                                            | -13487566 |
+Data   | 1042 |   103 |        0 | Granite_NoRadHeat_1                                                         |    -45280 |
+Data   | 1043 |   103 |        0 | Shale (orglean,silic,95oCT,NORad,1.75COND), 5%Kerogen                       | -16777216 |
+Data   | 1044 |   103 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)                  |  -7237231 |
+Data   | 1045 |   103 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)        |  -8052288 |
+Data   | 1046 |   103 |        0 | Chert_1                                                                     | -16749057 |
+Data   | 1047 |   103 |        0 | Sandstone (typical)_1                                                       |     -6912 |
+Data   | 1048 |   103 |        0 | Conglomerate (typical)_1                                                    | -16751616 |
+Data   | 1053 |   103 |        0 | STRUCTURE_Chert_1                                                           |  -8052288 |
+Data   | 1049 |   104 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)                 |  -7237231 |
+Data   | 1051 |   104 |        0 | Shale (orglean,silic,95oCT,LOWRad,1.75COND), 5%Kerogen                      |  -7237231 |
+Data   | 1052 |   104 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)       |  -8052288 |
+Data   | 1103 |   111 |        0 | Sandstone (wacke)_loPor                                                     |     -6912 |
+Data   | 1188 |   130 |        0 | Fault_Sandstone (typical)_Aniso-Upscd                                       |     -6912 |
+Data   | 1187 |   130 |        0 | Fault_Sandstone (typical)_Anisotropic                                       |     -6912 |
+Data   | 1186 |   130 |        0 | Sandstone (typical)_ShlPerm-Vaq                                             |     -6912 |
+Data   | 1185 |   130 |        0 | Fault_Sandstone (clay rich)_Anisotropic                                     | -16777216 |
+Data   | 1184 |   130 |        0 | Shale(orgLean,oct95%)SiltPermSsCapP                                         |  -7237231 |
+Data   | 1183 |   130 |        0 | SaMg Sandstone (typical)                                                    | -11776948 |
+Data   | 1182 |   130 |        0 | Fault_Sandstone (clay rich)                                                 | -16777216 |
+Data   | 1181 |   130 |        0 | Fault_Siltstone (organic lean)                                              | -16777216 |
+Data   | 1180 |   130 |        0 | Fault_Shale (typical)_PerfectSeal                                           | -16777216 |
+Data   | 1179 |   130 |        0 | Fault_Shale (typical)                                                       | -16777216 |
+Data   | 1115 |   123 |        0 | Diatomite (clay poor)_symbols_1                                             |  -9868951 |
+Data   | 1116 |   123 |        0 | Bogus_Diat(clypr)-SALT-BlkShl_K-I85_1                                       |  -9868951 |
+Data   | 1117 |   123 |        0 | Diatomite (clay poor)_K-I85_70perc_1                                        |  -9868951 |
+Data   | 1118 |   123 |        0 | Diatomite (clay poor)_K-I85_40perc_1                                        |  -9868951 |
+Data   | 1119 |   123 |        0 | Diatomite (clay poor)_K-I85_35perc_1                                        |  -9868951 |
+Data   | 1120 |   123 |        0 | Diatomite (clay poor)_K-I85_30perc_1                                        |  -9868951 |
+Data   | 1121 |   123 |        0 | Diatomite (clay poor)_K-I85_25perc_1                                        |  -9868951 |
+Data   | 1122 |   123 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCT-ChtHiPerm_1                               |  -9868951 |
+Data   | 1123 |   123 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCTSiltPerm-ChtSiltPermShlPorSSCapP_1         |  -9868951 |
+Data   | 1124 |   123 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCTloSatEndpt-ChtHiPerm_1                     |  -9868951 |
+Data   | 1125 |   123 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCT-Sandstone_1                               |  -9868951 |
+Data   | 1126 |   123 |        0 | Diatomite (clay poor)_K-I85_20perc_1                                        |  -9868951 |
+Data   | 1127 |   123 |        0 | Diatomite (clay poor)_K-I85_1                                               |  -9868951 |
+Data   | 1128 |   123 |        0 | Diatomite (clay poor)_E-C69_1                                               |  -9868951 |
+Data   | 1192 |   123 |        0 | Diat(clypr)-MixOCTSilt-Chrt_1                                               | -16749057 |
+Data   | 1193 |   123 |        0 | Diat(clypr)-Shl95OCT-Chrt_1                                                 | -16749057 |
+Data   | 1129 |   123 |        0 | MixOCT75-Silt25-SSWackePerm_2                                               | -16749057 |
+Data   | 1130 |   124 |        0 | FracturedOrgChert_3                                                         | -13487566 |
+Data   | 1131 |   124 |        0 | FracturedOrgChert_1_2                                                       | -13487566 |
+Data   | 1132 |   124 |        0 | Sandstone (quartzite, typical)_fracChert_3                                  | -11776948 |
+Data   | 1133 |   124 |        0 | Sandstone (quartzite, typical)_fracChert_1_2                                | -11776948 |
+Data   | 1134 |   125 |        0 | Chert_SiltPerm_ShlPor_SSCapP_FracLim80_1                                    |  -5098545 |
+Data   | 1135 |   125 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, SiltPerm)_1                 | -16777216 |
+Data   | 1136 |   125 |        0 | Diatomite (clay poor)_1_2                                                   |  -9868951 |
+Data   | 1137 |   125 |        0 | Shale (Opal-CT)_3                                                           |  -7237231 |
+Data   | 1138 |   125 |        0 | Shale (Opal-CT)_1_2                                                         |  -7237231 |
+Data   | 1139 |   125 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_3                           | -16777216 |
+Data   | 1140 |   125 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, loSatEndpt)_1               | -16777216 |
+Data   | 1141 |   125 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_1_2                         |  -7237231 |
+Data   | 1142 |   125 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_1_2                            |  -7237231 |
+Data   | 1143 |   125 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_2_2                            |  -7237231 |
+Data   | 1144 |   125 |        0 | Shale (Opal-CT) STRUCTURE_3                                                 |  -6737204 |
+Data   | 1145 |   125 |        0 | Shale (Opal-CT) STRUCTURE_1_2                                               |  -6737204 |
+Data   | 1146 |   125 |        0 | Chert_2_1                                                                   | -16749057 |
+Data   | 1147 |   125 |        0 | Chert_hipermSiltOrgLean_1                                                   |  -5098545 |
+Data   | 1148 |   125 |        0 | Sandstone (typ)_shalePerm_1                                                 |     -6912 |
+Data   | 1149 |   126 |        0 | Shale (orgrch3%)_LoSatEndpt_1                                               |  -7237231 |
+Data   | 1150 |   126 |        0 | Shale (Opal-CT) Org-rich_3                                                  | -16777216 |
+Data   | 1151 |   126 |        0 | Shale (Opal-CT) Org-rich_1_2                                                | -16777216 |
+Data   | 1152 |   126 |        0 | Shale (organic rich, typical)_1_2                                           | -16777216 |
+Data   | 1153 |   126 |        0 | Shale (organic rich, typical)_2_2                                           | -16777216 |
+Data   | 1154 |   126 |        0 | Marl_Kerogen_3                                                              | -16751616 |
+Data   | 1155 |   126 |        0 | Marl_Kerogen_1_2                                                            | -13487566 |
+Data   | 1156 |   126 |        0 | Marl-Kerogen3_1                                                             | -16729016 |
+Data   | 1157 |   127 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, MID COND)_2                |  -7237231 |
+Data   | 1158 |   127 |        0 | Shale (orglean,silic,95oCT,MIDRad,MIDCond), 5%Kerogen_2                     |  -7237231 |
+Data   | 1159 |   127 |        0 | Marl_7%Kerogen_3                                                            | -13487566 |
+Data   | 1160 |   127 |        0 | Shale (org lean, silic, 95%opalCT, HIGH RAD HEAT, MID COND)_2               |  -7237231 |
+Data   | 1161 |   127 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, MID COND)_2                |  -7237231 |
+Data   | 1162 |   127 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, HIGH COND)_2               |  -7237231 |
+Data   | 1163 |   127 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, LOW COND)_2                |  -7237231 |
+Data   | 1164 |   127 |        0 | Granite_NoRadHeat_3                                                         |    -45280 |
+Data   | 1165 |   127 |        0 | Granite_MidRadHeat_2                                                        |    -45280 |
+Data   | 1166 |   127 |        0 | Granite_HighRadHeat_2                                                       |    -45280 |
+Data   | 1167 |   128 |        0 | Marl_7%Kerogen_1_2                                                          | -13487566 |
+Data   | 1168 |   128 |        0 | Granite_NoRadHeat_1_2                                                       |    -45280 |
+Data   | 1169 |   128 |        0 | Shale (orglean,silic,95oCT,NORad,1.75COND), 5%Kerogen_2                     | -16777216 |
+Data   | 1170 |   128 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)_2                |  -7237231 |
+Data   | 1171 |   128 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)_2      |  -8052288 |
+Data   | 1172 |   128 |        0 | Chert_1_2                                                                   | -16749057 |
+Data   | 1173 |   128 |        0 | Sandstone (typical)_1_2                                                     |     -6912 |
+Data   | 1174 |   128 |        0 | Conglomerate (typical)_1_2                                                  | -16751616 |
+Data   | 1175 |   128 |        0 | STRUCTURE_Chert_1_2                                                         |  -8052288 |
+Data   | 1176 |   129 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)_2               |  -7237231 |
+Data   | 1177 |   129 |        0 | Shale (orglean,silic,95oCT,LOWRad,1.75COND), 5%Kerogen_2                    |  -7237231 |
+Data   | 1178 |   129 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)_2     |  -8052288 |
+Data   | 1194 |   118 |        0 | MixOCT75-Silt25-SSWackePerm_1                                               | -16749057 |
+Data   | 1195 |   118 |        0 | Chert_hiperm                                                                |  -5098545 |
+Data   | 1196 |   118 |        0 | Marl-Kerogen3_2                                                             | -16729016 |
+Data   | 1063 |   119 |        0 | Diatomite (clay poor)_K-I85_71                                              | -16777021 |
+Data   | 1064 |   119 |        0 | Chert_2_2                                                                   | -16749057 |
+Data   | 1065 |   119 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_1_1                         |  -7237231 |
+Data   | 1197 |   119 |        0 | Diatomite (clay poor)_E-C69_2                                               | -16777021 |
+Data   | 1198 |   119 |        0 | Shale (Opal-CT)_1_1                                                         |  -7237231 |
+Data   | 1199 |   119 |        0 | Shale (organic rich, typical)_2_1                                           | -16777216 |
+Data   | 1200 |   119 |        0 | Shale (Opal-CT) STRUCTURE_1_1                                               |  -6737204 |
+Data   | 1201 |   119 |        0 | Marl_Kerogen_1_1                                                            | -13487566 |
+Data   | 1202 |   119 |        0 | Sandstone (quartzite, typical)_fracChert_1_1                                | -11776948 |
+Data   | 1203 |   119 |        0 | FracturedOrgChert_1_1                                                       | -13487566 |
+Data   | 1204 |   119 |        0 | Shale (Opal-CT) Org-rich_1_1                                                | -16777216 |
+Data   | 1205 |   119 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_2_1                            |  -7237231 |
+Data   | 1206 |   119 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_2                           |  -7237231 |
+Data   | 1207 |   119 |        0 | Diatomite (clay poor)_1_1                                                   |  -9868951 |
+Data   | 1208 |   119 |        0 | Shale (Opal-CT)_2                                                           |  -7237231 |
+Data   | 1209 |   119 |        0 | Shale (organic rich, typical)_1_1                                           | -16777216 |
+Data   | 1079 |   119 |        0 | Shale (Opal-CT) STRUCTURE_2                                                 |  -6737204 |
+Data   | 1210 |   119 |        0 | Marl_Kerogen_2                                                              | -13487566 |
+Data   | 1211 |   119 |        0 | Sandstone (quartzite, typical)_fracChert_2                                  | -11776948 |
+Data   | 1212 |   119 |        0 | FracturedOrgChert_2                                                         | -13487566 |
+Data   | 1083 |   119 |        0 | Shale (Opal-CT) Org-rich_2                                                  | -16777216 |
+Data   | 1213 |   119 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_1_1                            |  -7237231 |
+Data   | 1214 |   120 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, MID COND)_1                |  -7237231 |
+Data   | 1215 |   120 |        0 | Shale (orglean,silic,95oCT,MIDRad,MIDCond), 5%Kerogen_1                     |  -7237231 |
+Data   | 1087 |   120 |        0 | Marl_7%Kerogen_2                                                            | -13487566 |
+Data   | 1088 |   120 |        0 | Shale (org lean, silic, 95%opalCT, HIGH RAD HEAT, MID COND)_1               |  -7237231 |
+Data   | 1089 |   120 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, MID COND)_1                |  -7237231 |
+Data   | 1090 |   120 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, HIGH COND)_1               |  -7237231 |
+Data   | 1216 |   120 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, LOW COND)_1                |  -7237231 |
+Data   | 1092 |   120 |        0 | Granite_NoRadHeat_2                                                         |    -45280 |
+Data   | 1217 |   120 |        0 | Granite_MidRadHeat_1                                                        |    -45280 |
+Data   | 1218 |   120 |        0 | Granite_HighRadHeat_1                                                       |    -45280 |
+Data   | 1219 |   121 |        0 | Marl_7%Kerogen_1_1                                                          | -13487566 |
+Data   | 1220 |   121 |        0 | Granite_NoRadHeat_1_1                                                       |    -45280 |
+Data   | 1221 |   121 |        0 | Shale (orglean,silic,95oCT,NORad,1.75COND), 5%Kerogen_1                     | -16777216 |
+Data   | 1222 |   121 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)_1                |  -7237231 |
+Data   | 1223 |   121 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)_1      |  -8052288 |
+Data   | 1224 |   121 |        0 | Chert_1_1                                                                   | -16749057 |
+Data   | 1225 |   121 |        0 | Sandstone (typical)_1_1                                                     |     -6912 |
+Data   | 1189 |   121 |        0 | Conglomerate (typical)_1_1                                                  | -16751616 |
+Data   | 1190 |   121 |        0 | STRUCTURE_Chert_1_1                                                         |  -8052288 |
+Data   | 1104 |   122 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)_1               |  -7237231 |
+Data   | 1105 |   122 |        0 | Shale (orglean,silic,95oCT,LOWRad,1.75COND), 5%Kerogen_1                    |  -7237231 |
+Data   | 1191 |   122 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)_1     |  -8052288 |
+Data   | 1110 |   112 |        0 | MixOCT75-Silt25-SSWackePerm_3                                               | -16749057 |
+Data   | 1111 |   112 |        0 | Diat(clypr)-Shl95OCT-Chrt_2                                                 | -16730369 |
+Data   | 1112 |   112 |        0 | Marl_Kerogen3                                                               | -16729016 |
+Data   | 1113 |   112 |        0 | Diat(clypr)-MixOCTSilt-Chrt_2                                               | -16730369 |
+Data   | 1114 |   113 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_1_3                         |  -7237231 |
+Data   | 1226 |   113 |        0 | Diatomite (clay poor)_2                                                     |  -9868951 |
+Data   | 1227 |   113 |        0 | Shale (Opal-CT)_1_3                                                         |  -7237231 |
+Data   | 1228 |   113 |        0 | Shale (organic rich, typical)_2_3                                           | -16777216 |
+Data   | 1229 |   113 |        0 | Shale (Opal-CT) STRUCTURE_1_3                                               |  -6737204 |
+Data   | 1230 |   113 |        0 | Marl_Kerogen_1_3                                                            | -13487566 |
+Data   | 1231 |   113 |        0 | Sandstone (quartzite, typical)_fracChert_1_3                                | -11776948 |
+Data   | 1232 |   113 |        0 | FracturedOrgChert_1_3                                                       | -13487566 |
+Data   | 1233 |   113 |        0 | Shale (Opal-CT) Org-rich_1_3                                                | -16777216 |
+Data   | 1234 |   113 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_2_3                            |  -7237231 |
+Data   | 1235 |   113 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT)_4                           |  -7237231 |
+Data   | 1236 |   113 |        0 | Diatomite (clay poor)_1_3                                                   |  -9868951 |
+Data   | 1237 |   113 |        0 | Shale (Opal-CT)_4                                                           |  -7237231 |
+Data   | 1238 |   113 |        0 | Shale (organic rich, typical)_1_3                                           | -16777216 |
+Data   | 1239 |   113 |        0 | Shale (Opal-CT) STRUCTURE_4                                                 |  -6737204 |
+Data   | 1240 |   113 |        0 | Marl_Kerogen_4                                                              | -13487566 |
+Data   | 1241 |   113 |        0 | Sandstone (quartzite, typical)_fracChert_4                                  | -11776948 |
+Data   | 1242 |   113 |        0 | FracturedOrgChert_4                                                         | -13487566 |
+Data   | 1243 |   113 |        0 | Shale (Opal-CT) Org-rich_4                                                  | -16777216 |
+Data   | 1244 |   113 |        0 | Shale (organic lean, siliceous, 95% Opal-CT)_1_3                            |  -7237231 |
+Data   | 1245 |   113 |        0 | Chert_Fractured                                                             |  -4108851 |
+Data   | 1055 |   113 |        0 | Chert_Fractured_2                                                           |  -4108851 |
+Data   | 1246 |   114 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, MID COND)_3                |  -7237231 |
+Data   | 1247 |   114 |        0 | Shale (orglean,silic,95oCT,MIDRad,MIDCond), 5%Kerogen_3                     |  -7237231 |
+Data   | 1248 |   114 |        0 | Marl_7%Kerogen_4                                                            | -13487566 |
+Data   | 1249 |   114 |        0 | Shale (org lean, silic, 95%opalCT, HIGH RAD HEAT, MID COND)_3               |  -7237231 |
+Data   | 1250 |   114 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, MID COND)_3                |  -7237231 |
+Data   | 1251 |   114 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, HIGH COND)_3               |  -7237231 |
+Data   | 1252 |   114 |        0 | Shale (org lean, silic, 95%opalCT, MID RAD HEAT, LOW COND)_3                |  -7237231 |
+Data   | 1253 |   114 |        0 | Granite_NoRadHeat_4                                                         |    -45280 |
+Data   | 1254 |   114 |        0 | Granite_MidRadHeat_3                                                        |    -45280 |
+Data   | 1255 |   114 |        0 | Granite_HighRadHeat_3                                                       |    -45280 |
+Data   | 1256 |   115 |        0 | Marl_7%Kerogen_1_3                                                          | -13487566 |
+Data   | 1257 |   115 |        0 | Granite_NoRadHeat_1_3                                                       |    -45280 |
+Data   | 1258 |   115 |        0 | Shale (orglean,silic,95oCT,NORad,1.75COND), 5%Kerogen_3                     | -16777216 |
+Data   | 1259 |   115 |        0 | Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)_3                |  -7237231 |
+Data   | 1260 |   115 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, NO RAD HEAT, 1.75 COND)_3      |  -8052288 |
+Data   | 1261 |   115 |        0 | Chert_1_3                                                                   | -16749057 |
+Data   | 1262 |   115 |        0 | Sandstone (typical)_1_3                                                     |     -6912 |
+Data   | 1263 |   115 |        0 | Conglomerate (typical)_1_3                                                  | -16751616 |
+Data   | 1264 |   115 |        0 | STRUCTURE_Chert_1_3                                                         |  -8052288 |
+Data   | 1265 |   116 |        0 | Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)_3               |  -7237231 |
+Data   | 1266 |   116 |        0 | Shale (orglean,silic,95oCT,LOWRad,1.75COND), 5%Kerogen_3                    |  -7237231 |
+Data   | 1267 |   116 |        0 | STRUCTURE_Shale (org lean, silic, 95%opalCT, LOW RAD HEAT, 1.75 COND)_3     |  -8052288 |
+Data   | 1268 |   117 |        0 | Diat(clypr)_K-I85_25perc_SS-SS                                              | -16749057 |
+Data   | 1269 |   117 |        0 | Diat(clypr)_CustomOCT_Shl95OCT-Chert                                        | -16749057 |
+Data   | 1270 |   117 |        0 | Diat(clypr)_K-I85_25perc_Shl95OCT-ChtHiPerm_2                               | -16749057 |
+Data   | 1271 |   117 |        0 | Chert_hiPermSiltOrgLean                                                     | -16749057 |
+Data   | 1272 |   117 |        0 | ShaleOCT95perc_NORADHEAT                                                    |  -7237231 |

@@ -1,0 +1,15 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |                             Name                              |
+Key    |  ID  | Level |                          NameInTree                           |
+Stop-----------------------------------------------------------------------------------
+Format | %4d  |  %2d  |                              %s                               |
+Flag   |  0   |   0   |                               0                               |
+c--------------------------------------------------------------------------------------
+Data   |  490 |     1 | 02_ROT_MER_SALINAS-ROT55_03_W_SAUC_700x747-Depth-14.90Ma.DAT  |
+Data   |  489 |     1 | 02_ROT_MER_SALINAS-ROT55_02_W_VAQ_700x747-Depth-14.90Ma.DAT   |
+Data   |  488 |     1 | 02_ROT_MER_SALINAS-ROT55_01_W_BSMT_700X747-Depth-14.90Ma.DAT  |
+Data   |  487 |     1 | 02_ROT_MER_SALINAS-ROT55_00_W_BSMT-BASE_14-9Ma                |
+Data   |  486 |     1 | 02_ROT_MER_SALINAS-ROT55_04_W_RELIZ_700x747-Depth-14.90Ma.DAT |
+Data   | 1263 |     1 | 01_BSMT                                                       |

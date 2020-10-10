@@ -1,0 +1,22 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+	4 {
+		718.000000,40.599998,99999.000000,99999.000000,99999.000000,-65281,3,8,1,1,"from Graham 1991 xsxn, corrected?"
+	}
+}
+PICKS {
+	"Mont",585.000000,-16777088,"ShallowMarine"
+	"TD",718.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

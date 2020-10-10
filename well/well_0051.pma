@@ -1,0 +1,25 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Bsmt",1835.000000,-65536,"ShallowMarine"
+	"MidFm_PaRob",0.000000,-16777216,"ShallowMarine"
+	"Mont",1248.000000,-16777088,"ShallowMarine"
+	"PaRic",701.000000,-23296,"ShallowMarine"
+	"SaMg",1219.000000,-256,"ShallowMarine"
+	"Sdht",1734.000000,-11776948,"ShallowMarine"
+	"TD",1838.000000,-16777216,"ShallowMarine"
+	"Time_Mio",1248.000000,-16730369,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

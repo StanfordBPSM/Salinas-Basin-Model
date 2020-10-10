@@ -1,0 +1,218 @@
+Read maps ----
+Trying to read Depth file C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/data/map/marion_contours_Proj_SP0404m_rasterGrid//rastert_marion_1_crop.dat...
+Created application rastert_marion_1_crop.dat
+New Application:
+Home: C:/Program Files/Schlumberger/PetroMod 11 SP4/
+Project: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/
+Path: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/data/map/marion_contours_Proj_SP0404m_rasterGrid/  File: rastert_marion_1_crop.dat
+Time:   Step: 1  Layer:   ID: -1
+Sampling x,y: 1, 1
+VolumePrecision: 0.02  MinDrainAreaSize: 9
+BasicMergeVolume: 33.1884  BorderOpts: 20
+Closed Border: 0  Porosity: 0.3  PoroMap: 0
+Capillary Pressure: -1 CapillaryMap: 0
+Carrier Thickness: -1  BottomMap: 0
+Densities Gas: 200  Oil: 700  Water: 1040  Var.Den: 0
+DensityPossFP: 0.288462  DensityGOFP: 0.147484  FPCutOff: 0.01
+No flash properties data
+Trying to read Project well data...
+Annotation well/label file Project well data found!
+Trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/label.pmt...
+Annotation well/label file C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/label.pmt found!
+Trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/blockbound.pmt...
+Error while trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/blockbound.pmt: LineIO::read Cannot open: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/blockbound.pmt!
+Trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/line.pmt...
+Error while trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/line.pmt: LineIO::read Cannot open: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/line.pmt!
+Warning:  errno: 2: No such file or directory, reset errno!
+Warning:  errno: 2: No such file or directory, reset errno!
+Calculate drainage areas... 
+Clear minima... sort minima... ok!
+Correct drainage area borders...
+Calculate 589 spill points... 
+Merge small drainage areas... 
+Calculate 232 spill points....
+Merge drainage areas with only rectangular but not triangular minima ... 
+Found 221 drainage areas!
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Warning:  errno: 2: No such file or directory, reset errno!
+Find total closure of drainage area of size 1 with minimum at Vector   1.81956e+006   561362!
+Warning: No total closure found!
+Find total closure of drainage area of size 1 with minimum at Vector   1.82636e+006   583122!
+Warning: No total closure found!
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating gas output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating oil output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating oil output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating gas output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating oil output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating gas output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating oil output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating gas output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating oil output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Calculating gas output map...
+ l = 73 without spillpath!
+ l = 144 without spillpath!
+Read maps ----
+Trying to read Depth file C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/data/map//Layer04top_PD_Map_2.dat...
+Created application Layer04top_PD_Map_2.dat
+New Application:
+Home: C:/Program Files/Schlumberger/PetroMod 11 SP4/
+Project: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/
+Path: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/data/map/  File: Layer04top_PD_Map_2.dat
+Time:   Step: 1  Layer:   ID: -1
+Sampling x,y: 1, 1
+VolumePrecision: 0.02  MinDrainAreaSize: 4
+BasicMergeVolume: 1.43496  BorderOpts: 20
+Closed Border: 0  Porosity: 0.3  PoroMap: 0
+Capillary Pressure: -1 CapillaryMap: 0
+Carrier Thickness: -1  BottomMap: 0
+Densities Gas: 200  Oil: 700  Water: 1040  Var.Den: 0
+DensityPossFP: 0.543478  DensityGOFP: 0.520833  FPCutOff: 0.001
+No flash properties data
+Trying to read Project well data...
+Annotation well/label file Project well data found!
+Trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/label.pmt...
+Annotation well/label file C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/label.pmt found!
+Trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/blockbound.pmt...
+Error while trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/blockbound.pmt: LineIO::read Cannot open: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/blockbound.pmt!
+Trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/line.pmt...
+Error while trying to read C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/line.pmt: LineIO::read Cannot open: C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/Salinas_3Dcon_fromTAMdesk/Salinas_3Dcon/cult/line.pmt!
+Warning:  errno: 2: No such file or directory, reset errno!
+Calculate drainage areas... 
+Clear minima... sort minima... ok!
+Correct drainage area borders...
+Calculate 226 spill points... 
+Merge small drainage areas... 
+Calculate 146 spill points....
+Merge drainage areas with only rectangular but not triangular minima ... 
+Found 131 drainage areas!
+Calculating gas output map...
+Calculating oil output map...
+Calculating oil output map...
+Calculating gas output map...
+------------------- dump log buffer -------------------
+126: Ind=1644 Bits=1 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0
+127: Ind=1645 Bits=1 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0
+128: Ind=1646 Bits=1 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0
+129: Ind=1647 Bits=15 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+130: Ind=1648 Bits=1 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0
+131: Ind=1649 Bits=14 MaxClosVol=7.12051e+008  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+132: Ind=1651 Bits=14 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+133: Ind=1652 Bits=14 MaxClosVol=24305.1  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+134: Ind=1653 Bits=14 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+135: Ind=1655 Bits=14 MaxClosVol=6.71991e+008  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+136: Ind=1658 Bits=14 MaxClosVol=328086  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+137: Ind=1668 Bits=14 MaxClosVol=8.83984e+008  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+138: Ind=1672 Bits=14 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+139: Ind=1675 Bits=14 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+140: Ind=1676 Bits=14 MaxClosVol=681665  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+141: Ind=1678 Bits=14 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+142: Ind=1681 Bits=14 MaxClosVol=0  Gas: Ini=0 Vol=0  Oil: Ini=0 Vol=0 GasSum=0
+Creating gas output map...
+Calculating gas output map...
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+DrainArea::calcSpillPath: Second choice!
+Execute: DrawFlowPathsCommand: m_poApp = 0000000017E86220 m_iDrawFlag = 1
+Application::simulateAllFor OilOut
+Creating oil output map...
+Calculating oil output map...
+Execute: DrawFlowPathsCommand: m_poApp = 0000000017E86220 m_iDrawFlag = 1
+Execute: SetSettingsCommand: m_poApp = 0000000017E86220
+Application::simulateAllFor OilOut
+Calculating oil output map...
+Application::simulateAllFor GasOut
+Calculating gas output map...
+------------------- dump log buffer -------------------
+PetroCharge exits with signal 11

@@ -1,0 +1,10 @@
+c
+c Overlay Definitions
+c
+Head   | ID | Group |    Name     | Display Unit | Con | Calculate | Set | FixMin | FixMax | ColorMap | Reverse | Ranges | RangeType | FixedRangeMin | FixedRangeMax |  ColorScheme  | LineColor  | LineWidth | LineStipple | MaxNumComponents |
+Key    | ID |  GID  |    Name     |     ext      | Con |    Col    | Set | FixMin | FixMax | ColorMap | Reverse | Ranges | RangeType | FixedRangeMin | FixedRangeMax |  ColorScheme  | Monochrome | LineWidth | LineStipple | MaxNumComponents |
+Stop--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Format | %d |  %d   |     %s      |      %d      | %d  |    %d     | %d  |   %g   |   %g   |    %s    |   %d    |   %s   |    %d     |      %g       |      %g       |      %s       |     %d     |    %d     |     %d      |        %d        |
+Flag   | 0  |   1   |      0      |      0       |  0  |     0     |  0  |   0    |   0    |    0     |    0    |   0    |     0     |       0       |       0       |       0       |     0      |     0     |      0      |        0         |
+c-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data   |  4 |     2 | Temperature |           31 |   0 |         0 |   1 |      0 |      0 | heat20   |       0 | none   |         0 |             0 |          1200 | Heat 20 Steps |  -16776961 |         1 |       65535 |                1 |

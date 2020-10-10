@@ -1,0 +1,30 @@
+c
+c Tools On/Off
+c
+Head   |   Tool   | On/Off |
+Key    |   Tool   | OnOff  |
+Stop------------------------
+Format |    %s    |   %d   |
+Flag   |    0     |   0    |
+c---------------------------
+Data   | palg     |      0 |
+Data   | palt     |      1 |
+Data   | salt     |      1 |
+Data   | pene     |      1 |
+Data   | swim     |      1 |
+Data   | heat     |      1 |
+Data   | head     |      1 |
+Data   | aqui     |      1 |
+Data   | pbco     |      1 |
+Data   | tbco     |      1 |
+Data   | isot     |      1 |
+Data   | crst     |      1 |
+Data   | intr     |      1 |
+Data   | hydr     |      1 |
+Data   | clay     |      1 |
+Data   | cemt     |      1 |
+Data   | frac     |      1 |
+Data   | lithprop |      1 |
+Data   | outa     |      1 |
+Data   | chag     |      1 |
+Data   | unce     |      1 |

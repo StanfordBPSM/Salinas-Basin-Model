@@ -1,0 +1,1083 @@
+<!DOCTYPE nvcml>
+<PetrowellsScope name="PetrowellsScope">
+  <nio_PMWells name="SALINAS">
+    <string ContentName="SALINAS"/>
+    <string ContentUrl="C:/Users/tmenotti/Documents/STANFORD/RESEARCH/NEW_SALINAS/MODELS/PM2011/SALINAS/well"/>
+    <Locator name="Locator"/>
+  </nio_PMWells>
+  <Node name="Units">
+    <OverlayTable name="Overlay Definitions">
+      <string Table="Head|ID|Group|Name|Display Unit|Con|Calculate|Set|FixMin|FixMax|ColorMap|Reverse|Ranges|RangeType|FixedRangeMin|FixedRangeMax|ColorScheme|LineColor|LineWidth|LineStipple|MaxNumComponents|&#xa;Key|ID|GID|Name|ext|Con|Col|Set|FixMin|FixMax|ColorMap|Reverse|Ranges|RangeType|FixedRangeMin|FixedRangeMax|ColorScheme|Monochrome|LineWidth|LineStipple|MaxNumComponents|&#xa;Stop&#xa;Format|%d|%d|%s|%d|%d|%d|%d|%g|%g|%s|%d|%s|%d|%g|%g|%s|%d|%d|%d|%d|&#xa;Flag|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|&#xa;"/>
+    </OverlayTable>
+    <PrecisionTable name="Physical Units">
+      <string Table="Head|ID|Group|Unit|Short|Factor|Def|Precision|&#xa;Key|ID|GID|Name|Short|Factor|Def|Precision|&#xa;Stop&#xa;Format|%3d|%3d|%s|%s|%13.6e|%d|%d|&#xa;Flag|0|0|0|0|0|0|0|&#xa;"/>
+    </PrecisionTable>
+    <UnitTable name="Physical Unit Groups">
+      <string Table="Head|ID|Group|Display Unit|Import/Export|&#xa;Key|ID|Name|IDDef|IDData|&#xa;Stop&#xa;Format|%3d|%s|%3d|%3d|&#xa;Flag|0|0|0|0|&#xa;"/>
+    </UnitTable>
+  </Node>
+  <Node name="Plot Folder">
+    <Plot name="Plot">
+      <bool displayed="false"/>
+      <string Name="Plot"/>
+      <string Icon="Slide"/>
+      <int FrameLeft="150"/>
+      <int FrameRight="80"/>
+      <int FrameBottom="80"/>
+      <int FrameTop="80"/>
+      <Modi name="Modi">
+        <bool displayed="true"/>
+        <AxisClipperResizeMode name="AxisClipperResize mode">
+          <bool displayed="true"/>
+        </AxisClipperResizeMode>
+        <LocatorMode name="Locator Mode"/>
+        <ZoomMode name="Zoom Mode"/>
+        <LabelMode name="Label mode"/>
+        <ShiftMode name="Panning Mode"/>
+        <CurveEditMode name="Curve Edit Mode">
+          <bool displayed="true"/>
+        </CurveEditMode>
+        <FrameMode name="Frame mode">
+          <bool displayed="true"/>
+        </FrameMode>
+        <PanningMode name="Panning mode">
+          <bool displayed="true"/>
+        </PanningMode>
+      </Modi>
+      <LegendMode name="Legend mode"/>
+      <Legend name="Legend">
+        <bool displayed="true"/>
+        <int Width="200"/>
+        <int AlignType="3"/>
+        <int AlignXDist="90"/>
+        <int AlignYDist="90"/>
+        <int Space="5"/>
+        <int BackgroundStyle="0"/>
+        <CurveLegendItem name="Curve Legend Item">
+          <bool displayed="true"/>
+          <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        </CurveLegendItem>
+        <CurveLegendItem name="Curve Legend Item">
+          <bool displayed="true"/>
+          <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        </CurveLegendItem>
+        <CurveLegendItem name="Curve Legend Item">
+          <bool displayed="true"/>
+          <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        </CurveLegendItem>
+        <CurveLegendItem name="Curve Legend Item">
+          <bool displayed="true"/>
+          <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        </CurveLegendItem>
+      </Legend>
+      <Labels name="Labels"/>
+      <Logo name="Logo">
+        <string Name="Logo"/>
+        <string Icon="logo"/>
+      </Logo>
+      <PlotTitle name="PlotTitle">
+        <string Name="PlotTitle"/>
+        <string Icon="annotationTree"/>
+        <float AlignY="-2"/>
+        <string FontString="Helvetica,12,-1,5,75,0,0,0,0,0"/>
+        <string Text="05301457-M"/>
+      </PlotTitle>
+      <Axes name="Axes">
+        <string Name="Axes"/>
+        <string Icon="annotationTree"/>
+        <Axis name="Top: Temperature">
+          <string Name="Top: Temperature"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="2"/>
+          <int Unit="31"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+            <int Unit="31"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+            <int Unit="31"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="2"/>
+            <int Unit="31"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <float AlignY="-1"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="2"/>
+            <int Unit="31"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Bottom: Temperature">
+          <bool displayed="false"/>
+          <string Name="Bottom: Temperature"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="1"/>
+          <int Unit="31"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+            <int Unit="31"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+            <int Unit="31"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="1"/>
+            <int Unit="31"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="1"/>
+            <int Unit="31"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Top: Vitrinite Reflectance">
+          <string Name="Top: Vitrinite Reflectance"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="2"/>
+          <int Unit="5"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+            <int Unit="5"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+            <int Unit="5"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="2"/>
+            <int Unit="5"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <float AlignY="-1"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="2"/>
+            <int Unit="5"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Bottom: Vitrinite Reflectance">
+          <bool displayed="false"/>
+          <string Name="Bottom: Vitrinite Reflectance"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="1"/>
+          <int Unit="5"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+            <int Unit="5"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+            <int Unit="5"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="1"/>
+            <int Unit="5"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="1"/>
+            <int Unit="5"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Right: Depth">
+          <string Name="Right: Depth"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="8"/>
+          <int Unit="10"/>
+          <int Trafo="1"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="8"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="8"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="8"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <float AlignX="-1"/>
+            <int Orientation="1"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="8"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Left: Depth">
+          <string Name="Left: Depth"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="4"/>
+          <int Unit="10"/>
+          <int Trafo="1"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <bool UseLinePattern="true"/>
+            <int LinePattern="3135"/>
+            <color LineRGBA="4290822336"/>
+            <int AxisType="4"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </AxisLine>
+          <AxisClipper name="Slide">
+            <string Name="Slide"/>
+            <int AxisType="4"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+            <int ClipWidth="70"/>
+            <UnitScale name="Scale">
+              <string Name="Scale"/>
+              <string Icon="Slide"/>
+              <int XRangeType="2"/>
+              <int XRangeUnit="15"/>
+              <float XRangeFixMin="-40"/>
+              <float XRangeFixMax="10"/>
+              <bool XZoomEnabled="false"/>
+              <int YRangeType="1"/>
+              <int YRangeUnit="10"/>
+              <int YTrafo="1"/>
+              <float YRangeFixMin="-10000"/>
+              <float YRangeFixMax="0"/>
+              <Curve name="Time_Del">
+                <string Name="Time_Del"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4294910717"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="TD_Sdht">
+                <string Name="TD_Sdht"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4283190348"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="TD_Mont">
+                <string Name="TD_Mont"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4278236927"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="TD">
+                <string Name="TD"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="Time_Reliz">
+                <string Name="Time_Reliz"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4286915008"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="Sdht">
+                <string Name="Sdht"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4283190348"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="Time_Luis">
+                <string Name="Time_Luis"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4294926128"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="Time_LMohn">
+                <string Name="Time_LMohn"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4294937081"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="Time_Mohn">
+                <string Name="Time_Mohn"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4278243930"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Curve name="Mont">
+                <string Name="Mont"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4278190208"/>
+                <int PointSize="4"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+              <Slide name="Slide">
+                <string Name="Slide"/>
+              </Slide>
+              <Curve name="Deviation">
+                <string Name="Deviation"/>
+                <string Icon="Slide"/>
+                <int Type="3"/>
+                <color LineRGBA="4278190335"/>
+                <int UnitX="15"/>
+                <int UnitY="10"/>
+                <int YTrafo="1"/>
+              </Curve>
+            </UnitScale>
+          </AxisClipper>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="4"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="4"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="4"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <float AlignX="1"/>
+            <int Orientation="1"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="4"/>
+            <int Unit="10"/>
+            <int Trafo="1"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Bottom: NoUnit">
+          <string Name="Bottom: NoUnit"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="1"/>
+          <int Unit="300"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+            <int Unit="300"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+            <int Unit="300"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="1"/>
+            <int Unit="300"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <float AlignY="1"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="1"/>
+            <int Unit="300"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <Axis name="Top: NoUnit">
+          <bool displayed="false"/>
+          <string Name="Top: NoUnit"/>
+          <string Icon="annotationTree"/>
+          <int AxisType="2"/>
+          <int Unit="300"/>
+          <AxisLine name="Line">
+            <string Name="Line"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+            <int Unit="300"/>
+          </AxisLine>
+          <AxisTicks name="Ticks">
+            <string Name="Ticks"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+            <int Unit="300"/>
+          </AxisTicks>
+          <Annotation name="Annotation">
+            <string Name="Annotation"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="2"/>
+            <int Unit="300"/>
+          </Annotation>
+          <AxisTitle name="Title">
+            <string Name="Title"/>
+            <string Icon="annotationTree"/>
+            <string FontString="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+            <int AxisType="2"/>
+            <int Unit="300"/>
+            <string Text="DEFAULT"/>
+          </AxisTitle>
+        </Axis>
+        <EmptyAxes name="Empty Axes">
+          <bool displayed="true"/>
+          <AxisLine name="RightAxis">
+            <string Name="RightAxis"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="8"/>
+          </AxisLine>
+          <AxisLine name="LeftAxis">
+            <string Name="LeftAxis"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="4"/>
+          </AxisLine>
+          <AxisLine name="TopAxis">
+            <string Name="TopAxis"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="2"/>
+          </AxisLine>
+          <AxisLine name="BottomAxis">
+            <string Name="BottomAxis"/>
+            <string Icon="annotationTree"/>
+            <int Type="2"/>
+            <int AxisType="1"/>
+          </AxisLine>
+        </EmptyAxes>
+      </Axes>
+      <UnitScale name="Scale">
+        <string Name="Scale"/>
+        <string Icon="Slide"/>
+        <int XRangeType="1"/>
+        <int XRangeUnit="31"/>
+        <int YRangeType="1"/>
+        <int YRangeUnit="10"/>
+        <int YTrafo="1"/>
+        <float YRangeFixMin="-10000"/>
+        <float YRangeFixMax="0"/>
+        <Curve name="Temperature">
+          <bool displayed="false"/>
+          <string Name="Temperature"/>
+          <string Icon="Slide"/>
+          <int Type="3"/>
+          <color LineRGBA="4278215680"/>
+          <int UnitX="31"/>
+          <int UnitY="10"/>
+          <int YTrafo="1"/>
+        </Curve>
+        <Curve name="Tmax">
+          <bool displayed="false"/>
+          <string Name="Tmax"/>
+          <string Icon="Slide"/>
+          <int Type="3"/>
+          <color LineRGBA="4278255360"/>
+          <int UnitX="31"/>
+          <int UnitY="10"/>
+          <int YTrafo="1"/>
+        </Curve>
+      </UnitScale>
+      <UnitScale name="Scale">
+        <string Name="Scale"/>
+        <string Icon="Slide"/>
+        <int XRangeType="1"/>
+        <int XRangeUnit="5"/>
+        <int YRangeType="1"/>
+        <int YRangeUnit="10"/>
+        <int YTrafo="1"/>
+        <float YRangeFixMin="-10000"/>
+        <float YRangeFixMax="0"/>
+        <Curve name="Vitrinite Reflectance">
+          <bool displayed="false"/>
+          <string Name="Vitrinite Reflectance"/>
+          <string Icon="Slide"/>
+          <int Type="3"/>
+          <color LineRGBA="4278215680"/>
+          <int UnitX="5"/>
+          <int UnitY="10"/>
+          <int YTrafo="1"/>
+        </Curve>
+      </UnitScale>
+      <UnitScale name="Scale">
+        <string Name="Scale"/>
+        <string Icon="Slide"/>
+        <int XRangeType="2"/>
+        <int XRangeUnit="300"/>
+        <float XRangeFixMin="-40"/>
+        <float XRangeFixMax="10"/>
+        <int YRangeType="1"/>
+        <int YRangeUnit="10"/>
+        <int YTrafo="1"/>
+        <float YRangeFixMin="-10000"/>
+        <float YRangeFixMax="0"/>
+        <Curve name="Artificial">
+          <bool displayed="false"/>
+          <string Name="Artificial"/>
+          <string Icon="Slide"/>
+          <int Type="3"/>
+          <color LineRGBA="4278190335"/>
+          <int UnitX="300"/>
+          <int UnitY="10"/>
+          <int YTrafo="1"/>
+        </Curve>
+      </UnitScale>
+    </Plot>
+  </Node>
+  <CultureData name="Culture Data">
+    <bool displayed="true"/>
+    <CultureLineFolder name="Blockboundaries">
+      <uint CultureType="1"/>
+      <BlockBoundaryNode name="BasinOutline">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="King City">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Lynch Canyon">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="McCool  Ranch">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Monroe Swell">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Monroe Swell">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Paris Valley">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Paris Valley">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Quinado Canyon">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="San Ardo">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="San Ardo">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="San Ardo">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Line">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Line">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Line">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Line">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="Line">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="CtyMont">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+      <BlockBoundaryNode name="CtySLO">
+        <bool displayed="true"/>
+      </BlockBoundaryNode>
+    </CultureLineFolder>
+    <CultureLineFolder name="Lines">
+      <uint CultureType="2"/>
+    </CultureLineFolder>
+    <CultureLineFolder name="Cross Section Lines">
+      <uint CultureType="3"/>
+      <CrosslineNode name="Line1">
+        <bool displayed="true"/>
+      </CrosslineNode>
+      <CrosslineNode name="Line2">
+        <bool displayed="true"/>
+      </CrosslineNode>
+    </CultureLineFolder>
+    <CultureLabelFolder name="Labels"/>
+  </CultureData>
+  <Node name="View Settings">
+    <bool displayed="true"/>
+    <QGLMapRendererNode name="Map View">
+      <bool displayed="true"/>
+      <int Width="722"/>
+      <int Height="478"/>
+      <color BackgroundColor="4294967295"/>
+      <color HighlightCColor="4294967040"/>
+      <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+      <string AnnotationTitle="Map View"/>
+      <string Title="RockEval"/>
+      <int MarginLeft="80"/>
+      <int MarginRight="80"/>
+      <int MarginTop="50"/>
+      <int MarginBottom="50"/>
+      <int PropZoomLimit="1023"/>
+      <point FocusMinP="0 0 99999"/>
+      <point FocusMaxP="0 0 99999"/>
+      <point Target="11337 48881 1376"/>
+      <point North="0 1 0"/>
+      <float Border="2"/>
+      <nglAnnotationMap name="Map View">
+        <bool displayed="true"/>
+        <bool inTree="true"/>
+        <uint titleLocation="9"/>
+        <bool logoDisplayed="true"/>
+        <uint compassLocation="6"/>
+        <uint scaleBarLocation="6"/>
+        <string scaleBarFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        <uint legendLocation="5"/>
+        <int legendOffsetX="20"/>
+        <int legendOffsetY="20"/>
+        <color legendBackground="16777215"/>
+        <string legendTitleFont="MS Shell Dlg 2,8.25,-1,5,75,0,0,0,0,0"/>
+        <string legendSubtitleFont="MS Shell Dlg 2,8.25,-1,5,75,0,0,0,0,0"/>
+        <string legendEntryFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        <bool wellNameName="true"/>
+        <bool wellSymbolAssigned="true"/>
+        <int wellPickWidth="1"/>
+        <int wellPickLength="5"/>
+        <int wellFaultWidth="1"/>
+        <int wellFaultLength="5"/>
+        <int wellUnconfWidth="1"/>
+        <int wellUnconfLength="5"/>
+        <int wellRiskWidth="1"/>
+        <int wellRiskLength="5"/>
+        <int wellLogCurveWidth="50"/>
+        <int wellCalibWidth="50"/>
+        <nglAnnotationAxis name="Right">
+          <bool displayed="true"/>
+          <int mode="4"/>
+          <string title="Grid"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <float majorStep="50000"/>
+          <int majorRate="5"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Left">
+          <bool displayed="true"/>
+          <bool titleDisplayed="true"/>
+          <string title="Y"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <float majorStep="50000"/>
+          <int majorRate="5"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Bottom">
+          <bool displayed="true"/>
+          <int mode="4"/>
+          <string title="Grid"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <float majorStep="100000"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Top">
+          <bool displayed="true"/>
+          <bool titleDisplayed="true"/>
+          <string title="X"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <float majorStep="100000"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+      </nglAnnotationMap>
+    </QGLMapRendererNode>
+    <QGL3dRendererNode name="3D View">
+      <bool displayed="true"/>
+      <int Width="1"/>
+      <int Height="1"/>
+      <color BackgroundColor="4294967295"/>
+      <color HighlightCColor="4294967040"/>
+      <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+      <string AnnotationTitle="3D View"/>
+      <string Title="RockEval"/>
+      <float Rotate="345"/>
+      <float DepthRatio="1"/>
+      <float Slope="15"/>
+      <float FOV="10"/>
+      <point FocusMinP="0 0 99999"/>
+      <point FocusMaxP="0 0 99999"/>
+      <point North="0 1 0"/>
+      <nglAnnotation3d name="3D View">
+        <bool displayed="true"/>
+        <bool inTree="true"/>
+        <uint titleLocation="9"/>
+        <bool logoDisplayed="true"/>
+        <uint compassLocation="6"/>
+        <string scaleBarFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        <uint legendLocation="5"/>
+        <int legendOffsetX="20"/>
+        <int legendOffsetY="20"/>
+        <color legendBackground="16777215"/>
+        <string legendTitleFont="MS Shell Dlg 2,8.25,-1,5,75,0,0,0,0,0"/>
+        <string legendSubtitleFont="MS Shell Dlg 2,8.25,-1,5,75,0,0,0,0,0"/>
+        <string legendEntryFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        <bool wellNameName="true"/>
+        <bool wellSymbolAssigned="true"/>
+        <int wellPickWidth="1"/>
+        <int wellPickLength="5"/>
+        <int wellFaultWidth="1"/>
+        <int wellFaultLength="5"/>
+        <int wellUnconfWidth="1"/>
+        <int wellUnconfLength="5"/>
+        <int wellRiskWidth="1"/>
+        <int wellRiskLength="5"/>
+        <int wellLogCurveWidth="50"/>
+        <int wellCalibWidth="50"/>
+        <nglAnnotationAxis name="Vertical">
+          <bool displayed="true"/>
+          <int mode="5"/>
+          <bool titleDisplayed="true"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <color titleColor="4286611584"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <color lineColor="4286611584"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <color labelColor="4286611584"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="3"/>
+          <color majorColor="4286611584"/>
+          <int minorWidth="1"/>
+          <int minorLength="1"/>
+          <color minorColor="4286611584"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Bottom">
+          <bool displayed="true"/>
+          <bool titleDisplayed="true"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <color titleColor="4286611584"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <color lineColor="4286611584"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <color labelColor="4286611584"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="3"/>
+          <color majorColor="4286611584"/>
+          <int minorWidth="1"/>
+          <int minorLength="1"/>
+          <color minorColor="4286611584"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Top">
+          <bool displayed="true"/>
+          <bool titleDisplayed="true"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <color titleColor="4286611584"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <color lineColor="4286611584"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <color labelColor="4286611584"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="3"/>
+          <color majorColor="4286611584"/>
+          <int minorWidth="1"/>
+          <int minorLength="1"/>
+          <color minorColor="4286611584"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+      </nglAnnotation3d>
+      <Node name="Plane East"/>
+      <Node name="Plane West"/>
+      <Node name="Plane Random2"/>
+      <Node name="Plane Random1"/>
+      <Node name="Plane North"/>
+      <Node name="Plane South"/>
+      <ClipNode name="ClipNode">
+        <point Any1Normal="0 0 1"/>
+        <point Any2Normal="0 0 -1"/>
+      </ClipNode>
+    </QGL3dRendererNode>
+    <QGLMapRendererNode name="Subset Dlg">
+      <bool displayed="true"/>
+      <int Width="1"/>
+      <int Height="1"/>
+      <color BackgroundColor="4294967295"/>
+      <color HighlightCColor="4294967040"/>
+      <string Font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+      <string AnnotationTitle="Map View"/>
+      <string Title="RockEval"/>
+      <int MarginLeft="80"/>
+      <int MarginRight="80"/>
+      <int MarginTop="50"/>
+      <int MarginBottom="50"/>
+      <int PropZoomLimit="1023"/>
+      <point FocusMinP="0 0 99999"/>
+      <point FocusMaxP="0 0 99999"/>
+      <point North="0 1 0"/>
+      <float Border="2"/>
+      <nglAnnotationMap name="Map View">
+        <bool displayed="true"/>
+        <bool inTree="true"/>
+        <uint titleLocation="9"/>
+        <bool logoDisplayed="true"/>
+        <uint compassLocation="6"/>
+        <uint scaleBarLocation="6"/>
+        <string scaleBarFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        <uint legendLocation="5"/>
+        <int legendOffsetX="20"/>
+        <int legendOffsetY="20"/>
+        <color legendBackground="16777215"/>
+        <string legendTitleFont="MS Shell Dlg 2,8.25,-1,5,75,0,0,0,0,0"/>
+        <string legendSubtitleFont="MS Shell Dlg 2,8.25,-1,5,75,0,0,0,0,0"/>
+        <string legendEntryFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+        <bool wellNameName="true"/>
+        <bool wellSymbolAssigned="true"/>
+        <int wellPickWidth="1"/>
+        <int wellPickLength="5"/>
+        <int wellFaultWidth="1"/>
+        <int wellFaultLength="5"/>
+        <int wellUnconfWidth="1"/>
+        <int wellUnconfLength="5"/>
+        <int wellRiskWidth="1"/>
+        <int wellRiskLength="5"/>
+        <int wellLogCurveWidth="50"/>
+        <int wellCalibWidth="50"/>
+        <nglAnnotationAxis name="Right">
+          <bool displayed="true"/>
+          <int mode="4"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Left">
+          <bool displayed="true"/>
+          <bool titleDisplayed="true"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Bottom">
+          <bool displayed="true"/>
+          <int mode="4"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+        <nglAnnotationAxis name="Top">
+          <bool displayed="true"/>
+          <bool titleDisplayed="true"/>
+          <bool titleDefault="true"/>
+          <string titleFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool lineDisplayed="true"/>
+          <int lineWidth="1"/>
+          <bool labelsDisplayed="true"/>
+          <string labelFont="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0"/>
+          <bool majorDisplayed="true"/>
+          <int majorWidth="1"/>
+          <int majorLength="5"/>
+          <bool minorDisplayed="true"/>
+          <int minorWidth="1"/>
+          <int minorLength="2"/>
+          <bool automatic="true"/>
+          <int majorRate="10"/>
+        </nglAnnotationAxis>
+      </nglAnnotationMap>
+    </QGLMapRendererNode>
+  </Node>
+</PetrowellsScope>

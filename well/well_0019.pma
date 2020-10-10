@@ -1,0 +1,24 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"MidFm_Mont",0.000000,-16777216,"ShallowMarine"
+	"Time_UMohn",30.000000,-16729016,"ShallowMarine"
+	"Bsmt",750.000000,-65536,"ShallowMarine"
+	"TD",751.000000,-16777216,"ShallowMarine"
+	"Time_Mohn",0.000000,-16723366,"ShallowMarine"
+	"LMU-Pick",0.000000,-65536,"Monterey"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+	"LMU",0.000000,-65536,"ShallowMarine"
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

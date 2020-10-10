@@ -1,0 +1,13 @@
+c
+c Lithology Compaction Curve Groups
+c
+Head   |  ID  | Assigned |                Name                |
+Key    |  ID  | Assigned |                Name                |
+Stop-----------------------------------------------------------
+Format | %3d  |   %1d    |                 %s                 |
+Flag   |  2   |    0     |                 2                  |
+c--------------------------------------------------------------
+Data   | 1001 |        0 | MechanicalCompactionDepth_Lith1082 |
+Data   | 1004 |        0 | Comp_Lith1055                      |
+Data   | 1003 |        0 | CompactionDepth_Lith1158           |
+Data   | 1002 |        0 | MechanicalCompactionDepth_Lith1134 |

@@ -1,0 +1,4 @@
+<!DOCTYPE nvcml>
+<Node name="Background Images">
+  <bool displayed="true"/>
+</Node>

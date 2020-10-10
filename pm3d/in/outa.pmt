@@ -1,0 +1,25 @@
+c
+c Output ages
+c
+Head   | Output Age | Compaction | Temperature | Petroleum  | HC Zones | Calibration | Source Rock | Adsorption  | Petroleum  | Saturations | Migration  |   Volumes &    | Geomechanics |
+Head   |            |   Class    |    Class    | Potentials |          | Parameters  | Properties  | & Expulsion | Properties |  & Masses   | Properties | Concentrations |  (Stresses)  |
+Key    | OutputAge  | Compaction | Temperature | Petroleum  | HCZones  | Calibration |   Source    | Adsorption  | PetrolPro  | Saturations | Migration  |    Volumes     | Geomechanics |
+Stop--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Format |   %6.4f    |    %3d     |     %3d     |    %3d     |   %3d    |     %3d     |     %3d     |     %3d     |    %3d     |     %3d     |    %3d     |      %3d       |     %3d      |
+Flag   |     0      |     0      |      0      |     0      |    0     |      0      |      0      |      0      |     0      |      0      |     0      |       0        |      0       |
+c-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data   |    28.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    25.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    21.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    20.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    19.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    18.3500 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    17.5000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    17.2400 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    15.1400 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |    14.9000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |     7.3000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |     5.3000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |     2.6000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |     1.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |
+Data   |     0.0000 |          1 |           1 |          1 |        1 |           1 |           1 |           1 |          1 |           1 |          1 |              1 |            1 |

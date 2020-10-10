@@ -1,0 +1,22 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"MidFm_Mont",0.000000,-16777216,"ShallowMarine"
+	"Time_Luis",924.000000,-41168,"ShallowMarine"
+	"Time_Sauc",1753.000000,-7204319,"ShallowMarine"
+	"Bsmt",2406.000000,-65536,"ShallowMarine"
+	"TD",2457.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

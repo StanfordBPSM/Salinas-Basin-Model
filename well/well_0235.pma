@@ -1,0 +1,21 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Time_Luis",152.000000,-41168,"ShallowMarine"
+	"Time_Reliz",460.000000,-8052288,"ShallowMarine"
+	"Mont_BasalSs",1036.000000,-16711936,"ShallowMarine"
+	"TD",1666.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

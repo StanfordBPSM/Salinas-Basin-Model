@@ -1,0 +1,12 @@
+c
+c Physical Unit Groups
+c
+Head   | ID  |  Group   | Display Unit | Import/Export |
+Key    | ID  |   Name   |    IDDef     |    IDData     |
+Stop----------------------------------------------------
+Format | %3d |    %s    |     %3d      |      %3d      |
+Flag   |  0  |    0     |      0       |       0       |
+c-------------------------------------------------------
+Data   |   2 | Depth    |           12 |            12 |
+Data   |  32 | Distance |           15 |            15 |
+Data   |  13 | Mass     |           70 |            72 |

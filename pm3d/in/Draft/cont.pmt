@@ -1,0 +1,10 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |                   Name                   |
+Key    |  ID  | Level |                NameInTree                |
+Stop--------------------------------------------------------------
+Format | %4d  |  %2d  |                    %s                    |
+Flag   |  0   |   0   |                    0                     |
+c-----------------------------------------------------------------
+Data   |    5 |     1 | Ca_Oil_Fields-SALINAS_Projec_ROTMay21-13 |

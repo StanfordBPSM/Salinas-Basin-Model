@@ -1,0 +1,11 @@
+c
+c Automatic Sediment Water Interface Temperature
+c
+Head   |   Present Day    | Hemisphere | Latitude |  On/Off   |
+Head   | Continental Zone |            |          |           |
+Key    |    ContiZone     | Hemisphere | Latitude | OnOffFlag |
+Stop-----------------------------------------------------------
+Format |       %3d        |    %3d     |   %3d    |    %3d    |
+Flag   |        0         |     0      |    0     |     0     |
+c--------------------------------------------------------------
+Data   |                5 |          0 |       35 |         1 |

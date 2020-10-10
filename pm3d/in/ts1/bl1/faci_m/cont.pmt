@@ -1,0 +1,37 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |                Name                 |
+Key    |  ID  | Level |             NameInTree              |
+Stop---------------------------------------------------------
+Format | %4d  |  %2d  |                 %s                  |
+Flag   |  0   |   0   |                  0                  |
+c------------------------------------------------------------
+Data   |    1 |     1 | Map_09_SURF_Facies_1                |
+Data   |    2 |     1 | Map_08_PARIC_Facies_1               |
+Data   |    3 |     1 | Map_07_MONT_Facies_1                |
+Data   |  606 |     1 | Map_07_MONT-SAMG_Facies_1           |
+Data   |  603 |     1 | Map_07_MONT-SAMG_Facies_2           |
+Data   |  601 |     1 | Map_07_MONT-SAMG_Facies_3           |
+Data   |    4 |     1 | Map_06_MOHN_Facies_1                |
+Data   | 4887 |     1 | Map_06_MOHNabvSeal_Facies_1         |
+Data   |    5 |     1 | Map_06_MOHN-LOSEAL_Facies_1         |
+Data   | 1328 |     1 | Map_06_MOHNUPSEAL_Facies_1          |
+Data   |    6 |     1 | Map_06b_MOHNOIL_Facies_1            |
+Data   |  406 |     1 | Map_06b_MOHNOIL-FIELDS_Facies_1     |
+Data   |    7 |     1 | Map_05_LUIS_Facies_1                |
+Data   |  721 |     1 | Map_05_LUIS_Facies_SRHames          |
+Data   |  726 |     1 | Map_05_LUIS_Facies_SRSdht           |
+Data   |  723 |     1 | Map_05_LUIS_Facies_1_2              |
+Data   |    8 |     1 | Map_05_LUIS-SEAL_Facies_1           |
+Data   |  715 |     1 | Map_05_LUIS-SEAL_Facies_SRSdht      |
+Data   |    9 |     1 | Map_05b_LUISOIL_Facies_1            |
+Data   |  409 |     1 | Map_05b_LUISOIL-FIELD_Facies_1      |
+Data   |  709 |     1 | Map_05b_LUISOIL-FIELD_Facies_SRSdht |
+Data   |  231 |     1 | Map_05b_CARRIER_Facies_1            |
+Data   |   10 |     1 | Map_04_RELIZ_Facies_1               |
+Data   | 1083 |     1 | Map_04_RELIZ_Facies_wNonSR          |
+Data   |   11 |     1 | Map_03_SAUC_Facies_1                |
+Data   |   12 |     1 | Map_02_VAQ_Facies_1                 |
+Data   |  145 |     1 | Map_01_BSMT_Facies_1                |
+Data   |  955 |     1 | Map_01_BSMT_Facies_1_Split_1        |

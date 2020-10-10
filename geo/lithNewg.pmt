@@ -1,0 +1,36 @@
+c
+c Lithology Groups
+c
+Head   | No  | GID |         Name         | Flag |
+Key    | ID  | GID |         Name         | Flag |
+Stop----------------------------------------------
+Format | %d  | %d  |          %s          |  %d  |
+Flag   |  2  |  0  |          2           |  0   |
+c-------------------------------------------------
+Data   | 109 |  52 | OpalCT               |    1 |
+Data   | 107 |  52 | FracturedChert       |    1 |
+Data   | 110 |  52 | MontereyShale        |    1 |
+Data   | 108 |  52 | SourceRock           |    1 |
+Data   | 102 |  52 | Tornado              |    1 |
+Data   | 103 |  52 | Models_I-IV          |    1 |
+Data   | 104 |  52 | Models_I-IV_lowRad   |    1 |
+Data   | 111 |  52 | Vaqueros             |    1 |
+Data   | 130 |  56 | SalinasSynth2013     |    1 |
+Data   | 123 |  55 | OpalCT_1             |    1 |
+Data   | 124 |  55 | FracturedChert_1     |    1 |
+Data   | 125 |  55 | MontereyShale_1      |    1 |
+Data   | 126 |  55 | SourceRock_1         |    1 |
+Data   | 127 |  55 | Tornado_2            |    1 |
+Data   | 128 |  55 | Models_I-IV_2        |    1 |
+Data   | 129 |  55 | Models_I-IV_lowRad_2 |    1 |
+Data   | 118 |  54 | NewSalinas_1         |    1 |
+Data   | 119 |  54 | Salinas_1            |    1 |
+Data   | 120 |  54 | Tornado_1            |    1 |
+Data   | 121 |  54 | Models_I-IV_1        |    1 |
+Data   | 122 |  54 | Models_I-IV_lowRad_1 |    1 |
+Data   | 112 |  53 | NewSalinas           |    1 |
+Data   | 113 |  53 | Salinas              |    1 |
+Data   | 114 |  53 | Tornado_3            |    1 |
+Data   | 115 |  53 | Models_I-IV_3        |    1 |
+Data   | 116 |  53 | Models_I-IV_lowRad_3 |    1 |
+Data   | 117 |  53 | 2013                 |    1 |

@@ -1,0 +1,10 @@
+c
+c AOI and Grid Data
+c
+Head   | Aoi Map ID | Heatflow Calibration Aoi Map ID | Grid Color | Top Depth | Base Depth |
+Key    |  AoiMapId  |          HfCalAoiMapId          | GridColor  | TopDepth  | BaseDepth  |
+Stop-----------------------------------------------------------------------------------------
+Format |    %4d     |               %4d               |    %4d     |   %6.2f   |   %6.2f    |
+Flag   |     0      |                0                |     0      |     0     |     0      |
+c--------------------------------------------------------------------------------------------
+Data   |         -1 |                              -1 |   -7237231 |      0.00 |    5000.00 |

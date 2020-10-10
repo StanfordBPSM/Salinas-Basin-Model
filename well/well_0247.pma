@@ -1,0 +1,22 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Time_Plio",357.000000,-23296,"ShallowMarine"
+	"Etch",357.000000,-23296,"ShallowMarine"
+	"Time_Mio",738.000000,-16730369,"ShallowMarine"
+	"Time_Mohn",738.000000,-16723366,"ShallowMarine"
+	"TD",967.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

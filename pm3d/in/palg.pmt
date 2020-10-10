@@ -1,0 +1,11 @@
+c
+c Water Depth / Paleo Depth
+c
+Head   | Age from | Reference | Layer | Mode |  Depth   | Depth map |
+Key    | AgeFrom  | Reference | Layer | Mode |  Value   |    Map    |
+Stop-----------------------------------------------------------------
+Format |  %6.4f   |    %d     |  %d   |  %d  |  %6.4f   |    %d     |
+Flag   |    0     |     0     |   0   |  0   |    0     |     0     |
+c--------------------------------------------------------------------
+Data   |  19.0000 |         0 |    -1 |    0 | 300.0000 |        -1 |
+Data   |  22.0000 |         0 |    -1 |    0 |   0.0000 |        -1 |

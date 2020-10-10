@@ -1,0 +1,14 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |            Name             |
+Key    |  ID  | Level |         NameInTree          |
+Stop-------------------------------------------------
+Format | %4d  |  %2d  |             %s              |
+Flag   |  0   |   0   |              0              |
+c----------------------------------------------------
+Data   |    1 |     1 | ROT55_HI_Map_MER-TEC        |
+Data   |    8 |     1 | 2-6Ma_ROT55_HI_Map_MER-TEC  |
+Data   |    7 |     1 | 5-3Ma_ROT55_HI_Map_MER-TEC  |
+Data   |    6 |     1 | 7-3Ma_ROT55_HI_Map_MER-TEC  |
+Data   |    5 |     1 | 14-9Ma_ROT55_HI_Map_MER-TEC |

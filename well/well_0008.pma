@@ -1,0 +1,31 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+	130 {
+		1826.000000,398.000000,99999.000000,99999.000000,99999.000000,-16711936,5,8,1,0,"none"
+	}
+	1704 {
+		1826.000000,0.004000,99999.000000,99999.000000,99999.000000,-16740316,5,8,1,0,"Calc w/ Jarvie eqn"
+	}
+}
+PICKS {
+	"MidFm_PaRob",0.000000,-16777216,"ShallowMarine"
+	"PaRic",424.000000,-23296,"ShallowMarine"
+	"Mont",640.000000,-16777088,"ShallowMarine"
+	"Time_UMohn",762.000000,-16729016,"ShallowMarine"
+	"Time_Luis",1119.000000,-41168,"ShallowMarine"
+	"Sdht",1286.000000,-11776948,"ShallowMarine"
+	"Bsmt",1847.000000,-65536,"ShallowMarine"
+	"TD",1888.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

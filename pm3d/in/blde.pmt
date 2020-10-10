@@ -1,0 +1,10 @@
+c
+c Block Definition
+c
+Head   | ID  |  Name  |   Color   | Parent Block | Block Order | Base Layer |
+Key    | ID  |  Name  |   Color   |    Block     |    Order    | BaseLayer  |
+Stop-------------------------------------------------------------------------
+Format | %3d |   %s   |    %3d    |      %d      |     %3d     |    %3d     |
+Flag   |  3  |   0    |     0     |      0       |      0      |     0      |
+c----------------------------------------------------------------------------
+Data   |   1 | BLOCK1 | -16711936 |           -1 |           1 |         -1 |

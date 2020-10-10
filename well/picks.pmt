@@ -1,0 +1,70 @@
+c
+c Global Well Picks
+c
+Head   | ID |      Pick Name      |              Full Name               |   Rock Unit    |  Top Age   |   Color   |
+Key    | ID |        Name         |               FullName               |    RockUnit    |   Order    |   Color   |
+Stop----------------------------------------------------------------------------------------------------------------
+Format | %d |         %s          |                  %s                  |       %s       |   %6.4f    |    %3d    |
+Flag   | 2  |          0          |                  0                   |       0        |     0      |     0     |
+c-------------------------------------------------------------------------------------------------------------------
+Data   |  1 | PaRob               | Paso Robles                          | Fluvial        |     1.0000 |    -45280 |
+Data   | 35 | Etch                | Etchegoin                            | ShallowMarine  |     2.0000 |    -23296 |
+Data   |  2 | PaRic               | Pancho Rico                          | ShallowMarine  |     3.0000 |    -23296 |
+Data   |  3 | SaMg                | Santa Margarita                      | ShallowMarine  |     5.2000 |      -256 |
+Data   | 11 | Mont                | Monterey                             | Monterey       |            | -16777088 |
+Data   |  4 | But                 | Buttle                               | Diatomite      |     5.2000 |  -8052288 |
+Data   |  5 | OCT                 | Opal-CT                              | Porcellanite   |     8.0000 |  -8052288 |
+Data   | 34 | CHERT               | Chert-Hames                          | MontChert      |     8.0000 |  -8052288 |
+Data   |  6 | Ham                 | Hames                                | MontChert      |     8.0000 |  -8052288 |
+Data   |  7 | Sdht                | Sandholdt                            | CalcMont       |    15.0000 | -11776948 |
+Data   |  8 | SdhtSR              | SandholdtSR                          | CalcMontSR     |    15.0000 | -16777021 |
+Data   | 40 | Mont_BasalSs        | Monterey Basal Sandstone             | Turbidite?     |            | -16711936 |
+Data   |  9 | Vaq                 | Vaqueros                             | ShallowMarine  |    17.0000 |  -2968436 |
+Data   | 39 | SodaLake            | Soda Lake                            |                |            |  -3891340 |
+Data   | 37 | PaintedRocks        | Painted Rocks                        |                | 99999.0000 |  -4437968 |
+Data   | 12 | Nn-Mar              | Non-marine                           | Terrestrial    |            |  -4437968 |
+Data   | 10 | Bsmt                | Basement                             | Granodiorite   |    85.0000 |    -65536 |
+Data   | 13 | Bsmt-schist         | Basement-schist                      | Schist         |    85.0000 |  -8052288 |
+Data   | 14 | TD                  | TD                                   | Varied         |            | -16777216 |
+Data   | 15 | TD_Mont             | TD-Monterey                          | Monterey       |            | -16730369 |
+Data   | 16 | TD_TimeMohn-Luis    | TD-Monterey                          | Monterey       |            | -16730369 |
+Data   | 33 | TD_Sdht             | TD-Sandholdt                         | Monterey       |            | -11776948 |
+Data   | 17 | TD_Vaq              | TD-Vaqueros                          | ShallowMarine  |            |  -2968436 |
+Data   | 38 | TD_PaintedRocks     | TD-Painted Rocks                     |                |            |  -4437968 |
+Data   | 18 | TD_NnMar            | TD-Non-marine                        | Terrestrial    |            |  -4437968 |
+Data   | 19 | MidFm_PaRob         | Mid Paso Robles                      | Fluvial        |     1.0000 | -16777216 |
+Data   | 20 | MidFm_PaRic         | Mid Pancho Rico                      | ShallowMarine  |     3.0000 | -16777216 |
+Data   | 36 | MidFm_SaMg          | Mid Santa Margarita                  | Shallow Marine |     5.2000 | -16777216 |
+Data   | 21 | MidFm_Mont          | Mid Monterey                         | Monterey       |            | -16777216 |
+Data   | 32 | MidFm_Sdht          | Mid Sandholdt                        | Monterey       |            | -11776948 |
+Data   | 22 | Time_Plio           | Time Pancho Rico                     | ShallowMarine  | 99999.0000 |    -23296 |
+Data   | 23 | Time_Mio            | Time Monterey                        | Monterey       |            | -16730369 |
+Data   | 24 | Time_Del            | Time Monterey                        | Monterey       |            |    -56579 |
+Data   | 25 | Time_Mohn           | Time Monterey                        | Monterey       |            | -16723366 |
+Data   | 26 | Time_UMohn          | Time Monterey                        | Monterey       |            | -16729016 |
+Data   | 27 | Time_LMohn          | Time Monterey                        | Monterey       |            |    -30215 |
+Data   | 28 | Time_Mohn-Luis      | Time Monterey                        | Monterey       |            | -16730369 |
+Data   | 43 | Time_MMio           | Time Monterey                        | Monterey       |            |    -41168 |
+Data   | 29 | Time_Luis           | Time Monterey                        | Monterey       |            |    -41168 |
+Data   | 30 | Time_Reliz          | Time Monterey                        | Monterey       |            |  -8052288 |
+Data   | 44 | Time_Reliz_blwFault | Time Monterey                        | Monterey       |            | -16730369 |
+Data   | 31 | Time_Sauc           | Time Monterey                        | Monterey       |            |  -7204319 |
+Data   | 41 | Time_Olig           | Time Vaqueros                        | Vaqueros       |            |      -256 |
+Data   | 45 | Time_Luis_blwFault  | Time Monterey                        | Monterey       |            |    -41168 |
+Data   | 46 | Time_Mohn_blwFault  | Time Monterey                        | Monterey       |            | -16729016 |
+Data   | 47 | TD_K                | TD-Cretaceous                        | Cretaceous     |            | -16740316 |
+Data   | 48 | Time_K              | Time_Cretaceous                      | Cretaceous     |            | -16740316 |
+Data   | 49 | Time_Eoc            | Time_Eocene                          | Eocene         |            |  -4108851 |
+Data   | 50 | MidFm_NnMar         | Mid Non-marine                       | Terrestrial    |            |  -4437968 |
+Data   | 51 | TheRocks            | The Rocks                            | Eocene         |            |  -4108851 |
+Data   | 52 | LuciaShale          | Lucia Shale                          | Eocene         |            |  -4108851 |
+Data   | 53 | ThorupSs            | Thorup Ss in Monterey Fm             | Monterey       |            |      -256 |
+Data   | 54 | SanArdoSs           | Lombardi Aurignac etc in Monterey Fm | Monterey       |            |      -256 |
+Data   | 55 | Time_Pc             | Time Paleocene                       | Paleocene      |            |    -45280 |
+Data   | 56 | Time_Pleis          | Time Pleistocene                     | Paso Robles    |            |  -5103070 |
+Data   | 57 | Lomb_Aurig          | Lomb_Aurig                           | none           |     0.0000 | -16777216 |
+Data   | 58 | Fault_2             | Fault_2                              | none           |     0.0000 |    -65536 |
+Data   | 59 | Fault_3             | Fault_3                              | none           |     0.0000 |    -65536 |
+Data   | 60 | LLT                 | LLT                                  | ShallowMarine  |     0.0000 | -16711936 |
+Data   | 61 | Fault_4             | Fault_4                              | none           |     0.0000 |    -65536 |
+Data   | 62 | LMU-Pick            | Late Miocene Unconformity            | Monterey       |     5.2000 |    -65536 |

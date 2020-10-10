@@ -1,0 +1,13 @@
+c
+c Global Well Faults
+c
+Head   | ID |  Fault Name   |                Full Name                | Rock Unit | Top Age |   Color   |
+Key    | ID |     Name      |                FullName                 | RockUnit  |  Order  |   Color   |
+Stop-----------------------------------------------------------------------------------------------------
+Format | %d |      %s       |                   %s                    |    %s     |  %6.4f  |    %3d    |
+Flag   | 2  |       0       |                    0                    |     0     |    0    |     0     |
+c--------------------------------------------------------------------------------------------------------
+Data   |  1 | RRF           | Reliz-Rinconada Fault                   |           |         |    -65281 |
+Data   |  2 | LLT           | Los Lobos Thrust                        |           |         | -16711936 |
+Data   |  3 | Fault-misc    | Miscellaneous fault - may not correlate |           |         |  -5098545 |
+Data   |  4 | HV-1-35_FAULT | HV-1-35_FAULT                           | none      |  0.0000 | -16777216 |

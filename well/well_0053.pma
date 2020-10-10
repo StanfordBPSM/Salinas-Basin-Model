@@ -1,0 +1,32 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"MidFm_PaRob",0.000000,-16777216,"ShallowMarine"
+	"PaRic",927.000000,-23296,"ShallowMarine"
+	"Time_Plio",1106.000000,-23296,"ShallowMarine"
+	"SaMg",1314.000000,-256,"ShallowMarine"
+	"Mont",1850.000000,-16777088,"ShallowMarine"
+	"Time_Mohn",1981.000000,-16723366,"ShallowMarine"
+	"Time_LMohn",2042.000000,-30215,"ShallowMarine"
+	"Time_Luis",2088.000000,-41168,"ShallowMarine"
+	"Sdht",2225.000000,-11776948,"ShallowMarine"
+	"Bsmt",2304.000000,-65536,"ShallowMarine"
+	"TD",2344.000000,-16777216,"ShallowMarine"
+	"Time_Mio",1314.000000,-16730369,"ShallowMarine"
+	"Time_Sauc",2103.000000,-7204319,"ShallowMarine"
+	"Time_Olig",2277.000000,-256,"ShallowMarine"
+	"SodaLake",2277.000000,-3891340,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

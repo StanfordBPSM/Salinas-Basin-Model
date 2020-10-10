@@ -1,0 +1,12 @@
+c
+c Global Coordinates
+c
+Head   | ID  | Rotation |  Rotation  | Rotation  |   Scale   |   Scale   |   Shot    |   Trace   | Common Depth |
+Head   |     |  Angle   |  Origin X  | Origin Y  |     X     |     Y     |   Point   |           |    Point     |
+Key    | ID  |  Angle   |  OriginX   |  OriginY  |  ScaleX   |  ScaleY   | ShotPoint |   Trace   |     CDP      |
+Stop-------------------------------------------------------------------------------------------------------------
+Format | %3d |  %6.2f   |   %6.2f    |   %6.2f   |   %9.2f   |   %9.2f   |   %9.2f   |   %9.2f   |    %9.2f     |
+Flag   |  1  |    0     |     0      |     0     |     0     |     0     |     0     |     0     |      0       |
+c----------------------------------------------------------------------------------------------------------------
+Data   |   1 |     0.00 | 1761000.00 | 542500.00 |      1.00 |      1.00 |      0.00 |      0.00 |         0.00 |
+Data   |   1 |     0.00 | 1761000.00 | 542500.00 |      1.00 |      1.00 |      0.00 |      0.00 |         0.00 |

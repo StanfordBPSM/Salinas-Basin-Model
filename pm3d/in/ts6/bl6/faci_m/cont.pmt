@@ -1,0 +1,29 @@
+c
+c Standard Content
+c
+Head   |  ID  | Level |                 Name                  |
+Key    |  ID  | Level |              NameInTree               |
+Stop-----------------------------------------------------------
+Format | %4d  |  %2d  |                  %s                   |
+Flag   |  0   |   0   |                   0                   |
+c--------------------------------------------------------------
+Data   | 4182 |     1 | Map_09_SURF_Facies_1_1                |
+Data   | 4183 |     1 | Map_08_PARIC_Facies_1_1               |
+Data   | 4184 |     1 | Map_07_MONT_Facies_1_1                |
+Data   | 4185 |     1 | Map_07_MONT-SAMG_Facies_3_1           |
+Data   | 4186 |     1 | Map_07_MONT-SAMG_Facies_2_1           |
+Data   | 4187 |     1 | Map_07_MONT-SAMG_Facies_1_1           |
+Data   | 4188 |     1 | Map_06_MOHN_Facies_1_1                |
+Data   | 4189 |     1 | Map_06_MOHNUPSEAL_Facies_1            |
+Data   | 5091 |     1 | Map_06_MOHNabvSeal_Facies_1           |
+Data   | 4190 |     1 | Map_06_MOHN-LOSEAL_Facies_1           |
+Data   | 4191 |     1 | Map_06b_MOHNOIL-FIELDS_Facies_1_1     |
+Data   | 4192 |     1 | Map_05_LUIS_Facies_SRSdht_1           |
+Data   | 4193 |     1 | Map_05_LUIS_Facies_SRHames_1          |
+Data   | 4194 |     1 | Map_05_LUIS-SEAL_Facies_SRSdht_1      |
+Data   | 4195 |     1 | Map_05b_LUISOIL-FIELD_Facies_SRSdht_1 |
+Data   | 4196 |     1 | Map_04_RELIZ_Facies_1_1               |
+Data   | 4197 |     1 | Map_03_SAUC_Facies_1_1                |
+Data   | 4198 |     1 | Map_02_VAQ_Facies_1_1                 |
+Data   | 4199 |     1 | Map_01_BSMT_Facies_1_Split_1_1        |
+Data   | 4200 |     1 | Map_01_BSMT_Facies_1_1                |

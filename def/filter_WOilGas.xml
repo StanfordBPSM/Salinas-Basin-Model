@@ -1,0 +1,50 @@
+<!DOCTYPE nvcml>
+<ConjunctionFilterManager name="Filter 1 (unapplied)">
+  <bool displayed="true"/>
+  <string BaseNameProp="Filter 1"/>
+  <DepthFilterNode name="DepthFilterNode">
+    <bool displayed="true"/>
+    <PolygonFilterNode name="PolygonFilterNode">
+      <bool displayed="true"/>
+      <FPAttributeFilterNode name="AttributeFilterNode">
+        <bool displayed="true"/>
+        <bool FilterActiveProp="true"/>
+        <int AttributeIdProp="3114"/>
+        <int ComparisonIdProp="4"/>
+        <int IntValueProp="-1"/>
+        <int PhaseIdProp="0"/>
+        <int ConditionIdProp="0"/>
+        <AttributeFilterNode name="AttributeFilterNode">
+          <bool displayed="true"/>
+          <bool FilterActiveProp="true"/>
+          <int AttributeIdProp="3115"/>
+          <int ComparisonIdProp="4"/>
+          <int IntValueProp="-1"/>
+          <int PhaseIdProp="0"/>
+          <int ConditionIdProp="0"/>
+          <AttributeFilterNode name="AttributeFilterNode">
+            <bool displayed="true"/>
+            <bool FilterActiveProp="true"/>
+            <int AttributeIdProp="3114"/>
+            <int ComparisonIdProp="4"/>
+            <int IntValueProp="-1"/>
+            <int PhaseIdProp="1"/>
+            <int ConditionIdProp="0"/>
+            <AttributeFilterNode name="AttributeFilterNode">
+              <bool displayed="true"/>
+              <bool FilterActiveProp="true"/>
+              <int AttributeIdProp="3115"/>
+              <int ComparisonIdProp="4"/>
+              <int IntValueProp="-1"/>
+              <int PhaseIdProp="1"/>
+              <int ConditionIdProp="0"/>
+            </AttributeFilterNode>
+          </AttributeFilterNode>
+        </AttributeFilterNode>
+      </FPAttributeFilterNode>
+      <lines name="PolygonBranch">
+        <bool displayed="true"/>
+      </lines>
+    </PolygonFilterNode>
+  </DepthFilterNode>
+</ConjunctionFilterManager>

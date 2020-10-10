@@ -1,0 +1,20 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"Time_Luis",853.000000,-41168,"ShallowMarine"
+	"Time_Sauc",2266.000000,-7204319,"ShallowMarine"
+	"TD",2640.000000,-16777216,"ShallowMarine"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}

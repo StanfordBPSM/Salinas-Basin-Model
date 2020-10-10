@@ -1,0 +1,22 @@
+c
+c Petro Charge Layer
+c
+Head   | Layer | Carrier |  Downward  | Downward  |
+Head   |       |         | Expulsion  | Expulsion |
+Key    | Layer | Carrier | DownExpFac | DownExpYN |
+Stop-----------------------------------------------
+Format |  %d   |   %d    |   %6.4f    |    %d     |
+Flag   |   0   |    0    |     0      |     0     |
+c--------------------------------------------------
+Data   |     9 |       1 |     0.0000 |        -1 |
+Data   |     9 |       1 |     0.0000 |        -1 |
+Data   |     9 |       1 |     0.0000 |        -1 |
+Data   |     9 |       1 |     0.0000 |        -1 |
+Data   |     9 |       1 |     0.0000 |        -1 |
+Data   |     9 |       1 |     0.0000 |        -1 |
+Data   |     6 |       1 |     0.0000 |        -1 |
+Data   |     6 |       1 |     0.0000 |        -1 |
+Data   |     6 |       1 |     0.0000 |        -1 |
+Data   |     6 |       1 |     0.0000 |        -1 |
+Data   |     6 |       1 |     0.0000 |        -1 |
+Data   |     6 |       1 |     0.0000 |        -1 |

@@ -1,0 +1,29 @@
+NEW_DEVIATION {
+}
+OVERLAYS {
+}
+PICKS {
+	"MidFm_PaRob",0.000000,-16777216,"ShallowMarine"
+	"PaRic",296.000000,-23296,"ShallowMarine"
+	"SaMg",475.000000,-256,"ShallowMarine"
+	"Mont",506.000000,-16777088,"ShallowMarine"
+	"Sdht",677.000000,-11776948,"ShallowMarine"
+	"Bsmt",725.000000,-65536,"ShallowMarine"
+	"TD",728.000000,-16777216,"ShallowMarine"
+	"Time_Plio",158.000000,-23296,"ShallowMarine"
+	"Time_Mio",472.000000,-16730369,"ShallowMarine"
+	"Time_Mohn",507.000000,-16723366,"ShallowMarine"
+	"LMU-Pick",475.000000,-65536,"Monterey"
+}
+FAULTS {
+}
+UNCONFORMITIES {
+	"LMU",475.000000,-65536,"ShallowMarine"
+}
+RISKS {
+}
+CURVES {
+}
+ROCKEVAL {
+	0
+}
